@@ -21,13 +21,13 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/disable-indexing-xcode.html">Disable indexing Xcode</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">Regular Expression to find a string included between two characters while EXCLUDING the delimiters</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:38.865959+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:30:01.049145+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:38.865959+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -35,16 +35,28 @@
                 By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/indexing.html">indexing</a> <a href="https://www.ayavn.us/tag/xcode.html">xcode</a> </p>
-</footer><!-- /.post-info --><h1>Disable indexing Xcode</h1>
-<p>Stopping xcode from indexing
-Just run this command in the terminal to turn off Indexing:</p>
-<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">1</span>
+<p>tags: <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-between-two-characters.html">regex-between-two-characters</a> </p>
+</footer><!-- /.post-info --><p>Easy done:</p>
+<div class="highlight"><pre><span></span><code>(?&lt;=\[)(.*?)(?=\])
 </code></pre></div>
 
-<p>To turn it back on, run this:</p>
-<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">0</span>
-</code></pre></div>                </article>
+<p>Technically that's using lookaheads and lookbehinds. See Lookahead and Lookbehind Zero-Width Assertions. The pattern consists of:</p>
+<ul>
+<li>is preceded by a [ that is not captured (lookbehind);</li>
+<li>a non-greedy captured group. It's non-greedy to stop at the first ]; and</li>
+<li>is followed by a ] that is not captured (lookahead).</li>
+</ul>
+<p>Alternatively you can just capture what's between the square brackets:</p>
+<div class="highlight"><pre><span></span><code>\[(.*?)\]
+</code></pre></div>
+
+<p>and return the first captured group instead of the entire match.</p>
+<p>Example for <b>Dart language</b></p>
+<div class="highlight"><pre><span></span><code>RegExp(r&#39;@&lt;.*?&gt;&#39;) 
+</code></pre></div>
+
+<p>Ref: 
+ - <a href="https://www.regular-expressions.info/lookaround.html">Regex tutorial</a></p>                </article>
             </aside><!-- /#featured -->
                 <section id="content" class="body">
                     <h1>Other articles</h1>
@@ -53,17 +65,17 @@ Just run this command in the terminal to turn off Indexing:</p>
 
             <li><article class="hentry">
                 <header>
-                    <h1><a href="https://www.ayavn.us/flutter-performance-tips.html" rel="bookmark"
-                           title="Permalink to Flutter performance tips">Flutter performance tips</a></h1>
+                    <h1><a href="https://www.ayavn.us/regex-detect-urls-in-string.html" rel="bookmark"
+                           title="Permalink to (Regex) Detect urls in string">(Regex) Detect urls in string</a></h1>
                 </header>
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:35.012555+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:29:40.990098+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:35.012555+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -71,52 +83,11 @@ Just run this command in the terminal to turn off Indexing:</p>
                 By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/flutter-tips.html">flutter-tips</a> <a href="https://www.ayavn.us/tag/performance.html">performance</a> </p>
-</footer><!-- /.post-info -->                <div class="highlight"><pre><span></span><code><span class="o">-</span><span class="w"> </span><span class="n">Don’t</span><span class="w"> </span><span class="n">split</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">into</span><span class="w"> </span><span class="n">methods</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="n">rebuilding</span><span class="w"> </span><span class="k">all</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="n">repetitively</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n">const</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">where</span><span class="w"> </span><span class="n">possible</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n n-Quoted">`itemExtent`</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">ListView</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">Lists</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="n">rebuilding</span><span class="w"> </span><span class="n">unnecessary</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="n">inside</span><span class="w"> </span><span class="n">AnimatedBuilder</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="k">using</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">Opacity</span><span class="w"> </span><span class="n">particularly</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">an</span><span class="w"> </span><span class="n">animation</span><span class="w"></span>
-<span class="o">-</span><span class="w"> </span><span class="k">Reuse</span><span class="w"> </span><span class="k">Data</span><span class="w"> </span><span class="k">Using</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">Singleton</span><span class="w"> </span><span class="n">Design</span><span class="w"> </span><span class="n">Pattern</span><span class="p">.</span><span class="w"></span>
+<p>tags: <a href="https://www.ayavn.us/tag/dart.html">dart</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> <a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> </p>
+</footer><!-- /.post-info -->                <p>Easy done:</p>
+<div class="highlight"><pre><span></span><code>(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])
 </code></pre></div>
-
-<h2>Follow the original posts …</h2>
-                <a class="readmore" href="https://www.ayavn.us/flutter-performance-tips.html">read more</a>
-                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/group-objects-by-property.html" rel="bookmark"
-                           title="Permalink to Group objects by property">Group objects by property</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-05-18T10:29:23.688841+07:00">
-                Updated: Wed 18 May 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/swift-tips.html">swift-tips</a> <a href="https://www.ayavn.us/tag/objects.html">objects</a> <a href="https://www.ayavn.us/tag/sequence.html">sequence</a> </p>
-</footer><!-- /.post-info -->                <p>One more useful extension Gives you opportunity to group objects by property 👨‍</p>
-<div class="highlight"><pre><span></span><code><span class="kd">extension</span> <span class="nc">Sequence</span> <span class="p">{</span>
-    <span class="kd">func</span> <span class="nf">group</span><span class="p">&lt;</span><span class="n">GroupingType</span><span class="p">:</span> <span class="nb">Hashable</span><span class="p">&gt;(</span><span class="n">by</span> <span class="n">key</span><span class="p">:</span> <span class="p">(</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">)</span> <span class="p">-&gt;</span> <span class="n">GroupingType</span><span class="p">)</span> <span class="p">-&gt;</span> <span class="p">[[</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">]]</span> <span class="p">{</span>
-        <span class="kd">var</span> <span class="nv">groups</span><span class="p">:</span> <span class="p">[</span><span class="n">GroupingType</span><span class="p">:</span> <span class="p">[</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">]]</span> <span class="p">=</span> <span class="p">[:]</span>
-        <span class="kd">var</span> <span class="nv">groupsOrder</span><span class="p">:</span> <span class="p">[</span><span class="n">GroupingType</span><span class="p">]</span> <span class="p">=</span> <span class="p">[]</span>
-        <span class="n">forEach</span> <span class="p">{</span> <span class="n">element</span> <span class="k">in</span>
-            <span class="kd">let</span> <span class="nv">key</span> <span class="p">=</span> <span class="n">key</span><span class="p">(</span><span class="n">element</span><span class="p">)</span>
-            <span class="k">if</span> <span class="k">case</span> <span class="kc">nil</span> <span class="p">=</span> <span class="n">groups</span><span class="p">[</span><span class="n">key</span><span class="p">]?.</span><span class="n">append</span><span class="p">(</span><span class="n">element</span><span class="p">)</span> <span class="p">{</span>
-                <span class="n">groups</span><span class="p">[</span><span class="n">key</span><span class="p">]</span> <span class="p">=</span> <span class="p">[</span><span class="n">element …</span></code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/group-objects-by-property.html">read more</a>
+                <a class="readmore" href="https://www.ayavn.us/regex-detect-urls-in-string.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
 
@@ -128,11 +99,11 @@ Just run this command in the terminal to turn off Indexing:</p>
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:32.148112+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:29:04.290964+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:32.148112+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -171,17 +142,17 @@ Just run this command in the terminal to turn off Indexing:</p>
 
             <li><article class="hentry">
                 <header>
-                    <h1><a href="https://www.ayavn.us/regex-detect-urls-in-string.html" rel="bookmark"
-                           title="Permalink to (Regex) Detect urls in string">(Regex) Detect urls in string</a></h1>
+                    <h1><a href="https://www.ayavn.us/group-objects-by-property.html" rel="bookmark"
+                           title="Permalink to Group objects by property">Group objects by property</a></h1>
                 </header>
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:29.299792+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:26:43.544933+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:29.299792+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -189,27 +160,33 @@ Just run this command in the terminal to turn off Indexing:</p>
                 By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/dart.html">dart</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> <a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> </p>
-</footer><!-- /.post-info -->                <p>Easy done:</p>
-<div class="highlight"><pre><span></span><code>(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])
-</code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/regex-detect-urls-in-string.html">read more</a>
+<p>tags: <a href="https://www.ayavn.us/tag/swift-tips.html">swift-tips</a> <a href="https://www.ayavn.us/tag/objects.html">objects</a> <a href="https://www.ayavn.us/tag/sequence.html">sequence</a> </p>
+</footer><!-- /.post-info -->                <p>One more useful extension Gives you opportunity to group objects by property 👨‍</p>
+<div class="highlight"><pre><span></span><code><span class="kd">extension</span> <span class="nc">Sequence</span> <span class="p">{</span>
+    <span class="kd">func</span> <span class="nf">group</span><span class="p">&lt;</span><span class="n">GroupingType</span><span class="p">:</span> <span class="nb">Hashable</span><span class="p">&gt;(</span><span class="n">by</span> <span class="n">key</span><span class="p">:</span> <span class="p">(</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">)</span> <span class="p">-&gt;</span> <span class="n">GroupingType</span><span class="p">)</span> <span class="p">-&gt;</span> <span class="p">[[</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">]]</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nv">groups</span><span class="p">:</span> <span class="p">[</span><span class="n">GroupingType</span><span class="p">:</span> <span class="p">[</span><span class="n">Iterator</span><span class="p">.</span><span class="n">Element</span><span class="p">]]</span> <span class="p">=</span> <span class="p">[:]</span>
+        <span class="kd">var</span> <span class="nv">groupsOrder</span><span class="p">:</span> <span class="p">[</span><span class="n">GroupingType</span><span class="p">]</span> <span class="p">=</span> <span class="p">[]</span>
+        <span class="n">forEach</span> <span class="p">{</span> <span class="n">element</span> <span class="k">in</span>
+            <span class="kd">let</span> <span class="nv">key</span> <span class="p">=</span> <span class="n">key</span><span class="p">(</span><span class="n">element</span><span class="p">)</span>
+            <span class="k">if</span> <span class="k">case</span> <span class="kc">nil</span> <span class="p">=</span> <span class="n">groups</span><span class="p">[</span><span class="n">key</span><span class="p">]?.</span><span class="n">append</span><span class="p">(</span><span class="n">element</span><span class="p">)</span> <span class="p">{</span>
+                <span class="n">groups</span><span class="p">[</span><span class="n">key</span><span class="p">]</span> <span class="p">=</span> <span class="p">[</span><span class="n">element …</span></code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/group-objects-by-property.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
 
             <li><article class="hentry">
                 <header>
-                    <h1><a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html" rel="bookmark"
-                           title="Permalink to Regular Expression to find a string included between two characters while EXCLUDING the delimiters">Regular Expression to find a string included between two characters while EXCLUDING the delimiters</a></h1>
+                    <h1><a href="https://www.ayavn.us/flutter-performance-tips.html" rel="bookmark"
+                           title="Permalink to Flutter performance tips">Flutter performance tips</a></h1>
                 </header>
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:26.214189+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:28:43.243880+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:26.214189+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -217,19 +194,52 @@ Just run this command in the terminal to turn off Indexing:</p>
                 By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-between-two-characters.html">regex-between-two-characters</a> </p>
-</footer><!-- /.post-info -->                <p>Easy done:</p>
-<div class="highlight"><pre><span></span><code>(?&lt;=\[)(.*?)(?=\])
+<p>tags: <a href="https://www.ayavn.us/tag/flutter-tips.html">flutter-tips</a> <a href="https://www.ayavn.us/tag/performance.html">performance</a> </p>
+</footer><!-- /.post-info -->                <div class="highlight"><pre><span></span><code><span class="o">-</span><span class="w"> </span><span class="n">Don’t</span><span class="w"> </span><span class="n">split</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">into</span><span class="w"> </span><span class="n">methods</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="n">rebuilding</span><span class="w"> </span><span class="k">all</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="n">repetitively</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n">const</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">where</span><span class="w"> </span><span class="n">possible</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n n-Quoted">`itemExtent`</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">ListView</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">Lists</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="n">rebuilding</span><span class="w"> </span><span class="n">unnecessary</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="n">inside</span><span class="w"> </span><span class="n">AnimatedBuilder</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="k">using</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">Opacity</span><span class="w"> </span><span class="n">particularly</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">an</span><span class="w"> </span><span class="n">animation</span><span class="w"></span>
+<span class="o">-</span><span class="w"> </span><span class="k">Reuse</span><span class="w"> </span><span class="k">Data</span><span class="w"> </span><span class="k">Using</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">Singleton</span><span class="w"> </span><span class="n">Design</span><span class="w"> </span><span class="n">Pattern</span><span class="p">.</span><span class="w"></span>
 </code></pre></div>
 
-<p>Technically that's using lookaheads and lookbehinds. See Lookahead and Lookbehind Zero-Width Assertions. The pattern consists of:</p>
-<ul>
-<li>is preceded by a [ that is not captured (lookbehind);</li>
-<li>a non-greedy captured group. It's non-greedy to stop at the first ]; and</li>
-<li>is followed by a ] that is not captured (lookahead).</li>
-</ul>
-<p>Alternatively you …</p>
-                <a class="readmore" href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">read more</a>
+<h2>Follow the original posts …</h2>
+                <a class="readmore" href="https://www.ayavn.us/flutter-performance-tips.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/disable-indexing-xcode.html" rel="bookmark"
+                           title="Permalink to Disable indexing Xcode">Disable indexing Xcode</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-05-18T13:43:23.245095+07:00">
+                Published: Wed 18 May 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-05-18T13:43:23.245095+07:00">
+                Updated: Wed 18 May 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/indexing.html">indexing</a> <a href="https://www.ayavn.us/tag/xcode.html">xcode</a> </p>
+</footer><!-- /.post-info -->                <h1>Disable indexing Xcode</h1>
+<p>Stopping xcode from indexing
+Just run this command in the terminal to turn off Indexing:</p>
+<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">1</span>
+</code></pre></div>
+
+<p>To turn it back on, run this:</p>
+<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">0</span>
+</code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/disable-indexing-xcode.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
 
@@ -265,7 +275,6 @@ Just run this command in the terminal to turn off Indexing:</p>
                         <h2>links</h2>
                         <ul>
                             <li><a href="https://www.ayavn.us/about">About me</a></li>
-                            <li><a href="#">Another social link</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">

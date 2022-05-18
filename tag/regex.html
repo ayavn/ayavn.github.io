@@ -21,43 +21,13 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/regex-detect-urls-in-string.html">(Regex) Detect urls in string</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">Regular Expression to find a string included between two characters while EXCLUDING the delimiters</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
+        <abbr class="published" title="2022-05-18T13:43:38.865959+07:00">
+                Published: Wed 18 May 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-05-18T10:26:43.544933+07:00">
-                Updated: Wed 18 May 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/dart.html">dart</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> <a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> </p>
-</footer><!-- /.post-info --><p>Easy done:</p>
-<div class="highlight"><pre><span></span><code>(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])
-</code></pre></div>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html" rel="bookmark"
-                           title="Permalink to Regular Expression to find a string included between two characters while EXCLUDING the delimiters">Regular Expression to find a string included between two characters while EXCLUDING the delimiters</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-06-18T11:20:00+07:00">
-                Published: Sat 18 June 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-05-18T10:28:43.243880+07:00">
+        <abbr class="modified" title="2022-05-18T13:43:38.865959+07:00">
                 Updated: Wed 18 May 2022
         </abbr>
 
@@ -66,7 +36,7 @@
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-between-two-characters.html">regex-between-two-characters</a> </p>
-</footer><!-- /.post-info -->                <p>Easy done:</p>
+</footer><!-- /.post-info --><p>Easy done:</p>
 <div class="highlight"><pre><span></span><code>(?&lt;=\[)(.*?)(?=\])
 </code></pre></div>
 
@@ -76,8 +46,48 @@
 <li>a non-greedy captured group. It's non-greedy to stop at the first ]; and</li>
 <li>is followed by a ] that is not captured (lookahead).</li>
 </ul>
-<p>Alternatively you …</p>
-                <a class="readmore" href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">read more</a>
+<p>Alternatively you can just capture what's between the square brackets:</p>
+<div class="highlight"><pre><span></span><code>\[(.*?)\]
+</code></pre></div>
+
+<p>and return the first captured group instead of the entire match.</p>
+<p>Example for <b>Dart language</b></p>
+<div class="highlight"><pre><span></span><code>RegExp(r&#39;@&lt;.*?&gt;&#39;) 
+</code></pre></div>
+
+<p>Ref: 
+ - <a href="https://www.regular-expressions.info/lookaround.html">Regex tutorial</a></p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/regex-detect-urls-in-string.html" rel="bookmark"
+                           title="Permalink to (Regex) Detect urls in string">(Regex) Detect urls in string</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-05-18T13:43:35.012555+07:00">
+                Published: Wed 18 May 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-05-18T13:43:35.012555+07:00">
+                Updated: Wed 18 May 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/dart.html">dart</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> <a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> </p>
+</footer><!-- /.post-info -->                <p>Easy done:</p>
+<div class="highlight"><pre><span></span><code>(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])
+</code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/regex-detect-urls-in-string.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
@@ -87,7 +97,6 @@
                         <h2>links</h2>
                         <ul>
                             <li><a href="https://www.ayavn.us/about">About me</a></li>
-                            <li><a href="#">Another social link</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">
