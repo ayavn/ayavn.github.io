@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>ayavn - Tags</title>
+        <title>ayavn - regex-between-two-characters</title>
         <link rel="stylesheet" href="https://www.ayavn.us/theme/css/main.css" />
         <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="ayavn Atom Feed" />
 </head>
@@ -19,30 +19,41 @@
                 </ul></nav>
         </header><!-- /#banner -->
 
-<section id="content" class="body">
-    <h1>Tags for ayavn</h1>
-    <ul>
-        <li><a href="https://www.ayavn.us/tag/dart.html">dart</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/didset.html">didSet</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/flutter.html">flutter</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/flutter-tips.html">flutter-tips</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/github.html">github</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/indexing.html">indexing</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/objects.html">objects</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/pelican.html">pelican</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/performance.html">performance</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/property-observers.html">property-observers</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/python.html">python</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/regex.html">regex</a> (2)</li>
-        <li><a href="https://www.ayavn.us/tag/regex-between-two-characters.html">regex-between-two-characters</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/sequence.html">sequence</a> (1)</li>
-        <li><a href="https://www.ayavn.us/tag/swift-tips.html">swift-tips</a> (2)</li>
-        <li><a href="https://www.ayavn.us/tag/xcode.html">xcode</a> (1)</li>
-    </ul>
-</section>
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">Regular Expression to find a string included between two characters while EXCLUDING the delimiters</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-06-18T11:20:00+07:00">
+                Published: Sat 18 June 2022
+        </abbr>
 
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-between-two-characters.html">regex-between-two-characters</a> </p>
+</footer><!-- /.post-info --><p>Easy done:</p>
+<div class="highlight"><pre><span></span><code>(?&lt;=\[)(.*?)(?=\])
+</code></pre></div>
+
+<p>Technically that's using lookaheads and lookbehinds. See Lookahead and Lookbehind Zero-Width Assertions. The pattern consists of:</p>
+<ul>
+<li>is preceded by a [ that is not captured (lookbehind);</li>
+<li>a non-greedy captured group. It's non-greedy to stop at the first ]; and</li>
+<li>is followed by a ] that is not captured (lookahead).</li>
+</ul>
+<p>Alternatively you can just capture what's between the square brackets:</p>
+<div class="highlight"><pre><span></span><code>\[(.*?)\]
+</code></pre></div>
+
+<p>and return the first captured group instead of the entire match.</p>
+<p>Example for <b>Dart language</b></p>
+<div class="highlight"><pre><span></span><code>RegExp(r&#39;@&lt;.*?&gt;&#39;) 
+</code></pre></div>
+
+<p>Ref: 
+ - <a href="https://www.regular-expressions.info/lookaround.html">Regex tutorial</a></p>                </article>
+            </aside><!-- /#featured -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>links</h2>

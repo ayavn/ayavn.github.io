@@ -4,10 +4,9 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>An article about Pelican</title>
+        <title>ayavn - xcode</title>
         <link rel="stylesheet" href="https://www.ayavn.us/theme/css/main.css" />
         <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="ayavn Atom Feed" />
-        <meta name="description" content="Using Pelican to generate static files In this post we'll see how to use Pelican to generate a static file" />
 </head>
 
 <body id="index" class="home">
@@ -15,34 +14,34 @@
                 <h1><a href="https://www.ayavn.us/">ayavn</a></h1>
                 <nav><ul>
                     <li><a href="https://www.ayavn.us/pages/welcome-to-my-blog.html">Welcome to my blog!</a></li>
-                    <li class="active"><a href="https://www.ayavn.us/category/articles.html">articles</a></li>
+                    <li><a href="https://www.ayavn.us/category/articles.html">articles</a></li>
+                    <li><a href="https://www.ayavn.us/category/snippets.html">Snippets</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
-<section id="content" class="body">
-  <article>
-    <header>
-      <h1 class="entry-title">
-        <a href="https://www.ayavn.us/an-article-about-pelican.html" rel="bookmark"
-           title="Permalink to An article about Pelican">An article about Pelican</a></h1>
-    </header>
 
-    <div class="entry-content">
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/disable-indexing-xcode.html">Disable indexing Xcode</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2019-10-20T11:20:00+07:00">
-                Published: Sun 20 October 2019
+        <abbr class="published" title="2022-06-18T11:20:00+07:00">
+                Published: Sat 18 June 2022
         </abbr>
 
         <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/antonello.html">Antonello</a>
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/pelican.html">pelican</a> <a href="https://www.ayavn.us/tag/tutorial.html">tutorial</a> </p>
-</footer><!-- /.post-info -->      <h2>Using Pelican to generate static files</h2>
-<p>In this post we'll see how to use Pelican to generate a static file</p>
-    </div><!-- /.entry-content -->
+<p>tags: <a href="https://www.ayavn.us/tag/indexing.html">indexing</a> <a href="https://www.ayavn.us/tag/xcode.html">xcode</a> </p>
+</footer><!-- /.post-info --><h1>Disable indexing Xcode</h1>
+<p>Stopping xcode from indexing
+Just run this command in the terminal to turn off Indexing:</p>
+<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">1</span>
+</code></pre></div>
 
-  </article>
-</section>
+<p>To turn it back on, run this:</p>
+<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">0</span>
+</code></pre></div>                </article>
+            </aside><!-- /#featured -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>links</h2>
