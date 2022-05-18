@@ -21,32 +21,25 @@
 <section id="content" class="body">
     <h1 class="entry-title">Contact me</h1>
     
-    <div class="col-md-12">
-    <header class=jumbotron>
-        <h1>Contact me</h1>
-        <p>I'd love to hear from you.</p>
-    </header>
-
-    <form method="post" action="/php/submit.php">
-        <div class="form-group col-md-6">
-            <input type="text" class="form-control" id="name"  name="name" placeholder="Name" required>
-        </div>
-        <div class="form-group col-md-6">
-            <input type="email" class="form-control validate email" id="email" name="email" placeholder="Enter email" required>
-        </div>
-        <p class="antispam">
-            Leave this empty:
-            <br />
-            <input name="url" />
-        </p>
-        <div class="form-group col-md-12">
-          <textarea class="form-control" rows="5" name="message" placeholder="Message" required></textarea>
-        </div>
-        <div class="form-group col-md-3 offset-md-3">
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </div>
-    </form>
-</div>
+    <form action="https://getform.io/f/8037b7a3-1fe5-409f-9c7b-2efd49ecc03e" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <!-- checkbox handle --> 
+    <input type="checkbox" name="subscribe" value="yes" checked>
+    <input type="hidden" name="subscribe" value="no">
+    <!-- radio button handle --> 
+    <input type="radio" name="gender" value="male" checked>
+    <input type="radio" name="gender" value="female">
+    <input type="radio" name="gender" value="other">
+    <!-- select field handle --> 
+    <select name="work-experience">
+        <option value="one-year">0-1 years</option>
+        <option value="one-five-years">1-5 years</option>
+        <option value="five-plus-years">5+ years</option>
+    </select>
+    <button type="submit">Send</button>
+</form>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
