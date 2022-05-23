@@ -4,7 +4,22 @@
       "target": {
         "namespace": "android_app",
         "package_name": "us.ayavn.dev",
-        "sha256_cert_fingerprints": ["<android-fingerprint>"]
+        "sha256_cert_fingerprints": [
+          "7E:6B:40:5A:F8:E5:CA:60:CA:2F:52:50:0C:6C:08:1F:58:1F:7F:4E:5C:52:23:78:3F:F2:2C:C7:49:EF:F4:CA",
+          "25:6C:86:34:AC:BD:65:13:83:29:31:4B:EB:23:91:37:4B:3A:EC:9F:BC:52:EE:06:D1:55:08:E1:09:A5:6F:D6"
+        ]
+      }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "us.ayavn.prod",
+        "sha256_cert_fingerprints": [
+          "7E:6B:40:5A:F8:E5:CA:60:CA:2F:52:50:0C:6C:08:1F:58:1F:7F:4E:5C:52:23:78:3F:F2:2C:C7:49:EF:F4:CA",
+          "25:6C:86:34:AC:BD:65:13:83:29:31:4B:EB:23:91:37:4B:3A:EC:9F:BC:52:EE:06:D1:55:08:E1:09:A5:6F:D6",
+          "8F:9F:E8:22:7C:F0:03:60:78:D4:B8:6A:6D:98:6A:67:D5:01:E1:17:1B:49:45:26:06:80:E3:8E:91:43:EC:12"
+        ]
       }
     }
   ]
