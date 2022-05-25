@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-05-19T09:20:55+07:00</updated><entry><title>Implementation Universal/AppLink in both iOS and Android</title><link href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html" rel="alternate"></link><published>2022-05-19T09:20:55+07:00</published><updated>2022-05-19T09:20:55+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-19:/implementation-universalapplink-in-both-ios-and-android.html</id><summary type="html">&lt;h1&gt;Implementation Universal/AppLink in both iOS and Android&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-05-25T17:03:12+07:00</updated><entry><title>[Flutter] Widget to image</title><link href="https://www.ayavn.us/flutter-widget-to-image.html" rel="alternate"></link><published>2022-05-25T17:03:12+07:00</published><updated>2022-05-25T17:03:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-25:/flutter-widget-to-image.html</id><summary type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+
+&lt;span class="n"&gt;RepaintBoundary&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+    &lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+    &lt;span class="n"&gt;child&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;ListTile&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+        &lt;span class="n"&gt;leading&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;CircleAvatar&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;
+        &lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;www.ayavn.us&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;),&lt;/span&gt;
+
+
+&lt;span class="c1"&gt;### Save image&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;package:path_provider/path_provider.dart&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="n"&gt;Future&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;void&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;takePicture&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="k"&gt;async&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="n"&gt;RenderRepaintBoundary&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;currentContext&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;findRenderObject&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;ui&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Image&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;toImage&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;directory&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;getApplicationDocumentsDirectory&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;path&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="n"&gt;ByteData …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+
+&lt;span class="n"&gt;RepaintBoundary&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+    &lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+    &lt;span class="n"&gt;child&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;ListTile&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+        &lt;span class="n"&gt;leading&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;CircleAvatar&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;
+        &lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;www.ayavn.us&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;
+    &lt;span class="p"&gt;),&lt;/span&gt;
+&lt;span class="p"&gt;),&lt;/span&gt;
+
+
+&lt;span class="c1"&gt;### Save image&lt;/span&gt;
+
+&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;package:path_provider/path_provider.dart&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="n"&gt;Future&lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="n"&gt;void&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;takePicture&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="k"&gt;async&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+  &lt;span class="n"&gt;RenderRepaintBoundary&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;currentContext&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;findRenderObject&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;ui&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Image&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;toImage&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;directory&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;getApplicationDocumentsDirectory&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;path&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+  &lt;span class="n"&gt;ByteData&lt;/span&gt; &lt;span class="n"&gt;byteData&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;toByteData&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;format&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;ui&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ImageByteFormat&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;png&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="n"&gt;Uint8List&lt;/span&gt; &lt;span class="n"&gt;pngBytes&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;byteData&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;buffer&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;asUint8List&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;File&lt;/span&gt; &lt;span class="n"&gt;imgFile&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;File&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;$directory/photo.png&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+  &lt;span class="n"&gt;imgFile&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;writeAsBytes&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pngBytes&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;Bonus&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Save image to gallery
+   &lt;a href="https://pub.dev/packages/gallery_saver"&gt;gallery_saver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="widget"></category><category term="image"></category><category term="flutter"></category></entry><entry><title>Implementation Universal/AppLink in both iOS and Android</title><link href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html" rel="alternate"></link><published>2022-05-19T09:20:55+07:00</published><updated>2022-05-19T09:20:55+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-19:/implementation-universalapplink-in-both-ios-and-android.html</id><summary type="html">&lt;h1&gt;Implementation Universal/AppLink in both iOS and Android&lt;/h1&gt;
 &lt;h2&gt;Android&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/assetlinks.json&lt;/code&gt;&lt;/li&gt;
