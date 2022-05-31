@@ -1,45 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+        <title>AYAVN - image tag</title>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>AYAVN - image</title>
-        <link rel="stylesheet" href="https://www.ayavn.us/theme/css/main.css" />
-        <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="AYAVN Atom Feed" />
+        <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="AYAVN Full Atom Feed" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4L40QBFNWT"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-4L40QBFNWT');
+        </script>
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
                 <h1><a href="https://www.ayavn.us/">AYAVN</a></h1>
-                <nav><ul>
-                    <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
-                    <li><a href="/category/articles.html">Articles</a></li>
-                    <li><a href="/pages/contact.html">Contact me</a></li>
-                    <li><a href="/pages/privacy-policy.html">Privacy Policy</a></li>
-                    <li><a href="/pages/terms-and-conditions.html">Terms</a></li>
-                    <li><a href="/404.html">404</a></li>
-                </ul></nav>
         </header><!-- /#banner -->
+        <nav id="menu"><ul>
+            <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
+            <li><a href="/category/articles.html">Articles</a></li>
+            <li><a href="/pages/contact.html">Contact me</a></li>
+            <li><a href="/pages/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="/pages/terms-and-conditions.html">Terms</a></li>
+            <li><a href="/404.html">404</a></li>
+        </ul></nav><!-- /#menu -->
+<section id="content">
+<h2>Articles tagged with image</h2>
 
-            <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-widget-to-image.html">[Flutter] Widget to image</a></h1>
-<footer class="post-info">
-        <abbr class="published" title="2022-05-25T17:03:12.110730+07:00">
-                Published: Wed 25 May 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-05-25T17:03:12.110730+07:00">
-                Updated: Wed 25 May 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/widget.html">widget</a> <a href="https://www.ayavn.us/tag/image.html">image</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> </p>
-</footer><!-- /.post-info --><h1>[Flutter] Widget to image</h1>
+<ol id="post-list">
+        <li><article class="hentry">
+                <header> <h2 class="entry-title"><a href="https://www.ayavn.us/flutter-widget-to-image.html" rel="bookmark" title="Permalink to [Flutter] Widget to image">[Flutter] Widget to image</a></h2> </header>
+                <footer class="post-info">
+                    <time class="published" datetime="2022-05-25T17:03:12.110730+07:00"> Wed 25 May 2022 </time>
+                    <address class="vcard author">By
+                        <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+                    </address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <h1>[Flutter] Widget to image</h1>
 <div class="highlight"><pre><span></span><code><span class="n">final</span> <span class="n">GlobalKey</span> <span class="n">genKey</span> <span class="o">=</span> <span class="n">GlobalKey</span><span class="p">();</span>
 
 <span class="n">RepaintBoundary</span><span class="p">(</span>
@@ -59,55 +60,15 @@
   <span class="n">RenderRepaintBoundary</span> <span class="n">boundary</span> <span class="o">=</span> <span class="n">genKey</span><span class="o">.</span><span class="n">currentContext</span><span class="o">.</span><span class="n">findRenderObject</span><span class="p">();</span>
   <span class="n">ui</span><span class="o">.</span><span class="n">Image</span> <span class="n">image</span> <span class="o">=</span> <span class="k">await</span> <span class="n">boundary</span><span class="o">.</span><span class="n">toImage</span><span class="p">();</span>
   <span class="n">final</span> <span class="n">directory</span> <span class="o">=</span> <span class="p">(</span><span class="k">await</span> <span class="n">getApplicationDocumentsDirectory</span><span class="p">())</span><span class="o">.</span><span class="n">path</span><span class="p">;</span>
-  <span class="n">ByteData</span> <span class="n">byteData</span> <span class="o">=</span> <span class="k">await</span> <span class="n">image</span><span class="o">.</span><span class="n">toByteData</span><span class="p">(</span><span class="nb">format</span><span class="p">:</span> <span class="n">ui</span><span class="o">.</span><span class="n">ImageByteFormat</span><span class="o">.</span><span class="n">png</span><span class="p">);</span>
-  <span class="n">Uint8List</span> <span class="n">pngBytes</span> <span class="o">=</span> <span class="n">byteData</span><span class="o">.</span><span class="n">buffer</span><span class="o">.</span><span class="n">asUint8List</span><span class="p">();</span>
-  <span class="n">File</span> <span class="n">imgFile</span> <span class="o">=</span> <span class="n">new</span> <span class="n">File</span><span class="p">(</span><span class="s1">&#39;$directory/photo.png&#39;</span><span class="p">);</span>
-  <span class="n">imgFile</span><span class="o">.</span><span class="n">writeAsBytes</span><span class="p">(</span><span class="n">pngBytes</span><span class="p">);</span>
-<span class="p">}</span>
-</code></pre></div>
-
-<h3>Bonus</h3>
-<ul>
-<li>Save image to gallery
-   <a href="https://pub.dev/packages/gallery_saver">gallery_saver</a></li>
-</ul>                </article>
-            </aside><!-- /#featured -->
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="https://www.ayavn.us/pages/welcome-to-my-blog.html">About me</a></li>
-                            <li><a href="mailto:me@ayavn.us">Mail</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            <li><a href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
-
-                            <li><a href="https://github.com/htaptit">Github</a></li>
-                            <li><a href="https://twitter.com/htaptit">Twitter</a></li>
-                            <li><a href="https://www.facebook.com/ayavn.us">Facebook</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
-
+  <span class="n">ByteData …</span></code></pre></div> </div><!-- /.entry-content -->
+        </article></li>
+</ol><!-- /#posts-list -->
+</section><!-- /#content -->
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">
-                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
                 </address><!-- /#about -->
-
-                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
-
-    <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'G-4L40QBFNWT', 'auto');
-    ga('send', 'pageview');
-    </script>
 </body>
 </html>
