@@ -1,45 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <title>AYAVN - performance tag</title>
         <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="AYAVN Full Atom Feed" />
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4L40QBFNWT"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-4L40QBFNWT');
-        </script>
+        <title>AYAVN - performance</title>
+        <link rel="stylesheet" href="https://www.ayavn.us/theme/css/main.css" />
+        <link href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="AYAVN Atom Feed" />
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
                 <h1><a href="https://www.ayavn.us/">AYAVN</a></h1>
+                <nav><ul>
+                    <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
+                    <li><a href="/category/articles.html">Articles</a></li>
+                    <li><a href="/pages/contact.html">Contact me</a></li>
+                    <li><a href="/pages/privacy-policy.html">Privacy Policy</a></li>
+                    <li><a href="/pages/terms-and-conditions.html">Terms</a></li>
+                </ul></nav>
         </header><!-- /#banner -->
-        <nav id="menu"><ul>
-            <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
-            <li><a href="/category/articles.html">Articles</a></li>
-            <li><a href="/pages/contact.html">Contact me</a></li>
-            <li><a href="/pages/privacy-policy.html">Privacy Policy</a></li>
-            <li><a href="/pages/terms-and-conditions.html">Terms</a></li>
-        </ul></nav><!-- /#menu -->
-<section id="content">
-<h2>Articles tagged with performance</h2>
 
-<ol id="post-list">
-        <li><article class="hentry">
-                <header> <h2 class="entry-title"><a href="https://www.ayavn.us/flutter-performance-tips.html" rel="bookmark" title="Permalink to Flutter performance tips">Flutter performance tips</a></h2> </header>
-                <footer class="post-info">
-                    <time class="published" datetime="2022-05-18T13:43:26.214189+07:00"> Wed 18 May 2022 </time>
-                    <address class="vcard author">By
-                        <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-                    </address>
-                </footer><!-- /.post-info -->
-                <div class="entry-content"> <div class="highlight"><pre><span></span><code><span class="o">-</span><span class="w"> </span><span class="n">Don’t</span><span class="w"> </span><span class="n">split</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">into</span><span class="w"> </span><span class="n">methods</span><span class="w"></span>
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-performance-tips.html">Flutter performance tips</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-05-18T13:43:26.214189+07:00">
+                Published: Wed 18 May 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-05-18T13:43:26.214189+07:00">
+                Updated: Wed 18 May 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter-tips.html">flutter-tips</a> <a href="https://www.ayavn.us/tag/performance.html">performance</a> </p>
+</footer><!-- /.post-info --><div class="highlight"><pre><span></span><code><span class="o">-</span><span class="w"> </span><span class="n">Don’t</span><span class="w"> </span><span class="n">split</span><span class="w"> </span><span class="n">your</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">into</span><span class="w"> </span><span class="n">methods</span><span class="w"></span>
 <span class="o">-</span><span class="w"> </span><span class="n">Avoid</span><span class="w"> </span><span class="n">rebuilding</span><span class="w"> </span><span class="k">all</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="n">repetitively</span><span class="w"></span>
 <span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n">const</span><span class="w"> </span><span class="n">widgets</span><span class="w"> </span><span class="k">where</span><span class="w"> </span><span class="n">possible</span><span class="w"></span>
 <span class="o">-</span><span class="w"> </span><span class="k">Use</span><span class="w"> </span><span class="n n-Quoted">`itemExtent`</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="n">ListView</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="kt">long</span><span class="w"> </span><span class="n">Lists</span><span class="w"></span>
@@ -48,15 +47,48 @@
 <span class="o">-</span><span class="w"> </span><span class="k">Reuse</span><span class="w"> </span><span class="k">Data</span><span class="w"> </span><span class="k">Using</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">Singleton</span><span class="w"> </span><span class="n">Design</span><span class="w"> </span><span class="n">Pattern</span><span class="p">.</span><span class="w"></span>
 </code></pre></div>
 
-<h2>Follow the original posts …</h2> </div><!-- /.entry-content -->
-        </article></li>
-</ol><!-- /#posts-list -->
-</section><!-- /#content -->
+<h2>Follow the original posts:</h2>
+<ul>
+<li><a href="https://blog.codemagic.io/how-to-improve-the-performance-of-your-flutter-app./">Codemagic</a></li>
+<li><a href="https://www.androiddeveloper.co.in/blog/top-tips-tricks-speeding-up-flutter-app-development">Android Developer</a></li>
+</ul>                </article>
+            </aside><!-- /#featured -->
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://www.ayavn.us/pages/welcome-to-my-blog.html">About me</a></li>
+                            <li><a href="mailto:me@ayavn.us">Mail</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="https://www.ayavn.us/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                            <li><a href="https://github.com/htaptit">Github</a></li>
+                            <li><a href="https://twitter.com/htaptit">Twitter</a></li>
+                            <li><a href="https://www.facebook.com/ayavn.us">Facebook</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">
-                Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
-                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
                 </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
+
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'G-4L40QBFNWT', 'auto');
+    ga('send', 'pageview');
+    </script>
 </body>
 </html>
