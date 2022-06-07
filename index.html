@@ -33,7 +33,69 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html">Plist files and multiple environments for iOS apps</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html">Flutter InAppWebview with basic authenication</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-06-07T14:54:41.105512+07:00">
+                Published: Tue 07 June 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-06-07T14:54:41.105512+07:00">
+                Updated: Tue 07 June 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/basic-auth.html">basic-auth</a> </p>
+</footer><!-- /.post-info --><h1>Flutter InAppWebview with basic authenication</h1>
+<p>Plugin: (InAppWebview)[https://pub.dev/packages/flutter_inappwebview]</p>
+<div class="highlight"><pre><span></span><code><span class="n">InAppWebView</span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="nl">initialUrlRequest:</span><span class="w"></span>
+<span class="w">        </span><span class="n">URLRequest</span><span class="p">(</span><span class="nl">url:</span><span class="w"> </span><span class="n">Uri</span><span class="p">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;https://</span><span class="si">${</span><span class="n">your_url</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)),</span><span class="w"></span>
+<span class="w">    </span><span class="nl">initialOptions:</span><span class="w"> </span><span class="n">InAppWebViewGroupOptions</span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="nl">crossPlatform:</span><span class="w"> </span><span class="n">InAppWebViewOptions</span><span class="p">(),</span><span class="w"></span>
+<span class="w">        </span><span class="nl">android:</span><span class="w"> </span><span class="n">AndroidInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="nl">useHybridComposition:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
+<span class="w">        </span><span class="p">),</span><span class="w"></span>
+<span class="w">        </span><span class="nl">ios:</span><span class="w"> </span><span class="n">IOSInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="nl">allowsInlineMediaPlayback:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
+<span class="w">        </span><span class="p">),</span><span class="w"></span>
+<span class="w">    </span><span class="p">),</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+
+<span class="w">    </span><span class="p">},</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onLoadStart:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+
+<span class="w">    </span><span class="p">},</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onLoadStop:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+
+<span class="w">    </span><span class="p">},</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onProgressChanged:</span><span class="w"></span>
+<span class="w">        </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">progress</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+<span class="w">    </span><span class="p">},</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onReceivedHttpAuthRequest:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">challenge</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+<span class="w">        </span><span class="c1">// BASIC AUTHENICATION ACCOUNT</span><span class="w"></span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">HttpAuthResponse</span><span class="p">(</span><span class="w"></span>
+<span class="w">            </span><span class="nl">username:</span><span class="w"> </span><span class="s2">&quot;username&quot;</span><span class="p">,</span><span class="w"></span>
+<span class="w">            </span><span class="nl">password:</span><span class="w"> </span><span class="s2">&quot;password&quot;</span><span class="p">,</span><span class="w"></span>
+<span class="w">            </span><span class="nl">action:</span><span class="w"> </span><span class="n">HttpAuthResponseAction</span><span class="p">.</span><span class="n">PROCEED</span><span class="p">);</span><span class="w"></span>
+<span class="w">    </span><span class="p">},</span><span class="w"></span>
+<span class="p">),</span><span class="w"></span>
+</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html" rel="bookmark"
+                           title="Permalink to Plist files and multiple environments for iOS apps">Plist files and multiple environments for iOS apps</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2022-06-06T09:56:35.980217+07:00">
                 Published: Mon 06 June 2022
@@ -48,49 +110,12 @@
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/plist.html">plist</a> <a href="https://www.ayavn.us/tag/ios.html">iOS</a> </p>
-</footer><!-- /.post-info --><h1>Plist files and multiple environments for iOS apps</h1>
+</footer><!-- /.post-info -->                <h1>Plist files and multiple environments for iOS apps</h1>
 <p>One thing that's a little odd about <code>Auth0</code> is that you need to setup an <code>Auth0.plist</code> file to configure the service. This becomes a problem when you want to separate <code>development</code> from <code>production</code> environments where keys are different.</p>
-<p>One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:</p>
-<h2>Go to settings</h2>
-<p>Click on the little + symbol and add the following <code>Run Script</code>:</p>
-<div class="highlight"><pre><span></span><code>RESOURCE_PATH=<span class="nv">$SRCROOT</span>/Authentication
-
-FILENAME_IN_BUNDLE=Auth0.plist
-
-BUILD_APP_DIR=<span class="cp">${</span><span class="n">BUILT_PRODUCTS_DIR</span><span class="cp">}</span>/<span class="cp">${</span><span class="n">PRODUCT_NAME</span><span class="cp">}</span>.app
-
-if [ &quot;<span class="nv">$CONFIGURATION</span>&quot; == &quot;Debug&quot; ]; then
-cp <span class="nv">$RESOURCE_PATH</span>/Auth0-development.plist <span class="nv">$BUILD_APP_DIR</span>/<span class="nv">$FILENAME_IN_BUNDLE</span>
-else
-cp <span class="nv">$RESOURCE_PATH</span>/Auth0-production.plist <span class="nv">$BUILD_APP_DIR</span>/<span class="nv">$FILENAME_IN_BUNDLE</span>
-fi
-</code></pre></div>
-
-<h2>Create the different files for development and production</h2>
-<p>Create a folder called “Authentication” to match the script above and add your new configuration files there. One for <code>Auth0-development.plist</code> and another for <code>Auth0-production.plist</code>.</p>
-<p>They should like something like this:</p>
-<div class="highlight"><pre><span></span><code><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span>
-<span class="cp">&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;</span>
-<span class="nt">&lt;plist</span> <span class="na">version=</span><span class="s">&quot;1.0&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;dict&gt;</span>
-    <span class="nt">&lt;key&gt;</span>ClientId<span class="nt">&lt;/key&gt;</span>
-    <span class="nt">&lt;string&gt;</span>edb274d8c594429b8ccc684d79d771f6<span class="nt">&lt;/string&gt;</span>
-    <span class="nt">&lt;key&gt;</span>Domain<span class="nt">&lt;/key&gt;</span>
-    <span class="nt">&lt;string&gt;</span>dev-frs11rs2.us.auth0.com<span class="nt">&lt;/string&gt;</span>
-<span class="nt">&lt;/dict&gt;</span>
-<span class="nt">&lt;/plist&gt;</span>
-</code></pre></div>
-
-<p>Done!, once you run your app in either <code>development</code> or <code>production</code> the right config file will be used.</p>
-<h3>Refer:</h3>
-<ul>
-<li><a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps">https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps</a></li>
-</ul><p>There are <a href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html#disqus_thread">comments</a>.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<p>One trick to …</p>
+                <a class="readmore" href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -395,40 +420,6 @@ fi
 <h2>Follow the original posts …</h2>
                 <a class="readmore" href="https://www.ayavn.us/flutter-performance-tips.html">read more</a>
 <p>There are <a href="https://www.ayavn.us/flutter-performance-tips.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/disable-indexing-xcode.html" rel="bookmark"
-                           title="Permalink to Disable indexing Xcode">Disable indexing Xcode</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-05-18T13:43:23.245095+07:00">
-                Published: Wed 18 May 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-05-18T13:43:23.245095+07:00">
-                Updated: Wed 18 May 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/indexing.html">indexing</a> <a href="https://www.ayavn.us/tag/xcode.html">xcode</a> </p>
-</footer><!-- /.post-info -->                <h1>Disable indexing Xcode</h1>
-<p>Stopping xcode from indexing
-Just run this command in the terminal to turn off Indexing:</p>
-<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">1</span>
-</code></pre></div>
-
-<p>To turn it back on, run this:</p>
-<div class="highlight"><pre><span></span><code>defaults write com.apple.dt.XCode IDEIndexDisable <span class="m">0</span>
-</code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/disable-indexing-xcode.html">read more</a>
-<p>There are <a href="https://www.ayavn.us/disable-indexing-xcode.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
 <p class="paginator">
