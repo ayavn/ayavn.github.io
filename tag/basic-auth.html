@@ -84,65 +84,6 @@
 <span class="p">),</span><span class="w"></span>
 </code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html#disqus_thread">comments</a>.</p>                </article>
             </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="bookmark"
-                           title="Permalink to Flutter InAppWebview load css from assets">Flutter InAppWebview load css from assets</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-06-07T16:14:22.038574+07:00">
-                Published: Tue 07 June 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-06-07T16:14:22.038574+07:00">
-                Updated: Tue 07 June 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/basic-auth.html">basic-auth</a> </p>
-</footer><!-- /.post-info -->                <h1>Flutter InAppWebview load css from assets</h1>
-<p>Plugin: <a href="https://pub.dev/packages/flutter_inappwebview">InAppWebview</a></p>
-<ul>
-<li>Register css relation path to <code>pubspect.yaml</code> file.</li>
-<li>Example: assets/css</li>
-<li>File: custom.css</li>
-</ul>
-<div class="highlight"><pre><span></span><code><span class="nt">body</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">red</span><span class="p">;</span><span class="w"></span>
-<span class="p">}</span><span class="w"></span>
-</code></pre></div>
-
-<div class="highlight"><pre><span></span><code><span class="n">InAppWebView</span><span class="p">(</span><span class="w"></span>
-<span class="w">    </span><span class="nl">initialUrlRequest:</span><span class="w"></span>
-<span class="w">        </span><span class="n">URLRequest</span><span class="p">(</span><span class="nl">url:</span><span class="w"> </span><span class="n">Uri</span><span class="p">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;https://</span><span class="si">${</span><span class="n">your_url</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)),</span><span class="w"></span>
-<span class="w">    </span><span class="nl">initialOptions:</span><span class="w"> </span><span class="n">InAppWebViewGroupOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">crossPlatform:</span><span class="w"> </span><span class="n">InAppWebViewOptions</span><span class="p">(),</span><span class="w"></span>
-<span class="w">        </span><span class="nl">android:</span><span class="w"> </span><span class="n">AndroidInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">useHybridComposition:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
-<span class="w">        </span><span class="p">),</span><span class="w"></span>
-<span class="w">        </span><span class="nl">ios:</span><span class="w"> </span><span class="n">IOSInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">allowsInlineMediaPlayback:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
-<span class="w">        </span><span class="p">),</span><span class="w"></span>
-<span class="w">    </span><span class="p">),</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onLoadStart …</span></code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html">read more</a>
-<p>There are <a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-                </ol><!-- /#posts-list -->
-                </section><!-- /#content -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>Links</h2>
