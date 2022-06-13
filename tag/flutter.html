@@ -52,7 +52,72 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html">Flutter InAppWebview load css from assets</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-buttons.html">Flutter Buttons</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-06-13T09:25:14.440948+07:00">
+                Published: Mon 13 June 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-06-13T09:25:14.440948+07:00">
+                Updated: Mon 13 June 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/buttons.html">buttons</a> </p>
+</footer><!-- /.post-info --><h1>Flutter buttons (Flutter v3)</h1>
+<ul>
+<li><code>ElevatedButton</code></li>
+</ul>
+<p><code>ElevatedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: ElevatedButton.styleFrom(shape: StadiumBorder()),
+  )
+  shape: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder</code></p>
+<ul>
+<li>
+<p><code>OutlinedButton</code></p>
+<p><code>OutlinedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: OutlinedButton.styleFrom(
+        shape: StadiumBorder(),
+    ),
+)</code></p>
+</li>
+<li>
+<p><code>TextButton</code>: You can always use TextButton if you don't want an outline or color fill.</p>
+</li>
+<li>
+<p>Don't forget, there's also an <code>.icon</code> constructor to add an icon easily:</p>
+<p><code>ElevatedButton.icon(
+icon: Icon(Icons.thumb_up),
+label: Text("Like"),
+onPressed: () =&gt; print("it's pressed"),
+style: ElevatedButton.styleFrom(
+    shape: RoundedRectangleBorder(
+    borderRadius: BorderRadius.circular(32.0),
+    ),
+),
+)</code></p>
+</li>
+</ul><p>There are <a href="https://www.ayavn.us/flutter-buttons.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="bookmark"
+                           title="Permalink to Flutter InAppWebview load css from assets">Flutter InAppWebview load css from assets</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2022-06-07T16:15:00.060381+07:00">
                 Published: Tue 07 June 2022
@@ -67,7 +132,7 @@
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/css.html">css</a> <a href="https://www.ayavn.us/tag/style.html">style</a> <a href="https://www.ayavn.us/tag/assets-path.html">assets-path</a> </p>
-</footer><!-- /.post-info --><h1>Flutter InAppWebview load css from assets</h1>
+</footer><!-- /.post-info -->                <h1>Flutter InAppWebview load css from assets</h1>
 <p>Plugin: <a href="https://pub.dev/packages/flutter_inappwebview">InAppWebview</a></p>
 <ul>
 <li>Register css relation path to <code>pubspect.yaml</code> file.</li>
@@ -94,26 +159,10 @@
 <span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
 
 <span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onLoadStart:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">        </span><span class="n">controller</span><span class="w"></span>
-<span class="w">                </span><span class="p">..</span><span class="n">injectCSSFileFromAsset</span><span class="p">(</span><span class="w"></span>
-<span class="w">                    </span><span class="nl">assetFilePath:</span><span class="w"> </span><span class="s1">&#39;assets/css/custom.css&#39;</span><span class="p">);</span><span class="w"></span>
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onLoadStop:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">        </span><span class="n">controller</span><span class="w"></span>
-<span class="w">                </span><span class="p">..</span><span class="n">injectCSSFileFromAsset</span><span class="p">(</span><span class="w"></span>
-<span class="w">                    </span><span class="nl">assetFilePath:</span><span class="w"> </span><span class="s1">&#39;assets/css/custom.css&#39;</span><span class="p">);</span><span class="w"></span>
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onProgressChanged:</span><span class="w"></span>
-<span class="w">        </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">progress</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="p">),</span><span class="w"></span>
-</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html#disqus_thread">comments</a>.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<span class="w">    </span><span class="nl">onLoadStart …</span></code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>

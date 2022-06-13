@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-07T16:15:00+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>Flutter InAppWebview load css from assets</title><link href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="alternate"></link><published>2022-06-07T16:15:00+07:00</published><updated>2022-06-07T16:15:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-07:/flutter-inappwebview-load-css-from-assets.html</id><summary type="html">&lt;h1&gt;Flutter InAppWebview load css from assets&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-13T09:25:14+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>Flutter Buttons</title><link href="https://www.ayavn.us/flutter-buttons.html" rel="alternate"></link><published>2022-06-13T09:25:14+07:00</published><updated>2022-06-13T09:25:14+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-13:/flutter-buttons.html</id><summary type="html">&lt;h1&gt;Flutter buttons (Flutter v3)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ElevatedButton&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;ElevatedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: ElevatedButton.styleFrom(shape: StadiumBorder()),
+  )
+  shape: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;OutlinedButton&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;OutlinedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: OutlinedButton.styleFrom(
+        shape: StadiumBorder(),
+    ),
+)&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;TextButton&lt;/code&gt;: You can always use TextButton if you don't want an outline or color fill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Don't forget, there's also …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Flutter buttons (Flutter v3)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ElevatedButton&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;ElevatedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: ElevatedButton.styleFrom(shape: StadiumBorder()),
+  )
+  shape: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;OutlinedButton&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;OutlinedButton(
+    onPressed: () {},
+    child: Text('Button'),
+    style: OutlinedButton.styleFrom(
+        shape: StadiumBorder(),
+    ),
+)&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;TextButton&lt;/code&gt;: You can always use TextButton if you don't want an outline or color fill.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Don't forget, there's also an &lt;code&gt;.icon&lt;/code&gt; constructor to add an icon easily:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ElevatedButton.icon(
+icon: Icon(Icons.thumb_up),
+label: Text("Like"),
+onPressed: () =&amp;gt; print("it's pressed"),
+style: ElevatedButton.styleFrom(
+    shape: RoundedRectangleBorder(
+    borderRadius: BorderRadius.circular(32.0),
+    ),
+),
+)&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="flutter"></category><category term="buttons"></category></entry><entry><title>Flutter InAppWebview load css from assets</title><link href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="alternate"></link><published>2022-06-07T16:15:00+07:00</published><updated>2022-06-07T16:15:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-07:/flutter-inappwebview-load-css-from-assets.html</id><summary type="html">&lt;h1&gt;Flutter InAppWebview load css from assets&lt;/h1&gt;
 &lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Register css relation path to &lt;code&gt;pubspect.yaml&lt;/code&gt; file.&lt;/li&gt;
