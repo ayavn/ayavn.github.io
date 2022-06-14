@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="https://www.ayavn.us/static/css/main.css" />
         <link href="https://www.ayavn.us/feeds/all.atom.xml"
                 type="application/atom+xml" rel="alternate" title="AYAVN Atom Feed" />
-        <meta name="description" content="Flutter buttons (Flutter v3) ElevatedButton ElevatedButton( onPressed: () {}, child: Text('Button'), style: ElevatedButton.styleFrom(shape:..." />
+        <meta name="description" content="Flutter buttons (Flutter v3) ElevatedButton ```dart ElevatedButton( onPressed: () {}, child: Text('Button'), style:..." />
 </head>
 
 <body id="index" class="home">
@@ -69,12 +69,12 @@
 
     <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-13T09:25:14.440948+07:00">
-                Published: Mon 13 June 2022
+        <abbr class="published" title="2022-06-14T10:04:54.813595+07:00">
+                Published: Tue 14 June 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-06-13T09:25:14.440948+07:00">
-                Updated: Mon 13 June 2022
+        <abbr class="modified" title="2022-06-14T10:04:54.813595+07:00">
+                Updated: Tue 14 June 2022
         </abbr>
 
         <address class="vcard author">
@@ -84,18 +84,21 @@
 <p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/buttons.html">buttons</a> </p>
 </footer><!-- /.post-info -->      <h1>Flutter buttons (Flutter v3)</h1>
 <ul>
-<li><code>ElevatedButton</code></li>
-</ul>
-<p><code>ElevatedButton(
-    onPressed: () {},
-    child: Text('Button'),
-    style: ElevatedButton.styleFrom(shape: StadiumBorder()),
-  )
-  shape: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder</code></p>
-<ul>
+<li>
+<p><code>ElevatedButton</code></p>
+<p>```dart
+ElevatedButton(
+  onPressed: () {},
+  child: Text('Button'),
+  style: ElevatedButton.styleFrom(shape: StadiumBorder()),
+)</p>
+<p>shape types: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder
+```</p>
+</li>
 <li>
 <p><code>OutlinedButton</code></p>
-<p><code>OutlinedButton(
+<p><code>dart
+OutlinedButton(
     onPressed: () {},
     child: Text('Button'),
     style: OutlinedButton.styleFrom(
@@ -108,15 +111,16 @@
 </li>
 <li>
 <p>Don't forget, there's also an <code>.icon</code> constructor to add an icon easily:</p>
-<p><code>ElevatedButton.icon(
-icon: Icon(Icons.thumb_up),
-label: Text("Like"),
-onPressed: () =&gt; print("it's pressed"),
-style: ElevatedButton.styleFrom(
-    shape: RoundedRectangleBorder(
-    borderRadius: BorderRadius.circular(32.0),
-    ),
-),
+<p><code>dart
+ElevatedButton.icon(
+  icon: Icon(Icons.thumb_up),
+  label: Text("Like"),
+  onPressed: () =&gt; print("it's pressed"),
+  style: ElevatedButton.styleFrom(
+      shape: RoundedRectangleBorder(
+      borderRadius: BorderRadius.circular(32.0),
+      ),
+  ),
 )</code></p>
 </li>
 </ul>
