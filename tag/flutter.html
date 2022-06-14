@@ -62,11 +62,11 @@
                 <article>
                     <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-buttons.html">Flutter Buttons</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2022-06-14T10:04:54.813595+07:00">
+        <abbr class="published" title="2022-06-14T10:07:28.623970+07:00">
                 Published: Tue 14 June 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-06-14T10:04:54.813595+07:00">
+        <abbr class="modified" title="2022-06-14T10:07:28.623970+07:00">
                 Updated: Tue 14 June 2022
         </abbr>
 
@@ -76,47 +76,42 @@
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/buttons.html">buttons</a> </p>
 </footer><!-- /.post-info --><h1>Flutter buttons (Flutter v3)</h1>
+<h3>ElevatedButton</h3>
+<div class="highlight"><pre><span></span><code><span class="n">ElevatedButton</span><span class="p">(</span><span class="w"></span>
+<span class="w">  </span><span class="nl">onPressed:</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="p">{},</span><span class="w"></span>
+<span class="w">  </span><span class="nl">child:</span><span class="w"> </span><span class="n">Text</span><span class="p">(</span><span class="s1">&#39;Button&#39;</span><span class="p">),</span><span class="w"></span>
+<span class="w">  </span><span class="nl">style:</span><span class="w"> </span><span class="n">ElevatedButton</span><span class="p">.</span><span class="n">styleFrom</span><span class="p">(</span><span class="nl">shape:</span><span class="w"> </span><span class="n">StadiumBorder</span><span class="p">()),</span><span class="w"></span>
+<span class="p">)</span><span class="w"></span>
+
+<span class="n">shape</span><span class="w"> </span><span class="nl">types:</span><span class="w"> </span><span class="n">RoundedRectangleBorder</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">StadiumBorder</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">CircleBorder</span><span class="w"> </span><span class="o">/</span><span class="w"> </span><span class="n">BeveledRectangleBorder</span><span class="w"></span>
+</code></pre></div>
+
+<h3>OutlinedButton</h3>
+<div class="highlight"><pre><span></span><code><span class="n">OutlinedButton</span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="nl">onPressed:</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="p">{},</span><span class="w"></span>
+<span class="w">    </span><span class="nl">child:</span><span class="w"> </span><span class="n">Text</span><span class="p">(</span><span class="s1">&#39;Button&#39;</span><span class="p">),</span><span class="w"></span>
+<span class="w">    </span><span class="nl">style:</span><span class="w"> </span><span class="n">OutlinedButton</span><span class="p">.</span><span class="n">styleFrom</span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="nl">shape:</span><span class="w"> </span><span class="n">StadiumBorder</span><span class="p">(),</span><span class="w"></span>
+<span class="w">    </span><span class="p">),</span><span class="w"></span>
+<span class="p">)</span><span class="w"></span>
+</code></pre></div>
+
+<h3>TextButton:</h3>
 <ul>
-<li>
-<p><code>ElevatedButton</code></p>
-<p>```dart
-ElevatedButton(
-  onPressed: () {},
-  child: Text('Button'),
-  style: ElevatedButton.styleFrom(shape: StadiumBorder()),
-)</p>
-<p>shape types: RoundedRectangleBorder / StadiumBorder / CircleBorder / BeveledRectangleBorder
-```</p>
-</li>
-<li>
-<p><code>OutlinedButton</code></p>
-<p><code>dart
-OutlinedButton(
-    onPressed: () {},
-    child: Text('Button'),
-    style: OutlinedButton.styleFrom(
-        shape: StadiumBorder(),
-    ),
-)</code></p>
-</li>
-<li>
-<p><code>TextButton</code>: You can always use TextButton if you don't want an outline or color fill.</p>
-</li>
-<li>
-<p>Don't forget, there's also an <code>.icon</code> constructor to add an icon easily:</p>
-<p><code>dart
-ElevatedButton.icon(
-  icon: Icon(Icons.thumb_up),
-  label: Text("Like"),
-  onPressed: () =&gt; print("it's pressed"),
-  style: ElevatedButton.styleFrom(
-      shape: RoundedRectangleBorder(
-      borderRadius: BorderRadius.circular(32.0),
-      ),
-  ),
-)</code></p>
-</li>
-</ul><p>There are <a href="https://www.ayavn.us/flutter-buttons.html#disqus_thread">comments</a>.</p>                </article>
+<li>You can always use TextButton if you don't want an outline or color fill.</li>
+<li>Don't forget, there's also an <code>.icon</code> constructor to add an icon easily:</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="n">ElevatedButton</span><span class="p">.</span><span class="n">icon</span><span class="p">(</span><span class="w"></span>
+<span class="w">  </span><span class="nl">icon:</span><span class="w"> </span><span class="n">Icon</span><span class="p">(</span><span class="n">Icons</span><span class="p">.</span><span class="n">thumb_up</span><span class="p">),</span><span class="w"></span>
+<span class="w">  </span><span class="nl">label:</span><span class="w"> </span><span class="n">Text</span><span class="p">(</span><span class="s2">&quot;Like&quot;</span><span class="p">),</span><span class="w"></span>
+<span class="w">  </span><span class="nl">onPressed:</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">print</span><span class="p">(</span><span class="s2">&quot;it&#39;s pressed&quot;</span><span class="p">),</span><span class="w"></span>
+<span class="w">  </span><span class="nl">style:</span><span class="w"> </span><span class="n">ElevatedButton</span><span class="p">.</span><span class="n">styleFrom</span><span class="p">(</span><span class="w"></span>
+<span class="w">      </span><span class="nl">shape:</span><span class="w"> </span><span class="n">RoundedRectangleBorder</span><span class="p">(</span><span class="w"></span>
+<span class="w">      </span><span class="nl">borderRadius:</span><span class="w"> </span><span class="n">BorderRadius</span><span class="p">.</span><span class="n">circular</span><span class="p">(</span><span class="m">32.0</span><span class="p">),</span><span class="w"></span>
+<span class="w">      </span><span class="p">),</span><span class="w"></span>
+<span class="w">  </span><span class="p">),</span><span class="w"></span>
+<span class="p">)</span><span class="w"></span>
+</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-buttons.html#disqus_thread">comments</a>.</p>                </article>
             </aside><!-- /#featured -->
                 <section id="content" class="body">
                     <h1>Other articles</h1>
