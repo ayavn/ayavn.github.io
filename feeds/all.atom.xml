@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-17T09:50:59+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>Flutter online tools</title><link href="https://www.ayavn.us/flutter-online-tools.html" rel="alternate"></link><published>2022-06-17T09:50:59+07:00</published><updated>2022-06-17T09:50:59+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-17:/flutter-online-tools.html</id><summary type="html">&lt;h1&gt;Flutter online tools&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-17T09:56:30+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>Flutter online tools</title><link href="https://www.ayavn.us/flutter-online-tools.html" rel="alternate"></link><published>2022-06-17T09:56:30+07:00</published><updated>2022-06-17T09:56:30+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-17:/flutter-online-tools.html</id><summary type="html">&lt;h1&gt;Flutter online tools&lt;/h1&gt;
 &lt;h3&gt;Image:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Remove style tag for SVG image&lt;/li&gt;
@@ -29,6 +29,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="https://jakearchibald.github.io/svgomg/"&gt;Clean SVG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Note: Enable Remove Style elemets&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Model&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://javiercbk.github.io/json_to_dart/"&gt;Json to Dart&lt;/a&gt;&lt;/p&gt;</content><category term="articles"></category><category term="flutter"></category><category term="tools"></category></entry><entry><title>Flutter Buttons</title><link href="https://www.ayavn.us/flutter-buttons.html" rel="alternate"></link><published>2022-06-14T10:07:28+07:00</published><updated>2022-06-14T10:07:28+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-14:/flutter-buttons.html</id><summary type="html">&lt;h1&gt;Flutter buttons (Flutter v3)&lt;/h1&gt;
 &lt;h3&gt;ElevatedButton&lt;/h3&gt;
