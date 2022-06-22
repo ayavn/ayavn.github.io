@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T15:22:31+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T15:22:31+07:00</published><updated>2022-06-22T15:22:31+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T15:24:03+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T15:24:03+07:00</published><updated>2022-06-22T15:24:03+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
@@ -50,7 +50,6 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Step by step &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The synchronous &lt;code&gt;wait&lt;/code&gt; method blocks the current thread. Thus, you need to use &lt;code&gt;DispatchQueue.main.async&lt;/code&gt; to place the entire method into a background queue. This ensures you don’t block the &lt;code&gt;main thread&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
