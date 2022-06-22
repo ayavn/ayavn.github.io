@@ -44,7 +44,7 @@
         <meta name="msapplication-TileImage" content="./extra/ico/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
         <!-- Favico -->
-        <title>AYAVN - Categories</title>
+        <title>AYAVN - grand-center-dispatch</title>
         <link rel="stylesheet" href="https://www.ayavn.us/static/css/main.css" />
         <link href="https://www.ayavn.us/feeds/all.atom.xml"
                 type="application/atom+xml" rel="alternate" title="AYAVN Atom Feed" />
@@ -68,14 +68,63 @@
                 </nav>
         </header><!-- /#banner -->
 
-<section id="content" class="body">
-    <h1>Categories for AYAVN</h1>
-    <ul>
-        <li><a href="https://www.ayavn.us/category/articles.html">articles</a> (16)</li>
-        <li><a href="https://www.ayavn.us/category/snippets.html">Snippets</a> (1)</li>
-    </ul>
-</section>
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html">iOS Swift - Grand Central Dispatch (1)</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-06-22T14:42:38.794379+07:00">
+                Published: Wed 22 June 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-06-22T14:42:38.794379+07:00">
+                Updated: Wed 22 June 2022
+        </abbr>
 
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/ios.html">iOS</a> <a href="https://www.ayavn.us/tag/swift.html">swift</a> <a href="https://www.ayavn.us/tag/gcd.html">gcd</a> <a href="https://www.ayavn.us/tag/dispatch.html">dispatch</a> <a href="https://www.ayavn.us/tag/grand-center-dispatch.html">grand-center-dispatch</a> </p>
+</footer><!-- /.post-info --><h1>Grand Central Dispatch</h1>
+<h3>1. What is Task ?</h3>
+<ul>
+<li>Is code block</li>
+<li>Operates based on FIFO principle</li>
+</ul>
+<h3>2. Queue</h3>
+<ul>
+<li>Queue includes many Tasks </li>
+<li>Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)</li>
+</ul>
+<h3>3. DispatchQueue</h3>
+<p>#### 3.1 Main Queue
+  - For update user interface</p>
+<p><code>swift
+  DispatchQueue.main.async() {
+        //Code Run On Main Thread
+  }</code></p>
+<p>#### 3.2 Global Queue (as Concurrent Queue)
+  - For non-UI implementation of tasks</p>
+<p><code>swift
+ DispatchQueue.global().async() {
+    //Fetch Data From API
+    //Code Run On Global Thread
+ }</code>
+ #### 3.3 Custom Queue (Serial Queue or Concurrent Queue)</p>
+<p>```swift
+ let queue = DispatchQueue.global(qos: .background)</p>
+<p>queue.sync {
+    //Execute A Block Code
+ }</p>
+<p>// qos: (quality of service)
+ // userInterative (update UI) : serial main queue
+ // userInitiated (async UI related task) : hight priority global queue
+ // default: default priority global queue
+ // utility: low priority global queue
+ // background: global background queue
+ // unspecified: low priority global queue
+ ```</p><p>There are <a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>Links</h2>
