@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T14:44:10+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T14:44:10+07:00</published><updated>2022-06-22T14:44:10+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T14:44:38+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T14:44:38+07:00</published><updated>2022-06-22T14:44:38+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h3&gt;1. What is Task ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Is code block&lt;/li&gt;
@@ -15,7 +15,7 @@
   - For update user interface&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;swift
   DispatchQueue.main.async() {
-        //Code Run On Main …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch&lt;/h1&gt;
+        //Code Run On …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h3&gt;1. What is Task ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Is code block&lt;/li&gt;
