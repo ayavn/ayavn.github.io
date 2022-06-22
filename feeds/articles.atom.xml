@@ -1,63 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T14:49:42+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T14:49:42+07:00</published><updated>2022-06-22T14:49:42+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - articles</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/articles.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T15:15:35+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T15:15:35+07:00</published><updated>2022-06-22T15:15:35+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Is code block&lt;/li&gt;
-&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
+&lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
+&lt;li&gt;You can either wait for them to complete or receive a notification once they finish&lt;/li&gt;
+&lt;li&gt;Tasks can be asynchronous or synchronous and can even run on different queues.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. Queue&lt;/h3&gt;
+&lt;h2&gt;2. Using dispatch groups with synchronous …&lt;/h2&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
-&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
+&lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
+&lt;li&gt;You can either wait for them to complete or receive a notification once they finish&lt;/li&gt;
+&lt;li&gt;Tasks can be asynchronous or synchronous and can even run on different queues.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
-&lt;p&gt;#### 3.1 Main Queue
-  - For update user interface&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
-  DispatchQueue.main.async() {
-        //Code Run On …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Is code block&lt;/li&gt;
-&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Queue&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
-&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
-&lt;p&gt;#### 3.1 Main Queue
-  - For update user interface&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
-  DispatchQueue.main.async() {
-        //Code Run On Main Thread
-  }&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;#### 3.2 Global Queue (as Concurrent Queue)
-  - For non-UI implementation of tasks&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
- DispatchQueue.global().async() {
-    //Fetch Data From API
-    //Code Run On Global Thread
- }&lt;/code&gt;
- #### 3.3 Custom Queue (Serial Queue or Concurrent Queue)&lt;/p&gt;
+&lt;h2&gt;2. Using dispatch groups with synchronous &lt;code&gt;wait()&lt;/code&gt; method&lt;/h2&gt;
 &lt;p&gt;```swift
- let queue = DispatchQueue.global(qos: .background)&lt;/p&gt;
-&lt;p&gt;queue.sync {
-    //Execute A Block Code
- }&lt;/p&gt;
-&lt;p&gt;// qos: (quality of service)
- // userInterative (update UI) : serial main queue
- // userInitiated (async UI related task) : hight priority global queue
- // default: default priority global queue
- // utility: low priority global queue
- // background: global background queue
- // unspecified: low priority global queue
- ```&lt;/p&gt;
-&lt;h3&gt;Refer:&lt;/h3&gt;
+ // 1
+ DispatchQueue.global(qos: .userInitiated).async {
+   var storedError: NSError?&lt;/p&gt;
+&lt;p&gt;// 2
+   let dispatchGroup = DispatchGroup()&lt;/p&gt;
+&lt;p&gt;for address in [
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+   ] {
+      guard let url = URL(string: address) else { return }&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;dispatchGroup&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;enter&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;let&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;photo&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;DownloadRemoteImage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;_&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ow"&gt;in&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="n"&gt;storedError&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="n"&gt;dispatchGroup&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;leave&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;}   &lt;/p&gt;
+&lt;p&gt;// 5    &lt;br&gt;
+   dispatchGroup.wait()&lt;/p&gt;
+&lt;p&gt;// 6
+   DispatchQueue.main.async {
+      completion?(storedError)
+   } &lt;br&gt;
+ }
+ &lt;code&gt;``
+ - Step by step 
+   - The synchronous&lt;/code&gt;wait&lt;code&gt;method blocks the current thread. Thus, you need to use&lt;/code&gt;DispatchQueue.main.async&lt;code&gt;to place the entire method into a background queue. This ensures you don’t block the&lt;/code&gt;main thread`.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[Tutorial] (https://www.raywenderlich.com/28540615-grand-central-dispatch-tutorial-for-swift-5-part-1-2)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T14:44:38+07:00</published><updated>2022-06-22T14:44:38+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+&lt;li&gt;Create a new dispatch group.&lt;/li&gt;
+&lt;li&gt;Call &lt;code&gt;enter()&lt;/code&gt; to manually notify the group that a task has started. You must balance out the number of &lt;code&gt;enter()&lt;/code&gt; calls with the number of &lt;code&gt;leave()&lt;/code&gt; calls, or your app will crash.&lt;/li&gt;
+&lt;li&gt;Notify the group that this work is done.&lt;/li&gt;
+&lt;li&gt;Call &lt;code&gt;wait()&lt;/code&gt; to block the current thread while waiting for tasks’ completion. This waits forever — which is fine because the photos creation task always completes. You can use &lt;code&gt;wait(timeout:)&lt;/code&gt; to specify a timeout and bail out on waiting after a specified time.&lt;/li&gt;
+&lt;li&gt;At this point, you know that all image tasks have either completed or timed out. You then make a call back to the main queue to run your completion closure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. Using dispatch groups with asynchronous method (notify(queue:work:))&lt;/h2&gt;
+&lt;p&gt;```swift
+   var storedError: NSError?&lt;/p&gt;
+&lt;p&gt;// 2
+   let dispatchGroup = DispatchGroup()&lt;/p&gt;
+&lt;p&gt;for address in [
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+      "https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg",
+   ] {
+      guard let url = URL(string: address) else { return }&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;dispatchGroup&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;enter&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;let&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;photo&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;DownloadRemoteImage&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;_&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="ow"&gt;in&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="n"&gt;storedError&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="n"&gt;dispatchGroup&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;leave&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;}  &lt;/p&gt;
+&lt;p&gt;// 2  &lt;br&gt;
+   downloadGroup.notify(queue: DispatchQueue.main) {
+      completion?(storedError)
+   }
+ &lt;code&gt;``
+ - You don’t need to put the method in an async call since you’re not blocking the main thread.
+ -&lt;/code&gt;notify(queue:work:)` serves as the asynchronous completion closure. It runs when there are no more items left in the group.&lt;/p&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T14:52:30+07:00</published><updated>2022-06-22T14:52:30+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h3&gt;1. What is Task ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Is code block&lt;/li&gt;
