@@ -79,11 +79,11 @@
 
     <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-22T15:18:12.599716+07:00">
+        <abbr class="published" title="2022-06-22T15:20:25.181647+07:00">
                 Published: Wed 22 June 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-06-22T15:18:12.599716+07:00">
+        <abbr class="modified" title="2022-06-22T15:20:25.181647+07:00">
                 Updated: Wed 22 June 2022
         </abbr>
 
@@ -106,10 +106,11 @@
 <h3>3. DispatchQueue</h3>
 <p>#### 3.1 Main Queue
   - For update user interface</p>
-<p><code>Swift
-  DispatchQueue.main.async() {
-        //Code Run On Main Thread
-  }</code></p>
+<div class="highlight"><pre><span></span><code><span class="n">DispatchQueue</span><span class="p">.</span><span class="n">main</span><span class="p">.</span><span class="k">async</span><span class="p">()</span> <span class="p">{</span>
+   <span class="c1">//Code Run On Main Thread</span>
+<span class="p">}</span>
+</code></pre></div>
+
 <p>#### 3.2 Global Queue (as Concurrent Queue)
   - For non-UI implementation of tasks</p>
 <p><code>Swift
