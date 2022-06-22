@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T15:15:35+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T15:15:35+07:00</published><updated>2022-06-22T15:15:35+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-22T15:18:12+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T15:18:12+07:00</published><updated>2022-06-22T15:18:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is code block&lt;/li&gt;
+&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Queue&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
+&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
+&lt;p&gt;#### 3.1 Main Queue
+  - For update user interface&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Swift
+  DispatchQueue.main.async() {
+        //Code Run On …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is code block&lt;/li&gt;
+&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. Queue&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
+&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
+&lt;p&gt;#### 3.1 Main Queue
+  - For update user interface&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Swift
+  DispatchQueue.main.async() {
+        //Code Run On Main Thread
+  }&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;#### 3.2 Global Queue (as Concurrent Queue)
+  - For non-UI implementation of tasks&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Swift
+ DispatchQueue.global().async() {
+    //Fetch Data From API
+    //Code Run On Global Thread
+ }&lt;/code&gt;
+ #### 3.3 Custom Queue (Serial Queue or Concurrent Queue)&lt;/p&gt;
+&lt;p&gt;```Swift
+ let queue = DispatchQueue.global(qos: .background)&lt;/p&gt;
+&lt;p&gt;queue.sync {
+    //Execute A Block Code
+ }&lt;/p&gt;
+&lt;p&gt;// qos: (quality of service)
+ // userInterative (update UI) : serial main queue
+ // userInitiated (async UI related task) : hight priority global queue
+ // default: default priority global queue
+ // utility: low priority global queue
+ // background: global background queue
+ // unspecified: low priority global queue
+ ```&lt;/p&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-22T15:18:04+07:00</published><updated>2022-06-22T15:18:04+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
@@ -14,7 +68,7 @@
 &lt;li&gt;Tasks can be asynchronous or synchronous and can even run on different queues.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;2. Using dispatch groups with synchronous &lt;code&gt;wait()&lt;/code&gt; method&lt;/h2&gt;
-&lt;p&gt;```swift
+&lt;p&gt;```Swift
  // 1
  DispatchQueue.global(qos: .userInitiated).async {
    var storedError: NSError?&lt;/p&gt;
@@ -56,7 +110,7 @@
 &lt;li&gt;At this point, you know that all image tasks have either completed or timed out. You then make a call back to the main queue to run your completion closure.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;3. Using dispatch groups with asynchronous method (notify(queue:work:))&lt;/h2&gt;
-&lt;p&gt;```swift
+&lt;p&gt;```Swift
    var storedError: NSError?&lt;/p&gt;
 &lt;p&gt;// 2
    let dispatchGroup = DispatchGroup()&lt;/p&gt;
@@ -81,61 +135,7 @@
    }
  &lt;code&gt;``
  - You don’t need to put the method in an async call since you’re not blocking the main thread.
- -&lt;/code&gt;notify(queue:work:)` serves as the asynchronous completion closure. It runs when there are no more items left in the group.&lt;/p&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T14:52:30+07:00</published><updated>2022-06-22T14:52:30+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Is code block&lt;/li&gt;
-&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Queue&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
-&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
-&lt;p&gt;#### 3.1 Main Queue
-  - For update user interface&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
-  DispatchQueue.main.async() {
-        //Code Run On …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Is code block&lt;/li&gt;
-&lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;2. Queue&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Queue includes many Tasks &lt;/li&gt;
-&lt;li&gt;Task can be executed sequentially (Serial Queue) or concurrently (Concurrent Queue)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;3. DispatchQueue&lt;/h3&gt;
-&lt;p&gt;#### 3.1 Main Queue
-  - For update user interface&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
-  DispatchQueue.main.async() {
-        //Code Run On Main Thread
-  }&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;#### 3.2 Global Queue (as Concurrent Queue)
-  - For non-UI implementation of tasks&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;swift
- DispatchQueue.global().async() {
-    //Fetch Data From API
-    //Code Run On Global Thread
- }&lt;/code&gt;
- #### 3.3 Custom Queue (Serial Queue or Concurrent Queue)&lt;/p&gt;
-&lt;p&gt;```swift
- let queue = DispatchQueue.global(qos: .background)&lt;/p&gt;
-&lt;p&gt;queue.sync {
-    //Execute A Block Code
- }&lt;/p&gt;
-&lt;p&gt;// qos: (quality of service)
- // userInterative (update UI) : serial main queue
- // userInitiated (async UI related task) : hight priority global queue
- // default: default priority global queue
- // utility: low priority global queue
- // background: global background queue
- // unspecified: low priority global queue
- ```&lt;/p&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>Flutter Enum</title><link href="https://www.ayavn.us/flutter-enum.html" rel="alternate"></link><published>2022-06-20T17:01:57+07:00</published><updated>2022-06-20T17:01:57+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-20:/flutter-enum.html</id><summary type="html">&lt;h1&gt;Flutter Enum&lt;/h1&gt;
+ -&lt;/code&gt;notify(queue:work:)` serves as the asynchronous completion closure. It runs when there are no more items left in the group.&lt;/p&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>Flutter Enum</title><link href="https://www.ayavn.us/flutter-enum.html" rel="alternate"></link><published>2022-06-20T17:01:57+07:00</published><updated>2022-06-20T17:01:57+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-20:/flutter-enum.html</id><summary type="html">&lt;h1&gt;Flutter Enum&lt;/h1&gt;
 &lt;h4&gt;What is enum ?&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Enum in dart is enumerated, iterable&lt;/li&gt;
