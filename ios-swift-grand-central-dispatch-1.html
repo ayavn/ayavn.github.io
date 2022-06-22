@@ -79,11 +79,11 @@
 
     <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-22T15:20:25.181647+07:00">
+        <abbr class="published" title="2022-06-22T15:22:00.564781+07:00">
                 Published: Wed 22 June 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-06-22T15:20:25.181647+07:00">
+        <abbr class="modified" title="2022-06-22T15:22:00.564781+07:00">
                 Updated: Wed 22 June 2022
         </abbr>
 
@@ -113,25 +113,27 @@
 
 <p>#### 3.2 Global Queue (as Concurrent Queue)
   - For non-UI implementation of tasks</p>
-<p><code>Swift
- DispatchQueue.global().async() {
-    //Fetch Data From API
-    //Code Run On Global Thread
- }</code>
- #### 3.3 Custom Queue (Serial Queue or Concurrent Queue)</p>
-<p>```Swift
- let queue = DispatchQueue.global(qos: .background)</p>
-<p>queue.sync {
-    //Execute A Block Code
- }</p>
-<p>// qos: (quality of service)
- // userInterative (update UI) : serial main queue
- // userInitiated (async UI related task) : hight priority global queue
- // default: default priority global queue
- // utility: low priority global queue
- // background: global background queue
- // unspecified: low priority global queue
- ```</p>
+<div class="highlight"><pre><span></span><code><span class="n">DispatchQueue</span><span class="p">.</span><span class="n">global</span><span class="p">().</span><span class="k">async</span><span class="p">()</span> <span class="p">{</span>
+   <span class="c1">//Fetch Data From API</span>
+   <span class="c1">//Code Run On Global Thread</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>#### 3.3 Custom Queue (Serial Queue or Concurrent Queue)</p>
+<div class="highlight"><pre><span></span><code><span class="kd">let</span> <span class="nv">queue</span> <span class="p">=</span> <span class="n">DispatchQueue</span><span class="p">.</span><span class="n">global</span><span class="p">(</span><span class="n">qos</span><span class="p">:</span> <span class="p">.</span><span class="n">background</span><span class="p">)</span>
+
+<span class="n">queue</span><span class="p">.</span><span class="n">sync</span> <span class="p">{</span>
+   <span class="c1">//Execute A Block Code</span>
+<span class="p">}</span>
+
+<span class="c1">// qos: (quality of service)</span>
+<span class="c1">// userInterative (update UI) : serial main queue</span>
+<span class="c1">// userInitiated (async UI related task) : hight priority global queue</span>
+<span class="c1">// default: default priority global queue</span>
+<span class="c1">// utility: low priority global queue</span>
+<span class="c1">// background: global background queue</span>
+<span class="c1">// unspecified: low priority global queue</span>
+</code></pre></div>
     </div><!-- /.entry-content -->
     <div class="comments">
       <h2>Comments !</h2>
