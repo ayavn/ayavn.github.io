@@ -59,6 +59,7 @@
                 <nav>
                         <ul>
                                 <li><a href="/pages/donate.html">🍻🍻🍻 Support me 🍻🍻🍻</a></li>
+                                <li><a href="/category/news.html">News</a></li>
                                 <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
                                 <li><a href="/category/articles.html">Articles</a></li>
                                 <li><a href="/pages/contact.html">Contact me</a></li>
@@ -70,6 +71,50 @@
 
                 <section id="content" class="body">
                     <ol id="posts-list" class="hfeed" start="9">
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html" rel="bookmark"
+                           title="Permalink to Implementation Universal/AppLink in both iOS and Android">Implementation Universal/AppLink in both iOS and Android</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-05-19T09:20:55.021587+07:00">
+                Published: Thu 19 May 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-05-19T09:20:55.021587+07:00">
+                Updated: Thu 19 May 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/universal.html">universal</a> <a href="https://www.ayavn.us/tag/applink.html">applink</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> </p>
+</footer><!-- /.post-info -->                <h1>Implementation Universal/AppLink in both iOS and Android</h1>
+<h2>Android</h2>
+<ol>
+<li>Host a website with https then upload config files: <code>https://your-web-host-name/.well-known/assetlinks.json</code></li>
+</ol>
+<div class="highlight"><pre><span></span><code>[
+  {
+    &quot;relation&quot;: [&quot;delegate_permission/common.handle_all_urls&quot;],
+    &quot;target&quot;: {
+      &quot;namespace&quot;: &quot;android_app&quot;,
+      &quot;package_name&quot;: &quot;&lt;android-app-package-name&gt;&quot;,
+      &quot;sha256_cert_fingerprints&quot;: [&quot;&lt;android-fingerprint&gt;&quot;]
+    }
+  }
+]
+</code></pre></div>
+
+<p>get android-debug-fingerprint from </p>
+<p><code>keytool -exportcert -list -v -alias androiddebugkey …</code></p>
+                <a class="readmore" href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
+
             <li><article class="hentry">
                 <header>
                     <h1><a href="https://www.ayavn.us/flutter-ripple-animation.html" rel="bookmark"

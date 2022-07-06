@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN - news</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/news.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-07-06T15:49:32+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>How to clear your browser cache</title><link href="https://www.ayavn.us/how-to-clear-your-browser-cache.html" rel="alternate"></link><published>2022-07-06T15:49:32+07:00</published><updated>2022-07-06T15:49:32+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/how-to-clear-your-browser-cache.html</id><summary type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless you’ve been instructed sometime in the past to clear your cache, you may be unaware of this otherwise invisible feature.&lt;/p&gt;
+&lt;p&gt;Here’s how to clear your cache on the major browsers and on your Android or iOS devices. We’ve also included instructions on how to clear the data for a single site if you need to.&lt;/p&gt;
+&lt;h2&gt;Chrome&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Check" src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-08-11_am.jpeg" title="screen_shot_2022_07_01_at_10-08-11_am"&gt;&lt;em&gt;Check the cached images and files box.&lt;/em&gt;- Click on the three dots in the upper right corner
+- On the desktop version, select &lt;strong&gt;More Tools &amp;gt; Clear Browsing Data...&lt;/strong&gt; On the mobile app, select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Clear browsing data&lt;/strong&gt;
+- Make sure the &lt;strong&gt;Cached images and files&lt;/strong&gt; box is checked. (You can also choose to clear your browsing history and cookies if you want — click on the Advanced tab if you want to get more specific.)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down menu to choose how far back to go. (In the case of clearing your cache, &lt;strong&gt;All time&lt;/strong&gt; is best.)
+- Click on the &lt;strong&gt;Clear data&lt;/strong&gt; button.&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Cookies and other site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner and select the trash can icon to the right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Safari&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Clear." src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-30-38_am.jpeg" title="screen_shot_2022_07_01_at_10-30-38_am"&gt;&lt;em&gt;It’s very simple to clear everything out in Safari.&lt;/em&gt;Interestingly, Safari makes it very easy to clear all your data — including cache, browsing history, and cookies — at one blow. But it’s not as obvious if you just want to clear your browser cache.&lt;/p&gt;
+&lt;p&gt;To do it the easy way:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While you’re in the Safari browser on your desktop, go to the top menu and select &lt;strong&gt;Safari &amp;gt; Clear History...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select the time period (last hour, today, today and yesterday, all history) you want to clear and click on &lt;strong&gt;Clear History&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Or, on your iPhone, tap the &lt;strong&gt;Bookmarks&lt;/strong&gt; icon at the bottom of the screen (it looks like an open book) and then on the &lt;strong&gt;History&lt;/strong&gt; icon (the clock).&lt;/li&gt;
+&lt;li&gt;Tap on the &lt;strong&gt;Clear button&lt;/strong&gt; and select your time period.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to just clear out the browser cache on your web browser, it’s a little more complicated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look to see if there is a &lt;strong&gt;Develop&lt;/strong&gt; section in your Safari’s top menu. If not, go to &lt;strong&gt;Safari &amp;gt; Preferences... &amp;gt; Advanced&lt;/strong&gt; and check &lt;strong&gt;Show Develop in menu bar&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Develop &amp;gt; Empty Caches&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on &lt;strong&gt;Safari &amp;gt; Preferences...&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Click the &lt;strong&gt;Privacy&lt;/strong&gt; tab and then &lt;strong&gt;Manage Website Data...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You’ll get a list of websites. To remove one, click on it and then click &lt;strong&gt;Remove&lt;/strong&gt;. To remove all website data from Safari, click &lt;strong&gt;Remove All&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Microsoft Edge&lt;/h2&gt;
+&lt;p&gt;The Edge browsers for desktop and mobile are different enough, so we’ll describe the process separately.&lt;/p&gt;
+&lt;h3&gt;Desktop browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="As" src="https://www.ayavn.us/images/uploads/2022/07/screenshot__309_-1.jpg" title="screenshot__309_-1"&gt;&lt;em&gt;As in Chrome, just check the correct box to empty your cache.&lt;/em&gt;- Click the three dots in the upper right corner
+- Select &lt;strong&gt;Settings &amp;gt; Privacy, search, and services&lt;/strong&gt;
+- Scroll down to &lt;strong&gt;Clear browsing data&lt;/strong&gt; and click on &lt;strong&gt;Choose what to clear&lt;/strong&gt;
+- Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked (and check any other data you want to clear out)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down to select the last hour, last 24 hours, last four weeks, or all time
+- Click on &lt;strong&gt;Clear now&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Cookies and site permissions &amp;gt; Manage and delete cookies and site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner or scroll down to find it&lt;/li&gt;
+&lt;li&gt;Click on the “down” arrow next to the site name, and then use the trash can icons to delete the cookies and data.&lt;/li&gt;
+&lt;li&gt;You can also use the buttons on top to &lt;strong&gt;Remove all shown&lt;/strong&gt; or &lt;strong&gt;Remove third-party cookies&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mobile browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="In" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113547-1.jpeg" title="screenshot_20220701_113547-1"&gt;&lt;em&gt;In mobile Edge, click the bottom three dots and then choose Settings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="You" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113441-1.jpeg" title="screenshot_20220701_113441-1"&gt;&lt;em&gt;You can arrange to have all browsing data cleared on exit.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap on the three dots at the bottom of the screen and select &lt;strong&gt;Settings &amp;gt; Privacy and security&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Clear browsing data&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked, and use the drop-down menu to pick your time range.&lt;/li&gt;
+&lt;li&gt;If you want, you can toggle on &lt;strong&gt;Clear browsing data upon exit&lt;/strong&gt; to clear out all your data each time you exit Edge.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="news"></category><category term="GOOGLE"></category><category term="HOW-TO"></category><category term="WEB"></category></entry></feed>

@@ -1,5 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-06-29T13:26:12+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-29T13:26:12+07:00</published><updated>2022-06-29T13:26:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-29:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-07-06T15:49:32+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>How to clear your browser cache</title><link href="https://www.ayavn.us/how-to-clear-your-browser-cache.html" rel="alternate"></link><published>2022-07-06T15:49:32+07:00</published><updated>2022-07-06T15:49:32+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/how-to-clear-your-browser-cache.html</id><summary type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless you’ve been instructed sometime in the past to clear your cache, you may be unaware of this otherwise invisible feature.&lt;/p&gt;
+&lt;p&gt;Here’s how to clear your cache on the major browsers and on your Android or iOS devices. We’ve also included instructions on how to clear the data for a single site if you need to.&lt;/p&gt;
+&lt;h2&gt;Chrome&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Check" src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-08-11_am.jpeg" title="screen_shot_2022_07_01_at_10-08-11_am"&gt;&lt;em&gt;Check the cached images and files box.&lt;/em&gt;- Click on the three dots in the upper right corner
+- On the desktop version, select &lt;strong&gt;More Tools &amp;gt; Clear Browsing Data...&lt;/strong&gt; On the mobile app, select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Clear browsing data&lt;/strong&gt;
+- Make sure the &lt;strong&gt;Cached images and files&lt;/strong&gt; box is checked. (You can also choose to clear your browsing history and cookies if you want — click on the Advanced tab if you want to get more specific.)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down menu to choose how far back to go. (In the case of clearing your cache, &lt;strong&gt;All time&lt;/strong&gt; is best.)
+- Click on the &lt;strong&gt;Clear data&lt;/strong&gt; button.&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Cookies and other site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner and select the trash can icon to the right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Safari&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Clear." src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-30-38_am.jpeg" title="screen_shot_2022_07_01_at_10-30-38_am"&gt;&lt;em&gt;It’s very simple to clear everything out in Safari.&lt;/em&gt;Interestingly, Safari makes it very easy to clear all your data — including cache, browsing history, and cookies — at one blow. But it’s not as obvious if you just want to clear your browser cache.&lt;/p&gt;
+&lt;p&gt;To do it the easy way:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While you’re in the Safari browser on your desktop, go to the top menu and select &lt;strong&gt;Safari &amp;gt; Clear History...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select the time period (last hour, today, today and yesterday, all history) you want to clear and click on &lt;strong&gt;Clear History&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Or, on your iPhone, tap the &lt;strong&gt;Bookmarks&lt;/strong&gt; icon at the bottom of the screen (it looks like an open book) and then on the &lt;strong&gt;History&lt;/strong&gt; icon (the clock).&lt;/li&gt;
+&lt;li&gt;Tap on the &lt;strong&gt;Clear button&lt;/strong&gt; and select your time period.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to just clear out the browser cache on your web browser, it’s a little more complicated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look to see if there is a &lt;strong&gt;Develop&lt;/strong&gt; section in your Safari’s top menu. If not, go to &lt;strong&gt;Safari &amp;gt; Preferences... &amp;gt; Advanced&lt;/strong&gt; and check &lt;strong&gt;Show Develop in menu bar&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Develop &amp;gt; Empty Caches&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on &lt;strong&gt;Safari &amp;gt; Preferences...&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Click the &lt;strong&gt;Privacy&lt;/strong&gt; tab and then &lt;strong&gt;Manage Website Data...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You’ll get a list of websites. To remove one, click on it and then click &lt;strong&gt;Remove&lt;/strong&gt;. To remove all website data from Safari, click &lt;strong&gt;Remove All&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Microsoft Edge&lt;/h2&gt;
+&lt;p&gt;The Edge browsers for desktop and mobile are different enough, so we’ll describe the process separately.&lt;/p&gt;
+&lt;h3&gt;Desktop browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="As" src="https://www.ayavn.us/images/uploads/2022/07/screenshot__309_-1.jpg" title="screenshot__309_-1"&gt;&lt;em&gt;As in Chrome, just check the correct box to empty your cache.&lt;/em&gt;- Click the three dots in the upper right corner
+- Select &lt;strong&gt;Settings &amp;gt; Privacy, search, and services&lt;/strong&gt;
+- Scroll down to &lt;strong&gt;Clear browsing data&lt;/strong&gt; and click on &lt;strong&gt;Choose what to clear&lt;/strong&gt;
+- Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked (and check any other data you want to clear out)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down to select the last hour, last 24 hours, last four weeks, or all time
+- Click on &lt;strong&gt;Clear now&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Cookies and site permissions &amp;gt; Manage and delete cookies and site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner or scroll down to find it&lt;/li&gt;
+&lt;li&gt;Click on the “down” arrow next to the site name, and then use the trash can icons to delete the cookies and data.&lt;/li&gt;
+&lt;li&gt;You can also use the buttons on top to &lt;strong&gt;Remove all shown&lt;/strong&gt; or &lt;strong&gt;Remove third-party cookies&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mobile browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="In" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113547-1.jpeg" title="screenshot_20220701_113547-1"&gt;&lt;em&gt;In mobile Edge, click the bottom three dots and then choose Settings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="You" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113441-1.jpeg" title="screenshot_20220701_113441-1"&gt;&lt;em&gt;You can arrange to have all browsing data cleared on exit.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap on the three dots at the bottom of the screen and select &lt;strong&gt;Settings &amp;gt; Privacy and security&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Clear browsing data&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked, and use the drop-down menu to pick your time range.&lt;/li&gt;
+&lt;li&gt;If you want, you can toggle on &lt;strong&gt;Clear browsing data upon exit&lt;/strong&gt; to clear out all your data each time you exit Edge.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="news"></category><category term="GOOGLE"></category><category term="HOW-TO"></category><category term="WEB"></category></entry><entry><title>Auth0 and multiple environments for iOS apps</title><link href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html" rel="alternate"></link><published>2022-07-06T15:42:00+07:00</published><updated>2022-07-06T15:42:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/auth0-and-multiple-environments-for-ios-apps.html</id><summary type="html">&lt;h1&gt;Auth0 and multiple environments for iOS apps&lt;/h1&gt;
+&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
+&lt;p&gt;One trick to solve …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Auth0 and multiple environments for iOS apps&lt;/h1&gt;
+&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
+&lt;p&gt;One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:&lt;/p&gt;
+&lt;h2&gt;Go to settings&lt;/h2&gt;
+&lt;p&gt;Click on the little + symbol and add the following &lt;code&gt;Run Script&lt;/code&gt;:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;RESOURCE_PATH=&lt;span class="nv"&gt;$SRCROOT&lt;/span&gt;/Authentication
+
+FILENAME_IN_BUNDLE=Auth0.plist
+
+BUILD_APP_DIR=&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;BUILT_PRODUCTS_DIR&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;/&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;PRODUCT_NAME&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;.app
+
+if [ &amp;quot;&lt;span class="nv"&gt;$CONFIGURATION&lt;/span&gt;&amp;quot; == &amp;quot;Debug&amp;quot; ]; then
+cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-development.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
+else
+cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-production.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
+fi
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;Create the different files for development and production&lt;/h2&gt;
+&lt;p&gt;Create a folder called “Authentication” to match the script above and add your new configuration files there. One for &lt;code&gt;Auth0-development.plist&lt;/code&gt; and another for &lt;code&gt;Auth0-production.plist&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;They should like something like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;&amp;lt;!DOCTYPE plist PUBLIC &amp;quot;-//Apple//DTD PLIST 1.0//EN&amp;quot; &amp;quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;plist&lt;/span&gt; &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;1.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;dict&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;ClientId&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;edb274d8c594429b8ccc684d79d771f6&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;Domain&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;dev-frs11rs2.us.auth0.com&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/dict&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/plist&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Done!, once you run your app in either &lt;code&gt;development&lt;/code&gt; or &lt;code&gt;production&lt;/code&gt; the right config file will be used.&lt;/p&gt;
+&lt;h3&gt;Refer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps"&gt;https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="auth0"></category><category term="iOS"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-29T13:26:12+07:00</published><updated>2022-06-29T13:26:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-29:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
 &lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
@@ -431,46 +535,7 @@
 &lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;action:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponseAction&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;PROCEED&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="basic-auth"></category></entry><entry><title>Plist files and multiple environments for iOS apps</title><link href="https://www.ayavn.us/plist-files-and-multiple-environments-for-ios-apps.html" rel="alternate"></link><published>2022-06-06T09:56:35+07:00</published><updated>2022-06-06T09:56:35+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-06:/plist-files-and-multiple-environments-for-ios-apps.html</id><summary type="html">&lt;h1&gt;Plist files and multiple environments for iOS apps&lt;/h1&gt;
-&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
-&lt;p&gt;One trick to …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Plist files and multiple environments for iOS apps&lt;/h1&gt;
-&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
-&lt;p&gt;One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:&lt;/p&gt;
-&lt;h2&gt;Go to settings&lt;/h2&gt;
-&lt;p&gt;Click on the little + symbol and add the following &lt;code&gt;Run Script&lt;/code&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;RESOURCE_PATH=&lt;span class="nv"&gt;$SRCROOT&lt;/span&gt;/Authentication
-
-FILENAME_IN_BUNDLE=Auth0.plist
-
-BUILD_APP_DIR=&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;BUILT_PRODUCTS_DIR&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;/&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;PRODUCT_NAME&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;.app
-
-if [ &amp;quot;&lt;span class="nv"&gt;$CONFIGURATION&lt;/span&gt;&amp;quot; == &amp;quot;Debug&amp;quot; ]; then
-cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-development.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
-else
-cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-production.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
-fi
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2&gt;Create the different files for development and production&lt;/h2&gt;
-&lt;p&gt;Create a folder called “Authentication” to match the script above and add your new configuration files there. One for &lt;code&gt;Auth0-development.plist&lt;/code&gt; and another for &lt;code&gt;Auth0-production.plist&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;They should like something like this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
-&lt;span class="cp"&gt;&amp;lt;!DOCTYPE plist PUBLIC &amp;quot;-//Apple//DTD PLIST 1.0//EN&amp;quot; &amp;quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&amp;quot;&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;plist&lt;/span&gt; &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;1.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;dict&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;ClientId&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;edb274d8c594429b8ccc684d79d771f6&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;Domain&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;dev-frs11rs2.us.auth0.com&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/dict&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/plist&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Done!, once you run your app in either &lt;code&gt;development&lt;/code&gt; or &lt;code&gt;production&lt;/code&gt; the right config file will be used.&lt;/p&gt;
-&lt;h3&gt;Refer:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps"&gt;https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="plist"></category><category term="iOS"></category></entry><entry><title>[Flutter] Widget to image</title><link href="https://www.ayavn.us/flutter-widget-to-image.html" rel="alternate"></link><published>2022-05-25T17:03:12+07:00</published><updated>2022-05-25T17:03:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-25:/flutter-widget-to-image.html</id><summary type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="basic-auth"></category></entry><entry><title>[Flutter] Widget to image</title><link href="https://www.ayavn.us/flutter-widget-to-image.html" rel="alternate"></link><published>2022-05-25T17:03:12+07:00</published><updated>2022-05-25T17:03:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-25:/flutter-widget-to-image.html</id><summary type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
 
 &lt;span class="n"&gt;RepaintBoundary&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
