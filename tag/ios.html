@@ -71,13 +71,13 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html">Auth0 and multiple environments for iOS apps</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html">iOS Swift - Grand Central Dispatch (2)</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2022-07-06T15:42:00.150280+07:00">
+        <abbr class="published" title="2022-07-06T16:10:59.470824+07:00">
                 Published: Wed 06 July 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-07-06T15:42:00.150280+07:00">
+        <abbr class="modified" title="2022-07-06T16:10:59.470824+07:00">
                 Updated: Wed 06 July 2022
         </abbr>
 
@@ -85,83 +85,97 @@
                 By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/auth0.html">auth0</a> <a href="https://www.ayavn.us/tag/ios.html">iOS</a> </p>
-</footer><!-- /.post-info --><h1>Auth0 and multiple environments for iOS apps</h1>
-<p>One thing that's a little odd about <code>Auth0</code> is that you need to setup an <code>Auth0.plist</code> file to configure the service. This becomes a problem when you want to separate <code>development</code> from <code>production</code> environments where keys are different.</p>
-<p>One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:</p>
-<h2>Go to settings</h2>
-<p>Click on the little + symbol and add the following <code>Run Script</code>:</p>
-<div class="highlight"><pre><span></span><code>RESOURCE_PATH=<span class="nv">$SRCROOT</span>/Authentication
-
-FILENAME_IN_BUNDLE=Auth0.plist
-
-BUILD_APP_DIR=<span class="cp">${</span><span class="n">BUILT_PRODUCTS_DIR</span><span class="cp">}</span>/<span class="cp">${</span><span class="n">PRODUCT_NAME</span><span class="cp">}</span>.app
-
-if [ &quot;<span class="nv">$CONFIGURATION</span>&quot; == &quot;Debug&quot; ]; then
-cp <span class="nv">$RESOURCE_PATH</span>/Auth0-development.plist <span class="nv">$BUILD_APP_DIR</span>/<span class="nv">$FILENAME_IN_BUNDLE</span>
-else
-cp <span class="nv">$RESOURCE_PATH</span>/Auth0-production.plist <span class="nv">$BUILD_APP_DIR</span>/<span class="nv">$FILENAME_IN_BUNDLE</span>
-fi
-</code></pre></div>
-
-<h2>Create the different files for development and production</h2>
-<p>Create a folder called “Authentication” to match the script above and add your new configuration files there. One for <code>Auth0-development.plist</code> and another for <code>Auth0-production.plist</code>.</p>
-<p>They should like something like this:</p>
-<div class="highlight"><pre><span></span><code><span class="cp">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</span>
-<span class="cp">&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;</span>
-<span class="nt">&lt;plist</span> <span class="na">version=</span><span class="s">&quot;1.0&quot;</span><span class="nt">&gt;</span>
-<span class="nt">&lt;dict&gt;</span>
-    <span class="nt">&lt;key&gt;</span>ClientId<span class="nt">&lt;/key&gt;</span>
-    <span class="nt">&lt;string&gt;</span>edb274d8c594429b8ccc684d79d771f6<span class="nt">&lt;/string&gt;</span>
-    <span class="nt">&lt;key&gt;</span>Domain<span class="nt">&lt;/key&gt;</span>
-    <span class="nt">&lt;string&gt;</span>dev-frs11rs2.us.auth0.com<span class="nt">&lt;/string&gt;</span>
-<span class="nt">&lt;/dict&gt;</span>
-<span class="nt">&lt;/plist&gt;</span>
-</code></pre></div>
-
-<p>Done!, once you run your app in either <code>development</code> or <code>production</code> the right config file will be used.</p>
-<h3>Refer:</h3>
-<ul>
-<li><a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps">https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps</a></li>
-</ul><p>There are <a href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html#disqus_thread">comments</a>.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="bookmark"
-                           title="Permalink to iOS Swift - Grand Central Dispatch (2)">iOS Swift - Grand Central Dispatch (2)</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-06-29T13:26:12.554701+07:00">
-                Published: Wed 29 June 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-06-29T13:26:12.554701+07:00">
-                Updated: Wed 29 June 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/ios.html">iOS</a> <a href="https://www.ayavn.us/tag/swift.html">swift</a> <a href="https://www.ayavn.us/tag/gcd.html">gcd</a> <a href="https://www.ayavn.us/tag/dispatch.html">dispatch</a> <a href="https://www.ayavn.us/tag/grand-center-dispatch.html">grand-center-dispatch</a> <a href="https://www.ayavn.us/tag/queue.html">queue</a> <a href="https://www.ayavn.us/tag/dispatch-queue.html">dispatch-queue</a> </p>
-</footer><!-- /.post-info -->                <h1>Grand Central Dispatch (1)</h1>
-<h2>1. Dispatch Groups</h2>
+</footer><!-- /.post-info --><h2>1. Dispatch Groups</h2>
 <ul>
 <li>With Dispatch Groups, you can group together multiple tasks</li>
 <li>You can either wait for them to complete or receive a notification once they finish</li>
 <li>Tasks can be asynchronous or synchronous and can even run on different queues.</li>
 </ul>
-<h2>2. Using dispatch groups with synchronous …</h2>
-                <a class="readmore" href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html">read more</a>
-<p>There are <a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
+<h2>2. Using dispatch groups with synchronous <code>wait()</code> method</h2>
+<div class="highlight"><pre><span></span><code><span class="c1">// 1</span>
+<span class="n">DispatchQueue</span><span class="p">.</span><span class="n">global</span><span class="p">(</span><span class="n">qos</span><span class="p">:</span> <span class="p">.</span><span class="n">userInitiated</span><span class="p">).</span><span class="k">async</span> <span class="p">{</span>
+<span class="kd">var</span> <span class="nv">storedError</span><span class="p">:</span> <span class="bp">NSError</span><span class="p">?</span>
+
+<span class="c1">// 2</span>
+<span class="kd">let</span> <span class="nv">dispatchGroup</span> <span class="p">=</span> <span class="n">DispatchGroup</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="n">address</span> <span class="k">in</span> <span class="p">[</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+<span class="p">]</span> <span class="p">{</span>
+   <span class="k">guard</span> <span class="kd">let</span> <span class="nv">url</span> <span class="p">=</span> <span class="n">URL</span><span class="p">(</span><span class="n">string</span><span class="p">:</span> <span class="n">address</span><span class="p">)</span> <span class="k">else</span> <span class="p">{</span> <span class="k">return</span> <span class="p">}</span>
+
+   <span class="c1">// 3</span>
+   <span class="n">dispatchGroup</span><span class="p">.</span><span class="n">enter</span><span class="p">()</span>
+
+   <span class="kd">let</span> <span class="nv">photo</span> <span class="p">=</span> <span class="n">DownloadRemoteImage</span><span class="p">(</span><span class="n">url</span><span class="p">:</span> <span class="n">url</span><span class="p">)</span> <span class="p">{</span> <span class="kc">_</span><span class="p">,</span> <span class="n">error</span> <span class="k">in</span>
+      <span class="n">storedError</span> <span class="p">=</span> <span class="n">error</span>
+
+      <span class="c1">// 4</span>
+      <span class="n">dispatchGroup</span><span class="p">.</span><span class="n">leave</span><span class="p">()</span>
+   <span class="p">}</span>
+<span class="p">}</span>   
+
+<span class="c1">// 5      </span>
+<span class="n">dispatchGroup</span><span class="p">.</span><span class="n">wait</span><span class="p">()</span>
+
+<span class="c1">// 6</span>
+<span class="n">DispatchQueue</span><span class="p">.</span><span class="n">main</span><span class="p">.</span><span class="k">async</span> <span class="p">{</span>
+   <span class="n">completion</span><span class="p">?(</span><span class="n">storedError</span><span class="p">)</span>
+<span class="p">}</span>   
+<span class="p">}</span>
+</code></pre></div>
+
+<ul>
+<li>
+<p>The synchronous <code>wait</code> method blocks the current thread. Thus, you need to use <code>DispatchQueue.main.async</code> to place the entire method into a background queue. This ensures you don’t block the <code>main thread</code>.</p>
+</li>
+<li>
+<p>Create a new dispatch group.</p>
+</li>
+<li>Call <code>enter()</code> to manually notify the group that a task has started. You must balance out the number of <code>enter()</code> calls with the number of <code>leave()</code> calls, or your app will crash.</li>
+<li>Notify the group that this work is done.</li>
+<li>Call <code>wait()</code> to block the current thread while waiting for tasks’ completion. This waits forever — which is fine because the photos creation task always completes. You can use <code>wait(timeout:)</code> to specify a timeout and bail out on waiting after a specified time.</li>
+<li>At this point, you know that all image tasks have either completed or timed out. You then make a call back to the main queue to run your completion closure.</li>
+</ul>
+<h2>3. Using dispatch groups with asynchronous method (notify(queue:work:))</h2>
+<div class="highlight"><pre><span></span><code><span class="kd">var</span> <span class="nv">storedError</span><span class="p">:</span> <span class="bp">NSError</span><span class="p">?</span>
+
+<span class="c1">// 2</span>
+<span class="kd">let</span> <span class="nv">dispatchGroup</span> <span class="p">=</span> <span class="n">DispatchGroup</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="n">address</span> <span class="k">in</span> <span class="p">[</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+   <span class="s">&quot;https://www.ayavn.us/images/8a2d61ef0eeaef65eb5cf5d82d87cc63603dcdea038f925c95d39b59e221611e.jpg&quot;</span><span class="p">,</span>
+<span class="p">]</span> <span class="p">{</span>
+   <span class="k">guard</span> <span class="kd">let</span> <span class="nv">url</span> <span class="p">=</span> <span class="n">URL</span><span class="p">(</span><span class="n">string</span><span class="p">:</span> <span class="n">address</span><span class="p">)</span> <span class="k">else</span> <span class="p">{</span> <span class="k">return</span> <span class="p">}</span>
+
+   <span class="n">dispatchGroup</span><span class="p">.</span><span class="n">enter</span><span class="p">()</span>
+
+   <span class="kd">let</span> <span class="nv">photo</span> <span class="p">=</span> <span class="n">DownloadRemoteImage</span><span class="p">(</span><span class="n">url</span><span class="p">:</span> <span class="n">url</span><span class="p">)</span> <span class="p">{</span> <span class="kc">_</span><span class="p">,</span> <span class="n">error</span> <span class="k">in</span>
+      <span class="n">storedError</span> <span class="p">=</span> <span class="n">error</span>
+      <span class="n">dispatchGroup</span><span class="p">.</span><span class="n">leave</span><span class="p">()</span>
+   <span class="p">}</span>
+<span class="p">}</span>  
+
+<span class="c1">// 2    </span>
+<span class="n">downloadGroup</span><span class="p">.</span><span class="n">notify</span><span class="p">(</span><span class="n">queue</span><span class="p">:</span> <span class="n">DispatchQueue</span><span class="p">.</span><span class="n">main</span><span class="p">)</span> <span class="p">{</span>
+   <span class="n">completion</span><span class="p">?(</span><span class="n">storedError</span><span class="p">)</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<ul>
+<li>You don’t need to put the method in an async call since you’re not blocking the main thread.</li>
+<li><code>notify(queue:work:)</code> serves as the asynchronous completion closure. It runs when there are no more items left in the group.</li>
+</ul><p>There are <a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
 
             <li><article class="hentry">
                 <header>
@@ -171,12 +185,12 @@ fi
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2022-06-22T15:22:00.564781+07:00">
-                Published: Wed 22 June 2022
+        <abbr class="published" title="2022-07-06T16:10:56.014451+07:00">
+                Published: Wed 06 July 2022
         </abbr>
 		<br />
-        <abbr class="modified" title="2022-06-22T15:22:00.564781+07:00">
-                Updated: Wed 22 June 2022
+        <abbr class="modified" title="2022-07-06T16:10:56.014451+07:00">
+                Updated: Wed 06 July 2022
         </abbr>
 
         <address class="vcard author">
@@ -184,8 +198,7 @@ fi
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/ios.html">iOS</a> <a href="https://www.ayavn.us/tag/swift.html">swift</a> <a href="https://www.ayavn.us/tag/gcd.html">gcd</a> <a href="https://www.ayavn.us/tag/dispatch.html">dispatch</a> <a href="https://www.ayavn.us/tag/grand-center-dispatch.html">grand-center-dispatch</a> <a href="https://www.ayavn.us/tag/queue.html">queue</a> <a href="https://www.ayavn.us/tag/dispatch-queue.html">dispatch-queue</a> </p>
-</footer><!-- /.post-info -->                <h1>Grand Central Dispatch (1)</h1>
-<h3>1. What is Task ?</h3>
+</footer><!-- /.post-info -->                <h3>1. What is Task ?</h3>
 <ul>
 <li>Is code block</li>
 <li>Operates based on FIFO principle</li>
@@ -199,9 +212,40 @@ fi
 <p>#### 3.1 Main Queue
   - For update user interface</p>
 <div class="highlight"><pre><span></span><code><span class="n">DispatchQueue</span><span class="p">.</span><span class="n">main</span><span class="p">.</span><span class="k">async</span><span class="p">()</span> <span class="p">{</span>
-   <span class="c1">//Code Run On Main …</span></code></pre></div>
+   <span class="c1">//Code Run On Main Thread</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<p>#### 3.2 Global …</p>
                 <a class="readmore" href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html">read more</a>
 <p>There are <a href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html" rel="bookmark"
+                           title="Permalink to Auth0 and multiple environments for iOS apps">Auth0 and multiple environments for iOS apps</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-07-06T16:10:09.997995+07:00">
+                Published: Wed 06 July 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-07-06T16:10:09.997995+07:00">
+                Updated: Wed 06 July 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/auth0.html">auth0</a> <a href="https://www.ayavn.us/tag/ios.html">iOS</a> </p>
+</footer><!-- /.post-info -->                <p>One thing that's a little odd about <code>Auth0</code> is that you need to setup an <code>Auth0.plist</code> file to configure the service. This becomes a problem when you want to separate <code>development</code> from <code>production</code> environments where keys are different.</p>
+<p>One trick to solve this requires setting up a “Run Phase …</p>
+                <a class="readmore" href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
                 </section><!-- /#content -->

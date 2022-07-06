@@ -1,127 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-07-06T16:09:57+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>The phone is terrible for cloud gaming</title><link href="https://www.ayavn.us/the-phone-is-terrible-for-cloud-gaming.html" rel="alternate"></link><published>2022-07-06T16:09:57+07:00</published><updated>2022-07-06T16:09:57+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/the-phone-is-terrible-for-cloud-gaming.html</id><summary type="html">&lt;p&gt;The promise of cloud gaming is that you can do it from anywhere using any device with internet access and a good enough&lt;/p&gt;</summary><content type="html">&lt;p&gt;The promise of cloud gaming is that you can do it from anywhere using any device with internet access and a good enough browser (each cloud gaming service seems to have its own requirements on the browser front). You should be able to play super demanding games whether you’re on a work trip with nothing but a work laptop or at home and the main TV is being hogged — or even if you just don’t feel like sitting on the couch. But the biggest promise of cloud gaming is that, no matter where you are, if you’ve got a phone then you’ve got all your games.&lt;/p&gt;
-&lt;p&gt;In practice, this is a bad idea. After spending the last few weeks rapturously using my Steam Deck near daily to play games in the cloud, I am never going to willingly attempt cloud gaming on my phone again. Valve’s enormous do-anything handheld PC has made me realize that, actually, sometimes dedicated gaming hardware is good! The Swiss Army knife approach to mobile gaming promised by cloud gaming on your phone is about as useful as the saw on a real Swiss Army knife. I appreciate the effort, but I don’t actually want to use it.&lt;/p&gt;
-&lt;p&gt;Cloud gaming on your phone is about as useful as the saw on a real Swiss Army knife&lt;/p&gt;
-&lt;p&gt;I’ve tried to make cloud gaming work on my phone &lt;em&gt;a lot.&lt;/em&gt; I’ve attempted &lt;em&gt;Red Dead Redemption 2&lt;/em&gt; and &lt;em&gt;Star Wars Jedi: Fallen Order&lt;/em&gt; and &lt;em&gt;Halo&lt;/em&gt; and &lt;em&gt;Gears of War&lt;/em&gt; and plenty of other games. Each time, I’m hit with wonder because, holy shit, these are demanding AAA games that usually require tons of expensive (and noisy) hardware &lt;em&gt;playing on my phone&lt;/em&gt;. That feels like the delivery on a promise tech companies made me decades ago.&lt;/p&gt;
-&lt;p&gt;But the wonder wears off when you cloud game on your phone for an extended period of time. Cloud gaming drains the phone’s battery quickly, which means you can and will be feeling the battery anxiety. I once thought cloud gaming would be a miracle as I waited for a flight at the airport, but as my phone grew hotter than the sun and the battery ticked down, I found myself more worried about finding somewhere to plug in than the storyline in &lt;em&gt;RDR2&lt;/em&gt;. I still needed my phone to have power the rest of the trip.&lt;/p&gt;
-&lt;p&gt;Cloud gaming also interferes with all the other stuff phones are good for. Notifications from other non-gaming apps make themselves known at the most irritating of times. If your mom calls to check on your flight, you will immediately get kicked out of your game. A friend texts to see when they should pick you up? You’ll have to step out of the game to respond. You can’t even check Instagram without potentially losing your progress in a game and then having to wait as the phone tries to reconnect to the cloud gaming servers.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/stadia_image.jpg" title="stadia_image"&gt;&lt;em&gt;Theoretically this is a cool way to play games. In practice, this is not a cool way to play games.&lt;/em&gt;But the worst part of cloud gaming on a phone is the controls. Most services include an overlay of touchscreen controls. The controls themselves fight for screen real estate, and, if you’re like me and have never gotten the knack for on-screen digital joysticks, you’ll find yourself frustrated. Accessories like the &lt;a href="https://www.theverge.com/21285073/razer-kishi-review-game-controller-phone-price-nintendo-switch-stadia"&gt;Razer Kishi&lt;/a&gt; and &lt;a href="https://www.theverge.com/21525741/backbone-one-iphone-ios-controller-gaming-portable-review"&gt;Backbone&lt;/a&gt; are supposed to make the phone a better tool for that kind of hardcore gaming, and I’ve got a Kishi I’ve gamely used with more than one Android phone, but I still have to remember to actually bring the thing with me. The Kishi isn’t something that just hangs out in my purse or gets automatically added to my pocket when I leave the house. And, if I’m having to remember to bring a whole little controller dongle to make cloud gaming on my phone even remotely enjoyable, then I’m not really actually able to game anywhere at any time. I’d probably just rather have a whole separate device.&lt;/p&gt;
-&lt;p&gt;After my Steam Deck arrived, I was forced to reckon with my affection, but also severe dissatisfaction, with cloud gaming on the phone. For the last two weeks, I’ve been playing &lt;em&gt;Star Wars Jedi: Fallen Order&lt;/em&gt; on Xbox Cloud Gaming on my Steam Deck, and besides feeling the same sense of wonder as when I first cloud gamed on my phone, I also get the bonus of actually liking the experience.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Razer" src="https://www.ayavn.us/images/uploads/2022/07/cfaulkner_220607_5324_0001.jpg" title="cfaulkner_220607_5324_0001"&gt;&lt;em&gt;This is a way to cloud game, but it is not the best way to cloud game.&lt;/em&gt;Instead of being a last resort, cloud gaming feels like a first choice when I’m doing it on the Steam Deck. I can’t wait to get Sony and Nvidia and even Google’s cloud gaming solutions up and running on the thing. The game doesn’t feel crowded. The controls just work. I can plug it in and play while I charge, and if I do run out of battery, I can just... do other things instead of live with the low-key terror of being completely disconnected from the outside world.&lt;/p&gt;
-&lt;p&gt;Do I want something lighter and quieter than the Steam Deck for all my cloud gaming needs? Sure. Phones can already do the work, and with new beefy mobile GPUs on the horizon like ARM’s &lt;a href="https://www.theverge.com/2022/6/28/23186148/arm-immortalis-hardware-ray-tracing-mobile-features-specs"&gt;ray-tracing-capable Immortalis&lt;/a&gt;, the possibility of having a really good mobile gaming solution without the need for custom chips (which both the Nintendo Switch and Steam Deck rely on), feels closer than ever. Companies like &lt;a href="https://www.theverge.com/23026461/ayn-odin-review-android-gaming-handheld"&gt;Ayn&lt;/a&gt; and &lt;a href="https://www.theverge.com/2022/5/19/23125695/steam-deck-onexplayer-aya-neo-gpd-win-max-2"&gt;GPD&lt;/a&gt; are trying to build them. But, if the goal is to just cloud game on the go, I don’t need an Immortalis GPU. When the internet is good, cloud gaming is more than enough for AAA gaming on the go. Which means you don’t need the most powerful GPU or CPU. You just need one that can sip battery and support a nice display, 5G, and rock-solid Wi-Fi.&lt;/p&gt;
-&lt;p&gt;I know such a device sounds a lot like a phone, but it shouldn’t be a phone. It should be its own thing. Because now that I’ve experienced a truly fun mobile cloud gaming experience, I never want to go back to my phone. It’s great for a lot of things — cloud gaming isn’t one of them.&lt;/p&gt;</content><category term="news"></category><category term="CAMERAS AND PHOTOGRAPHY"></category><category term="MOBILE"></category><category term="TECH"></category></entry><entry><title>How to clear your browser cache</title><link href="https://www.ayavn.us/how-to-clear-your-browser-cache.html" rel="alternate"></link><published>2022-07-06T15:49:32+07:00</published><updated>2022-07-06T15:49:32+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/how-to-clear-your-browser-cache.html</id><summary type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
-&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
-&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
-&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless you’ve been instructed sometime in the past to clear your cache, you may be unaware of this otherwise invisible feature.&lt;/p&gt;
-&lt;p&gt;Here’s how to clear your cache on the major browsers and on your Android or iOS devices. We’ve also included instructions on how to clear the data for a single site if you need to.&lt;/p&gt;
-&lt;h2&gt;Chrome&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Check" src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-08-11_am.jpeg" title="screen_shot_2022_07_01_at_10-08-11_am"&gt;&lt;em&gt;Check the cached images and files box.&lt;/em&gt;- Click on the three dots in the upper right corner
-- On the desktop version, select &lt;strong&gt;More Tools &amp;gt; Clear Browsing Data...&lt;/strong&gt; On the mobile app, select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Clear browsing data&lt;/strong&gt;
-- Make sure the &lt;strong&gt;Cached images and files&lt;/strong&gt; box is checked. (You can also choose to clear your browsing history and cookies if you want — click on the Advanced tab if you want to get more specific.)
-- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down menu to choose how far back to go. (In the case of clearing your cache, &lt;strong&gt;All time&lt;/strong&gt; is best.)
-- Click on the &lt;strong&gt;Clear data&lt;/strong&gt; button.&lt;/p&gt;
-&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
-&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Cookies and other site data&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Search for the website’s name in the upper right corner and select the trash can icon to the right.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Safari&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="Clear." src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-30-38_am.jpeg" title="screen_shot_2022_07_01_at_10-30-38_am"&gt;&lt;em&gt;It’s very simple to clear everything out in Safari.&lt;/em&gt;Interestingly, Safari makes it very easy to clear all your data — including cache, browsing history, and cookies — at one blow. But it’s not as obvious if you just want to clear your browser cache.&lt;/p&gt;
-&lt;p&gt;To do it the easy way:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;While you’re in the Safari browser on your desktop, go to the top menu and select &lt;strong&gt;Safari &amp;gt; Clear History...&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Select the time period (last hour, today, today and yesterday, all history) you want to clear and click on &lt;strong&gt;Clear History&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Or, on your iPhone, tap the &lt;strong&gt;Bookmarks&lt;/strong&gt; icon at the bottom of the screen (it looks like an open book) and then on the &lt;strong&gt;History&lt;/strong&gt; icon (the clock).&lt;/li&gt;
-&lt;li&gt;Tap on the &lt;strong&gt;Clear button&lt;/strong&gt; and select your time period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you want to just clear out the browser cache on your web browser, it’s a little more complicated.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Look to see if there is a &lt;strong&gt;Develop&lt;/strong&gt; section in your Safari’s top menu. If not, go to &lt;strong&gt;Safari &amp;gt; Preferences... &amp;gt; Advanced&lt;/strong&gt; and check &lt;strong&gt;Show Develop in menu bar&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Click on &lt;strong&gt;Develop &amp;gt; Empty Caches&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Click on &lt;strong&gt;Safari &amp;gt; Preferences...&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Click the &lt;strong&gt;Privacy&lt;/strong&gt; tab and then &lt;strong&gt;Manage Website Data...&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You’ll get a list of websites. To remove one, click on it and then click &lt;strong&gt;Remove&lt;/strong&gt;. To remove all website data from Safari, click &lt;strong&gt;Remove All&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Microsoft Edge&lt;/h2&gt;
-&lt;p&gt;The Edge browsers for desktop and mobile are different enough, so we’ll describe the process separately.&lt;/p&gt;
-&lt;h3&gt;Desktop browser&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="As" src="https://www.ayavn.us/images/uploads/2022/07/screenshot__309_-1.jpg" title="screenshot__309_-1"&gt;&lt;em&gt;As in Chrome, just check the correct box to empty your cache.&lt;/em&gt;- Click the three dots in the upper right corner
-- Select &lt;strong&gt;Settings &amp;gt; Privacy, search, and services&lt;/strong&gt;
-- Scroll down to &lt;strong&gt;Clear browsing data&lt;/strong&gt; and click on &lt;strong&gt;Choose what to clear&lt;/strong&gt;
-- Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked (and check any other data you want to clear out)
-- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down to select the last hour, last 24 hours, last four weeks, or all time
-- Click on &lt;strong&gt;Clear now&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
-&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Cookies and site permissions &amp;gt; Manage and delete cookies and site data&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Search for the website’s name in the upper right corner or scroll down to find it&lt;/li&gt;
-&lt;li&gt;Click on the “down” arrow next to the site name, and then use the trash can icons to delete the cookies and data.&lt;/li&gt;
-&lt;li&gt;You can also use the buttons on top to &lt;strong&gt;Remove all shown&lt;/strong&gt; or &lt;strong&gt;Remove third-party cookies&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Mobile browser&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="In" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113547-1.jpeg" title="screenshot_20220701_113547-1"&gt;&lt;em&gt;In mobile Edge, click the bottom three dots and then choose Settings.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="You" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113441-1.jpeg" title="screenshot_20220701_113441-1"&gt;&lt;em&gt;You can arrange to have all browsing data cleared on exit.&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Tap on the three dots at the bottom of the screen and select &lt;strong&gt;Settings &amp;gt; Privacy and security&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Select &lt;strong&gt;Clear browsing data&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked, and use the drop-down menu to pick your time range.&lt;/li&gt;
-&lt;li&gt;If you want, you can toggle on &lt;strong&gt;Clear browsing data upon exit&lt;/strong&gt; to clear out all your data each time you exit Edge.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="news"></category><category term="GOOGLE"></category><category term="HOW-TO"></category><category term="WEB"></category></entry><entry><title>Auth0 and multiple environments for iOS apps</title><link href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html" rel="alternate"></link><published>2022-07-06T15:42:00+07:00</published><updated>2022-07-06T15:42:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/auth0-and-multiple-environments-for-ios-apps.html</id><summary type="html">&lt;h1&gt;Auth0 and multiple environments for iOS apps&lt;/h1&gt;
-&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
-&lt;p&gt;One trick to solve …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Auth0 and multiple environments for iOS apps&lt;/h1&gt;
-&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
-&lt;p&gt;One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:&lt;/p&gt;
-&lt;h2&gt;Go to settings&lt;/h2&gt;
-&lt;p&gt;Click on the little + symbol and add the following &lt;code&gt;Run Script&lt;/code&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;RESOURCE_PATH=&lt;span class="nv"&gt;$SRCROOT&lt;/span&gt;/Authentication
-
-FILENAME_IN_BUNDLE=Auth0.plist
-
-BUILD_APP_DIR=&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;BUILT_PRODUCTS_DIR&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;/&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;PRODUCT_NAME&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;.app
-
-if [ &amp;quot;&lt;span class="nv"&gt;$CONFIGURATION&lt;/span&gt;&amp;quot; == &amp;quot;Debug&amp;quot; ]; then
-cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-development.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
-else
-cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-production.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
-fi
+<feed xmlns="http://www.w3.org/2005/Atom"><title>AYAVN</title><link href="https://www.ayavn.us/" rel="alternate"></link><link href="https://www.ayavn.us/feeds/all.atom.xml" rel="self"></link><id>https://www.ayavn.us/</id><updated>2022-07-06T16:11:06+07:00</updated><subtitle>🍻 1 2 3 Yoooooooo, 100 Percents 🍻</subtitle><entry><title>Implementation Universal/AppLink in both iOS and Android</title><link href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html" rel="alternate"></link><published>2022-07-06T16:11:06+07:00</published><updated>2022-07-06T16:11:06+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/implementation-universalapplink-in-both-ios-and-android.html</id><summary type="html">&lt;h2&gt;Android&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/assetlinks.json&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[
+  {
+    &amp;quot;relation&amp;quot;: [&amp;quot;delegate_permission/common.handle_all_urls&amp;quot;],
+    &amp;quot;target&amp;quot;: {
+      &amp;quot;namespace&amp;quot;: &amp;quot;android_app&amp;quot;,
+      &amp;quot;package_name&amp;quot;: &amp;quot;&amp;lt;android-app-package-name&amp;gt;&amp;quot;,
+      &amp;quot;sha256_cert_fingerprints&amp;quot;: [&amp;quot;&amp;lt;android-fingerprint&amp;gt;&amp;quot;]
+    }
+  }
+]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;h2&gt;Create the different files for development and production&lt;/h2&gt;
-&lt;p&gt;Create a folder called “Authentication” to match the script above and add your new configuration files there. One for &lt;code&gt;Auth0-development.plist&lt;/code&gt; and another for &lt;code&gt;Auth0-production.plist&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;They should like something like this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
-&lt;span class="cp"&gt;&amp;lt;!DOCTYPE plist PUBLIC &amp;quot;-//Apple//DTD PLIST 1.0//EN&amp;quot; &amp;quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&amp;quot;&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;plist&lt;/span&gt; &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;1.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;dict&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;ClientId&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;edb274d8c594429b8ccc684d79d771f6&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;Domain&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;dev-frs11rs2.us.auth0.com&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/dict&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/plist&amp;gt;&lt;/span&gt;
+&lt;p&gt;get android-debug-fingerprint from &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add code to &lt;code&gt;android …&lt;/code&gt;&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;h2&gt;Android&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/assetlinks.json&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[
+  {
+    &amp;quot;relation&amp;quot;: [&amp;quot;delegate_permission/common.handle_all_urls&amp;quot;],
+    &amp;quot;target&amp;quot;: {
+      &amp;quot;namespace&amp;quot;: &amp;quot;android_app&amp;quot;,
+      &amp;quot;package_name&amp;quot;: &amp;quot;&amp;lt;android-app-package-name&amp;gt;&amp;quot;,
+      &amp;quot;sha256_cert_fingerprints&amp;quot;: [&amp;quot;&amp;lt;android-fingerprint&amp;gt;&amp;quot;]
+    }
+  }
+]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Done!, once you run your app in either &lt;code&gt;development&lt;/code&gt; or &lt;code&gt;production&lt;/code&gt; the right config file will be used.&lt;/p&gt;
+&lt;p&gt;get android-debug-fingerprint from &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Add code to &lt;code&gt;android/app/src/main/AndroidManifest.xml&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;activity&lt;/span&gt; &lt;span class="err"&gt;...&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+  ...
+  &lt;span class="nt"&gt;&amp;lt;intent-filter&lt;/span&gt; &lt;span class="na"&gt;android:autoVerify=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;action&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.action.VIEW&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;category&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.category.DEFAULT&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;category&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.category.BROWSABLE&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;data&lt;/span&gt;
+        &lt;span class="na"&gt;android:scheme=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:host=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;host&amp;gt;&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:pathPrefix=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;website-path-after-host(if any)&amp;gt;&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+    &lt;span class="cm"&gt;&amp;lt;!-- note that the leading &amp;quot;/&amp;quot; is required for pathPrefix--&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;/intent-filter&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/activity&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Verify website that can be used as universal/app link by entering&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;https://digitalassetlinks.googleapis.com/v1/statements:list?source.web.site=https://&amp;lt;host&amp;gt;&amp;amp;relation=delegate_permission/common.handle_all_urls&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Enter path to assetlinks.json file in flutter project by creating file &lt;code&gt;android/app/src/main/res/values/strings.xml&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;resources&amp;gt;&lt;/span&gt;
+  &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;asset_statements&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;translatable=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;false&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;[{&amp;quot;include&amp;quot;: &amp;quot;https://&lt;span class="nt"&gt;&amp;lt;host&amp;gt;&lt;/span&gt;/.well-known/assetlinks.json&amp;quot;}]&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/resources&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;And add reference to path by &lt;code&gt;android/app/src/main/AndroidManifest.xml&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Test by running &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;adb shell am start -W -a android.intent.action.VIEW -d "https://&amp;lt;host&amp;gt;&amp;lt;website-path-after-host(if any)&amp;gt;"&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;iOS&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/apple-app-site-association&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;{
+  &amp;quot;applinks&amp;quot;: {
+    &amp;quot;apps&amp;quot;: [],
+    &amp;quot;details&amp;quot;: [
+      {
+        &amp;quot;appID&amp;quot;: &amp;quot;&amp;lt;team-id&amp;gt;.&amp;lt;ios-app-package-name&amp;gt;&amp;quot;,
+        &amp;quot;paths&amp;quot;: [
+          &amp;quot;*&amp;quot;
+        ]
+      }
+    ]
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get TEAMID from &lt;code&gt;https://developer.apple.com/account/#/membership&lt;/code&gt; (you need to have apple developer team)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ios-app-package-name&lt;/code&gt; is the app name that is registered in &lt;code&gt;https://developer.apple.com/account/resources/identifiers/list&lt;/code&gt;. The name must be unique. The identifier with the same package name registered must also be configured with &lt;code&gt;Associated domains&lt;/code&gt; enabled.&lt;/li&gt;
+&lt;li&gt;Test by running &lt;code&gt;xcrun simctl openurl booted 'https://&amp;lt;host&amp;gt;&amp;lt;website-path-after-host(if any)&amp;gt;'&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;Refer:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps"&gt;https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="auth0"></category><category term="iOS"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-06-29T13:26:12+07:00</published><updated>2022-06-29T13:26:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-29:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
+&lt;li&gt;&lt;a href="https://morioh.com/p/89f560dcaabd"&gt;https://morioh.com/p/89f560dcaabd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="universal"></category><category term="applink"></category><category term="flutter"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (2)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-2.html" rel="alternate"></link><published>2022-07-06T16:10:59+07:00</published><updated>2022-07-06T16:10:59+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/ios-swift-grand-central-dispatch-2.html</id><summary type="html">&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
 &lt;li&gt;You can either wait for them to complete or receive a notification once they finish&lt;/li&gt;
 &lt;li&gt;Tasks can be asynchronous or synchronous and can even run on different queues.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;2. Using dispatch groups with synchronous …&lt;/h2&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
+&lt;h2&gt;2. Using dispatch groups with synchronous &lt;code&gt;wait()&lt;/code&gt; method&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="c1"&gt;// 1&lt;/span&gt;
+&lt;span class="n"&gt;DispatchQueue …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h2&gt;1. Dispatch Groups&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;With Dispatch Groups, you can group together multiple tasks&lt;/li&gt;
 &lt;li&gt;You can either wait for them to complete or receive a notification once they finish&lt;/li&gt;
@@ -205,8 +190,7 @@ fi
 &lt;ul&gt;
 &lt;li&gt;You don’t need to put the method in an async call since you’re not blocking the main thread.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;notify(queue:work:)&lt;/code&gt; serves as the asynchronous completion closure. It runs when there are no more items left in the group.&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-06-22T15:22:00+07:00</published><updated>2022-06-22T15:22:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-22:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>iOS Swift - Grand Central Dispatch (1)</title><link href="https://www.ayavn.us/ios-swift-grand-central-dispatch-1.html" rel="alternate"></link><published>2022-07-06T16:10:56+07:00</published><updated>2022-07-06T16:10:56+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/ios-swift-grand-central-dispatch-1.html</id><summary type="html">&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Is code block&lt;/li&gt;
 &lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
@@ -220,8 +204,11 @@ fi
 &lt;p&gt;#### 3.1 Main Queue
   - For update user interface&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;DispatchQueue&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;main&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;async&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
-   &lt;span class="c1"&gt;//Code Run On Main …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Grand Central Dispatch (1)&lt;/h1&gt;
-&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
+   &lt;span class="c1"&gt;//Code Run On Main Thread&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;#### 3.2 Global …&lt;/p&gt;</summary><content type="html">&lt;h3&gt;1. What is Task ?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Is code block&lt;/li&gt;
 &lt;li&gt;Operates based on FIFO principle&lt;/li&gt;
@@ -261,292 +248,7 @@ fi
 &lt;span class="c1"&gt;// utility: low priority global queue&lt;/span&gt;
 &lt;span class="c1"&gt;// background: global background queue&lt;/span&gt;
 &lt;span class="c1"&gt;// unspecified: low priority global queue&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>Flutter Enum</title><link href="https://www.ayavn.us/flutter-enum.html" rel="alternate"></link><published>2022-06-20T17:01:57+07:00</published><updated>2022-06-20T17:01:57+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-20:/flutter-enum.html</id><summary type="html">&lt;h1&gt;Flutter Enum&lt;/h1&gt;
-&lt;h4&gt;What is enum ?&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Enum in dart is enumerated, iterable&lt;/li&gt;
-&lt;li&gt;Enum is used for defining named constant values.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;How to use ?&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Synstax&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;enum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;android&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ios&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;windown&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Iterate over enum values&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;values&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;forEach&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;value: &lt;/span&gt;&lt;span class="si"&gt;$&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="s1"&gt;, index: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;index&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Extension enum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="kd"&gt;extension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nc"&gt;PlatformEnumExtension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;on&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="kt"&gt;String&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;get …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Flutter Enum&lt;/h1&gt;
-&lt;h4&gt;What is enum ?&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Enum in dart is enumerated, iterable&lt;/li&gt;
-&lt;li&gt;Enum is used for defining named constant values.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;How to use ?&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Synstax&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;enum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;android&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ios&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;windown&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Iterate over enum values&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;values&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;forEach&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;value: &lt;/span&gt;&lt;span class="si"&gt;$&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="s1"&gt;, index: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;index&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Extension enum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="kd"&gt;extension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nc"&gt;PlatformEnumExtension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;on&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="kt"&gt;String&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;get&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;switch&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Android&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;iOS&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;windown:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Windown&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="enum"></category><category term="extension"></category></entry><entry><title>Flutter online tools</title><link href="https://www.ayavn.us/flutter-online-tools.html" rel="alternate"></link><published>2022-06-17T09:56:30+07:00</published><updated>2022-06-17T09:56:30+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-17:/flutter-online-tools.html</id><summary type="html">&lt;h1&gt;Flutter online tools&lt;/h1&gt;
-&lt;h3&gt;Image:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Remove style tag for SVG image&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;   ════════ &lt;span class="nv"&gt;Exception&lt;/span&gt; &lt;span class="nv"&gt;caught&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; ═══════════════════════════════════════════════
-&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="nv"&gt;following&lt;/span&gt; &lt;span class="nv"&gt;UnimplementedError&lt;/span&gt; &lt;span class="nv"&gt;was&lt;/span&gt; &lt;span class="nv"&gt;thrown&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;parseSvgElement&lt;/span&gt;:
-&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;style&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;element&lt;/span&gt; &lt;span class="nv"&gt;is&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;implemented&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt;.
-
-&lt;span class="nv"&gt;Style&lt;/span&gt; &lt;span class="nv"&gt;elements&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;requested&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;may&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;render&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;intended&lt;/span&gt;.
-
-&lt;span class="k"&gt;If&lt;/span&gt; &lt;span class="nv"&gt;possible&lt;/span&gt;, &lt;span class="nv"&gt;ensure …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Flutter online tools&lt;/h1&gt;
-&lt;h3&gt;Image:&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Remove style tag for SVG image&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;   ════════ &lt;span class="nv"&gt;Exception&lt;/span&gt; &lt;span class="nv"&gt;caught&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; ═══════════════════════════════════════════════
-&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="nv"&gt;following&lt;/span&gt; &lt;span class="nv"&gt;UnimplementedError&lt;/span&gt; &lt;span class="nv"&gt;was&lt;/span&gt; &lt;span class="nv"&gt;thrown&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;parseSvgElement&lt;/span&gt;:
-&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;style&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;element&lt;/span&gt; &lt;span class="nv"&gt;is&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;implemented&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt;.
-
-&lt;span class="nv"&gt;Style&lt;/span&gt; &lt;span class="nv"&gt;elements&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;requested&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;may&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;render&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;intended&lt;/span&gt;.
-
-&lt;span class="k"&gt;If&lt;/span&gt; &lt;span class="nv"&gt;possible&lt;/span&gt;, &lt;span class="nv"&gt;ensure&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;uses&lt;/span&gt; &lt;span class="nv"&gt;inline&lt;/span&gt; &lt;span class="nv"&gt;styles&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;or&lt;/span&gt; &lt;span class="nv"&gt;attributes&lt;/span&gt; &lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;which&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;, &lt;span class="nv"&gt;or&lt;/span&gt; &lt;span class="nv"&gt;use&lt;/span&gt; &lt;span class="nv"&gt;a&lt;/span&gt; &lt;span class="nv"&gt;preprocessing&lt;/span&gt; &lt;span class="nv"&gt;utility&lt;/span&gt; &lt;span class="nv"&gt;such&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;svgcleaner&lt;/span&gt; &lt;span class="nv"&gt;to&lt;/span&gt; &lt;span class="nv"&gt;inline&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;styles&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="nv"&gt;you&lt;/span&gt;.
-&lt;span class="mi"&gt;2&lt;/span&gt;
-
-&lt;span class="nv"&gt;Picture&lt;/span&gt; &lt;span class="nv"&gt;key&lt;/span&gt;: &lt;span class="nv"&gt;AssetBundlePictureKey&lt;/span&gt;&lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;bundle&lt;/span&gt;: &lt;span class="nv"&gt;PlatformAssetBundle&lt;/span&gt;#&lt;span class="nv"&gt;ba1c1&lt;/span&gt;&lt;span class="ss"&gt;()&lt;/span&gt;, &lt;span class="nv"&gt;name&lt;/span&gt;: &lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;&lt;span class="s"&gt;assets/svg/test.svg&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;, &lt;span class="nv"&gt;colorFilter&lt;/span&gt;: &lt;span class="nv"&gt;null&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;
-════════════════════════════════════════════════════════════════════════════════
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href="https://jakearchibald.github.io/svgomg/"&gt;Clean SVG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Note: Enable Remove Style elemets&lt;/code&gt;&lt;/p&gt;
-&lt;h3&gt;Model&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://javiercbk.github.io/json_to_dart/"&gt;Json to Dart&lt;/a&gt;&lt;/p&gt;</content><category term="articles"></category><category term="flutter"></category><category term="tools"></category></entry><entry><title>Flutter Buttons</title><link href="https://www.ayavn.us/flutter-buttons.html" rel="alternate"></link><published>2022-06-14T10:07:28+07:00</published><updated>2022-06-14T10:07:28+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-14:/flutter-buttons.html</id><summary type="html">&lt;h1&gt;Flutter buttons (Flutter v3)&lt;/h1&gt;
-&lt;h3&gt;ElevatedButton&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;()),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;types:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;CircleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BeveledRectangleBorder&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3&gt;OutlinedButton&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3&gt;TextButton:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;You can always use TextButton if you don't want an outline or color fill.&lt;/li&gt;
-&lt;li&gt;Don't forget, there's …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Flutter buttons (Flutter v3)&lt;/h1&gt;
-&lt;h3&gt;ElevatedButton&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;()),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;types:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;CircleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BeveledRectangleBorder&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3&gt;OutlinedButton&lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3&gt;TextButton:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;You can always use TextButton if you don't want an outline or color fill.&lt;/li&gt;
-&lt;li&gt;Don't forget, there's also an &lt;code&gt;.icon&lt;/code&gt; constructor to add an icon easily:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;icon&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;icon:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Icon&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Icons&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thumb_up&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;label:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Like&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;it&amp;#39;s pressed&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nl"&gt;borderRadius:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BorderRadius&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;circular&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;32.0&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="buttons"></category></entry><entry><title>Flutter InAppWebview load css from assets</title><link href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="alternate"></link><published>2022-06-07T16:15:00+07:00</published><updated>2022-06-07T16:15:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-07:/flutter-inappwebview-load-css-from-assets.html</id><summary type="html">&lt;h1&gt;Flutter InAppWebview load css from assets&lt;/h1&gt;
-&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Register css relation path to &lt;code&gt;pubspect.yaml&lt;/code&gt; file.&lt;/li&gt;
-&lt;li&gt;Example: assets/css&lt;/li&gt;
-&lt;li&gt;File: custom.css&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;red&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Flutter InAppWebview load css from assets&lt;/h1&gt;
-&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Register css relation path to &lt;code&gt;pubspect.yaml&lt;/code&gt; file.&lt;/li&gt;
-&lt;li&gt;Example: assets/css&lt;/li&gt;
-&lt;li&gt;File: custom.css&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;red&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt;&lt;span class="n"&gt;injectCSSFileFromAsset&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="nl"&gt;assetFilePath:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;assets/css/custom.css&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt;&lt;span class="n"&gt;injectCSSFileFromAsset&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="nl"&gt;assetFilePath:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;assets/css/custom.css&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="css"></category><category term="style"></category><category term="assets-path"></category></entry><entry><title>Flutter InAppWebview with basic authenication</title><link href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html" rel="alternate"></link><published>2022-06-07T16:14:25+07:00</published><updated>2022-06-07T16:14:25+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-06-07:/flutter-inappwebview-with-basic-authenication.html</id><summary type="html">&lt;h1&gt;Flutter InAppWebview with basic authenication&lt;/h1&gt;
-&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onReceivedHttpAuthRequest:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;challenge&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="c1"&gt;// BASIC AUTHENICATION ACCOUNT …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;Flutter InAppWebview with basic authenication&lt;/h1&gt;
-&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onReceivedHttpAuthRequest:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;challenge&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="c1"&gt;// BASIC AUTHENICATION ACCOUNT&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;username:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;username&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;password:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;password&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;action:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponseAction&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;PROCEED&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="basic-auth"></category></entry><entry><title>[Flutter] Widget to image</title><link href="https://www.ayavn.us/flutter-widget-to-image.html" rel="alternate"></link><published>2022-05-25T17:03:12+07:00</published><updated>2022-05-25T17:03:12+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-25:/flutter-widget-to-image.html</id><summary type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="iOS"></category><category term="swift"></category><category term="gcd"></category><category term="dispatch"></category><category term="grand-center-dispatch"></category><category term="queue"></category><category term="dispatch-queue"></category></entry><entry><title>[Flutter] Widget to image</title><link href="https://www.ayavn.us/flutter-widget-to-image.html" rel="alternate"></link><published>2022-07-06T16:10:47+07:00</published><updated>2022-07-06T16:10:47+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-widget-to-image.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
 
 &lt;span class="n"&gt;RepaintBoundary&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
     &lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
@@ -565,8 +267,7 @@ fi
   &lt;span class="n"&gt;RenderRepaintBoundary&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;currentContext&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;findRenderObject&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
   &lt;span class="n"&gt;ui&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Image&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;boundary&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;toImage&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
   &lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;directory&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;getApplicationDocumentsDirectory&lt;/span&gt;&lt;span class="p"&gt;())&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;path&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-  &lt;span class="n"&gt;ByteData …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;[Flutter] Widget to image&lt;/h1&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+  &lt;span class="n"&gt;ByteData&lt;/span&gt; &lt;span class="n"&gt;byteData&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="k"&gt;await&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;toByteData …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;GlobalKey&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
 
 &lt;span class="n"&gt;RepaintBoundary&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
     &lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;genKey&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
@@ -596,114 +297,14 @@ fi
 &lt;ul&gt;
 &lt;li&gt;Save image to gallery
    &lt;a href="https://pub.dev/packages/gallery_saver"&gt;gallery_saver&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="widget"></category><category term="image"></category><category term="flutter"></category></entry><entry><title>Implementation Universal/AppLink in both iOS and Android</title><link href="https://www.ayavn.us/implementation-universalapplink-in-both-ios-and-android.html" rel="alternate"></link><published>2022-05-19T09:20:55+07:00</published><updated>2022-05-19T09:20:55+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-19:/implementation-universalapplink-in-both-ios-and-android.html</id><summary type="html">&lt;h1&gt;Implementation Universal/AppLink in both iOS and Android&lt;/h1&gt;
-&lt;h2&gt;Android&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/assetlinks.json&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[
-  {
-    &amp;quot;relation&amp;quot;: [&amp;quot;delegate_permission/common.handle_all_urls&amp;quot;],
-    &amp;quot;target&amp;quot;: {
-      &amp;quot;namespace&amp;quot;: &amp;quot;android_app&amp;quot;,
-      &amp;quot;package_name&amp;quot;: &amp;quot;&amp;lt;android-app-package-name&amp;gt;&amp;quot;,
-      &amp;quot;sha256_cert_fingerprints&amp;quot;: [&amp;quot;&amp;lt;android-fingerprint&amp;gt;&amp;quot;]
-    }
-  }
-]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;get android-debug-fingerprint from &lt;/p&gt;
-&lt;p&gt;&lt;code&gt;keytool -exportcert -list -v -alias androiddebugkey …&lt;/code&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Implementation Universal/AppLink in both iOS and Android&lt;/h1&gt;
-&lt;h2&gt;Android&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/assetlinks.json&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;[
-  {
-    &amp;quot;relation&amp;quot;: [&amp;quot;delegate_permission/common.handle_all_urls&amp;quot;],
-    &amp;quot;target&amp;quot;: {
-      &amp;quot;namespace&amp;quot;: &amp;quot;android_app&amp;quot;,
-      &amp;quot;package_name&amp;quot;: &amp;quot;&amp;lt;android-app-package-name&amp;gt;&amp;quot;,
-      &amp;quot;sha256_cert_fingerprints&amp;quot;: [&amp;quot;&amp;lt;android-fingerprint&amp;gt;&amp;quot;]
-    }
-  }
-]
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;get android-debug-fingerprint from &lt;/p&gt;
-&lt;p&gt;&lt;code&gt;keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore&lt;/code&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Add code to &lt;code&gt;android/app/src/main/AndroidManifest.xml&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;activity&lt;/span&gt; &lt;span class="err"&gt;...&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-  ...
-  &lt;span class="nt"&gt;&amp;lt;intent-filter&lt;/span&gt; &lt;span class="na"&gt;android:autoVerify=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;true&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;action&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.action.VIEW&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;category&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.category.DEFAULT&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;category&lt;/span&gt; &lt;span class="na"&gt;android:name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;android.intent.category.BROWSABLE&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;data&lt;/span&gt;
-        &lt;span class="na"&gt;android:scheme=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:host=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;host&amp;gt;&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:pathPrefix=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;website-path-after-host(if any)&amp;gt;&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-    &lt;span class="cm"&gt;&amp;lt;!-- note that the leading &amp;quot;/&amp;quot; is required for pathPrefix--&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;/intent-filter&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/activity&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Verify website that can be used as universal/app link by entering&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;https://digitalassetlinks.googleapis.com/v1/statements:list?source.web.site=https://&amp;lt;host&amp;gt;&amp;amp;relation=delegate_permission/common.handle_all_urls&lt;/code&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Enter path to assetlinks.json file in flutter project by creating file &lt;code&gt;android/app/src/main/res/values/strings.xml&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;resources&amp;gt;&lt;/span&gt;
-  &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;asset_statements&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;translatable=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;false&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;[{&amp;quot;include&amp;quot;: &amp;quot;https://&lt;span class="nt"&gt;&amp;lt;host&amp;gt;&lt;/span&gt;/.well-known/assetlinks.json&amp;quot;}]&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/resources&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;And add reference to path by &lt;code&gt;android/app/src/main/AndroidManifest.xml&lt;/code&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Test by running &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;adb shell am start -W -a android.intent.action.VIEW -d "https://&amp;lt;host&amp;gt;&amp;lt;website-path-after-host(if any)&amp;gt;"&lt;/code&gt;&lt;/p&gt;
-&lt;h2&gt;iOS&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Host a website with https then upload config files: &lt;code&gt;https://your-web-host-name/.well-known/apple-app-site-association&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;{
-  &amp;quot;applinks&amp;quot;: {
-    &amp;quot;apps&amp;quot;: [],
-    &amp;quot;details&amp;quot;: [
-      {
-        &amp;quot;appID&amp;quot;: &amp;quot;&amp;lt;team-id&amp;gt;.&amp;lt;ios-app-package-name&amp;gt;&amp;quot;,
-        &amp;quot;paths&amp;quot;: [
-          &amp;quot;*&amp;quot;
-        ]
-      }
-    ]
-  }
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Get TEAMID from &lt;code&gt;https://developer.apple.com/account/#/membership&lt;/code&gt; (you need to have apple developer team)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;ios-app-package-name&lt;/code&gt; is the app name that is registered in &lt;code&gt;https://developer.apple.com/account/resources/identifiers/list&lt;/code&gt;. The name must be unique. The identifier with the same package name registered must also be configured with &lt;code&gt;Associated domains&lt;/code&gt; enabled.&lt;/li&gt;
-&lt;li&gt;Test by running &lt;code&gt;xcrun simctl openurl booted 'https://&amp;lt;host&amp;gt;&amp;lt;website-path-after-host(if any)&amp;gt;'&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Refer:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://morioh.com/p/89f560dcaabd"&gt;https://morioh.com/p/89f560dcaabd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="universal"></category><category term="applink"></category><category term="flutter"></category></entry><entry><title>[Flutter] Ripple animation</title><link href="https://www.ayavn.us/flutter-ripple-animation.html" rel="alternate"></link><published>2022-05-18T16:37:00+07:00</published><updated>2022-05-18T16:37:00+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-18:/flutter-ripple-animation.html</id><summary type="html">&lt;h1&gt;[Flutter] Ripple animation&lt;/h1&gt;
-&lt;p&gt;It is called Ripple Animation and the key to do it is using &lt;code&gt;scaleTranstion&lt;/code&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="widget"></category><category term="image"></category><category term="flutter"></category></entry><entry><title>[Flutter] Ripple animation</title><link href="https://www.ayavn.us/flutter-ripple-animation.html" rel="alternate"></link><published>2022-07-06T16:10:41+07:00</published><updated>2022-07-06T16:10:41+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-ripple-animation.html</id><summary type="html">&lt;p&gt;It is called Ripple Animation and the key to do it is using &lt;code&gt;scaleTranstion&lt;/code&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RipplesAnimation&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;extends&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StatefulWidget&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;const&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RipplesAnimation&lt;/span&gt;&lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="n"&gt;Key&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;size&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;80.0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;color&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;red&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;onPressed&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;required&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;child&lt;/span&gt;&lt;span class="p"&gt;,})&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;super&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;final&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;double&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;size&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;final&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb nb-Type"&gt;Color&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;color&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;final&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Widget&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;child …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h1&gt;[Flutter] Ripple animation&lt;/h1&gt;
-&lt;p&gt;It is called Ripple Animation and the key to do it is using &lt;code&gt;scaleTranstion&lt;/code&gt;&lt;/p&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;final&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Widget&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;child&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;final&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;VoidCallback&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;onPressed …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;It is called Ripple Animation and the key to do it is using &lt;code&gt;scaleTranstion&lt;/code&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RipplesAnimation&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;extends&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StatefulWidget&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;const&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RipplesAnimation&lt;/span&gt;&lt;span class="p"&gt;({&lt;/span&gt;&lt;span class="n"&gt;Key&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;size&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mf"&gt;80.0&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;color&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Colors&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;red&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;onPressed&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;required&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;this&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;child&lt;/span&gt;&lt;span class="p"&gt;,})&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;super&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;key&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
@@ -779,7 +380,407 @@ fi
 &lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="ripple"></category><category term="animation"></category><category term="flutter"></category></entry><entry><title>Regular Expression to find a string included between two characters while EXCLUDING the delimiters</title><link href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html" rel="alternate"></link><published>2022-05-18T13:43:38+07:00</published><updated>2022-05-18T13:43:38+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-18:/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html</id><summary type="html">&lt;p&gt;Easy done:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="ripple"></category><category term="animation"></category><category term="flutter"></category></entry><entry><title>Flutter online tools</title><link href="https://www.ayavn.us/flutter-online-tools.html" rel="alternate"></link><published>2022-07-06T16:10:35+07:00</published><updated>2022-07-06T16:10:35+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-online-tools.html</id><summary type="html">&lt;h3&gt;Image:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Remove style tag for SVG image&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;   ════════ &lt;span class="nv"&gt;Exception&lt;/span&gt; &lt;span class="nv"&gt;caught&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; ═══════════════════════════════════════════════
+&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="nv"&gt;following&lt;/span&gt; &lt;span class="nv"&gt;UnimplementedError&lt;/span&gt; &lt;span class="nv"&gt;was&lt;/span&gt; &lt;span class="nv"&gt;thrown&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;parseSvgElement&lt;/span&gt;:
+&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;style&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;element&lt;/span&gt; &lt;span class="nv"&gt;is&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;implemented&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt;.
+
+&lt;span class="nv"&gt;Style&lt;/span&gt; &lt;span class="nv"&gt;elements&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;requested&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;may&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;render&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;intended&lt;/span&gt;.
+
+&lt;span class="k"&gt;If&lt;/span&gt; &lt;span class="nv"&gt;possible&lt;/span&gt;, &lt;span class="nv"&gt;ensure&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;uses …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h3&gt;Image:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Remove style tag for SVG image&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;   ════════ &lt;span class="nv"&gt;Exception&lt;/span&gt; &lt;span class="nv"&gt;caught&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; ═══════════════════════════════════════════════
+&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="nv"&gt;following&lt;/span&gt; &lt;span class="nv"&gt;UnimplementedError&lt;/span&gt; &lt;span class="nv"&gt;was&lt;/span&gt; &lt;span class="nv"&gt;thrown&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;parseSvgElement&lt;/span&gt;:
+&lt;span class="nv"&gt;The&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nv"&gt;style&lt;/span&gt;&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;element&lt;/span&gt; &lt;span class="nv"&gt;is&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;implemented&lt;/span&gt; &lt;span class="nv"&gt;in&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt;.
+
+&lt;span class="nv"&gt;Style&lt;/span&gt; &lt;span class="nv"&gt;elements&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt; &lt;span class="nv"&gt;by&lt;/span&gt; &lt;span class="nv"&gt;this&lt;/span&gt; &lt;span class="nv"&gt;library&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;requested&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;may&lt;/span&gt; &lt;span class="nv"&gt;not&lt;/span&gt; &lt;span class="nv"&gt;render&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;intended&lt;/span&gt;.
+
+&lt;span class="k"&gt;If&lt;/span&gt; &lt;span class="nv"&gt;possible&lt;/span&gt;, &lt;span class="nv"&gt;ensure&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;SVG&lt;/span&gt; &lt;span class="nv"&gt;uses&lt;/span&gt; &lt;span class="nv"&gt;inline&lt;/span&gt; &lt;span class="nv"&gt;styles&lt;/span&gt; &lt;span class="nv"&gt;and&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="nv"&gt;or&lt;/span&gt; &lt;span class="nv"&gt;attributes&lt;/span&gt; &lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;which&lt;/span&gt; &lt;span class="nv"&gt;are&lt;/span&gt; &lt;span class="nv"&gt;supported&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;, &lt;span class="nv"&gt;or&lt;/span&gt; &lt;span class="nv"&gt;use&lt;/span&gt; &lt;span class="nv"&gt;a&lt;/span&gt; &lt;span class="nv"&gt;preprocessing&lt;/span&gt; &lt;span class="nv"&gt;utility&lt;/span&gt; &lt;span class="nv"&gt;such&lt;/span&gt; &lt;span class="nv"&gt;as&lt;/span&gt; &lt;span class="nv"&gt;svgcleaner&lt;/span&gt; &lt;span class="nv"&gt;to&lt;/span&gt; &lt;span class="nv"&gt;inline&lt;/span&gt; &lt;span class="nv"&gt;the&lt;/span&gt; &lt;span class="nv"&gt;styles&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="nv"&gt;you&lt;/span&gt;.
+&lt;span class="mi"&gt;2&lt;/span&gt;
+
+&lt;span class="nv"&gt;Picture&lt;/span&gt; &lt;span class="nv"&gt;key&lt;/span&gt;: &lt;span class="nv"&gt;AssetBundlePictureKey&lt;/span&gt;&lt;span class="ss"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;bundle&lt;/span&gt;: &lt;span class="nv"&gt;PlatformAssetBundle&lt;/span&gt;#&lt;span class="nv"&gt;ba1c1&lt;/span&gt;&lt;span class="ss"&gt;()&lt;/span&gt;, &lt;span class="nv"&gt;name&lt;/span&gt;: &lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;&lt;span class="s"&gt;assets/svg/test.svg&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&lt;/span&gt;, &lt;span class="nv"&gt;colorFilter&lt;/span&gt;: &lt;span class="nv"&gt;null&lt;/span&gt;&lt;span class="ss"&gt;)&lt;/span&gt;
+════════════════════════════════════════════════════════════════════════════════
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href="https://jakearchibald.github.io/svgomg/"&gt;Clean SVG&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Note: Enable Remove Style elemets&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Model&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://javiercbk.github.io/json_to_dart/"&gt;Json to Dart&lt;/a&gt;&lt;/p&gt;</content><category term="articles"></category><category term="flutter"></category><category term="tools"></category></entry><entry><title>Flutter InAppWebview load css from assets</title><link href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html" rel="alternate"></link><published>2022-07-06T16:10:32+07:00</published><updated>2022-07-06T16:10:32+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-inappwebview-load-css-from-assets.html</id><summary type="html">&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Register css relation path to &lt;code&gt;pubspect.yaml&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;Example: assets/css&lt;/li&gt;
+&lt;li&gt;File: custom.css&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;red&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt;&lt;span class="n"&gt;injectCSSFileFromAsset&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="nl"&gt;assetFilePath:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;assets …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Register css relation path to &lt;code&gt;pubspect.yaml&lt;/code&gt; file.&lt;/li&gt;
+&lt;li&gt;Example: assets/css&lt;/li&gt;
+&lt;li&gt;File: custom.css&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;body&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;red&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt;&lt;span class="n"&gt;injectCSSFileFromAsset&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="nl"&gt;assetFilePath:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;assets/css/custom.css&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="p"&gt;..&lt;/span&gt;&lt;span class="n"&gt;injectCSSFileFromAsset&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="nl"&gt;assetFilePath:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;assets/css/custom.css&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="css"></category><category term="style"></category><category term="assets-path"></category></entry><entry><title>Flutter InAppWebview with basic authenication</title><link href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html" rel="alternate"></link><published>2022-07-06T16:10:27+07:00</published><updated>2022-07-06T16:10:27+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-inappwebview-with-basic-authenication.html</id><summary type="html">&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onReceivedHttpAuthRequest:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;challenge&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="c1"&gt;// BASIC AUTHENICATION ACCOUNT&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;username:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;username&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;password …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Plugin: &lt;a href="https://pub.dev/packages/flutter_inappwebview"&gt;InAppWebview&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;InAppWebView&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialUrlRequest:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="n"&gt;URLRequest&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;url:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Uri&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;parse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;https://&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;your_url&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;initialOptions:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewGroupOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;crossPlatform:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;InAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;AndroidInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;useHybridComposition:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;IOSInAppWebViewOptions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;allowsInlineMediaPlayback:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onWebViewCreated:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStart:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onLoadStop:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onProgressChanged:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;InAppWebViewController&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;progress&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onReceivedHttpAuthRequest:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;controller&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;challenge&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;async&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="c1"&gt;// BASIC AUTHENICATION ACCOUNT&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponse&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;username:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;username&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;password:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;password&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="nl"&gt;action:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;HttpAuthResponseAction&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;PROCEED&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="inappwebview"></category><category term="basic-auth"></category></entry><entry><title>Flutter Enum</title><link href="https://www.ayavn.us/flutter-enum.html" rel="alternate"></link><published>2022-07-06T16:10:22+07:00</published><updated>2022-07-06T16:10:22+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-enum.html</id><summary type="html">&lt;h4&gt;What is enum ?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Enum in dart is enumerated, iterable&lt;/li&gt;
+&lt;li&gt;Enum is used for defining named constant values.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;How to use ?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Synstax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;enum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;android&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ios&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;windown&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Iterate over enum values&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;values&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;forEach&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;value: &lt;/span&gt;&lt;span class="si"&gt;$&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="s1"&gt;, index: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;index&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extension enum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="kd"&gt;extension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nc"&gt;PlatformEnumExtension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;on&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="kt"&gt;String&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;get&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;switch …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h4&gt;What is enum ?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Enum in dart is enumerated, iterable&lt;/li&gt;
+&lt;li&gt;Enum is used for defining named constant values.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;How to use ?&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Synstax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;enum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;android&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ios&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;windown&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Iterate over enum values&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;values&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;forEach&lt;/span&gt;&lt;span class="p"&gt;((&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;value: &lt;/span&gt;&lt;span class="si"&gt;$&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="s1"&gt;, index: &lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;index&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extension enum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="kd"&gt;extension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nc"&gt;PlatformEnumExtension&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;on&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="kt"&gt;String&lt;/span&gt;&lt;span class="o"&gt;?&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;get&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;title&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="k"&gt;switch&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="k"&gt;this&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;android:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Android&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;ios:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;iOS&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;PlatformEnum&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nl"&gt;windown:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Windown&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;            &lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;                &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="enum"></category><category term="extension"></category></entry><entry><title>Flutter Buttons</title><link href="https://www.ayavn.us/flutter-buttons.html" rel="alternate"></link><published>2022-07-06T16:10:19+07:00</published><updated>2022-07-06T16:10:19+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/flutter-buttons.html</id><summary type="html">&lt;h3&gt;ElevatedButton&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;()),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;types:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;CircleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BeveledRectangleBorder&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;OutlinedButton&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;TextButton:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You can always use TextButton if you don't want an outline or color fill.&lt;/li&gt;
+&lt;li&gt;Don't forget, there's also an &lt;code&gt;.icon&lt;/code&gt; constructor …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h3&gt;ElevatedButton&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;()),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+
+&lt;span class="n"&gt;shape&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;types:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;CircleBorder&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BeveledRectangleBorder&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;OutlinedButton&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{},&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;child:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Button&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;OutlinedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;StadiumBorder&lt;/span&gt;&lt;span class="p"&gt;(),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h3&gt;TextButton:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;You can always use TextButton if you don't want an outline or color fill.&lt;/li&gt;
+&lt;li&gt;Don't forget, there's also an &lt;code&gt;.icon&lt;/code&gt; constructor to add an icon easily:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;icon&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;icon:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Icon&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Icons&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thumb_up&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;label:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;Text&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Like&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;onPressed:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;it&amp;#39;s pressed&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nl"&gt;style:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;ElevatedButton&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;styleFrom&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nl"&gt;shape:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;RoundedRectangleBorder&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nl"&gt;borderRadius:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;BorderRadius&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;circular&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="m"&gt;32.0&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="flutter"></category><category term="buttons"></category></entry><entry><title>Disable indexing Xcode</title><link href="https://www.ayavn.us/disable-indexing-xcode.html" rel="alternate"></link><published>2022-07-06T16:10:13+07:00</published><updated>2022-07-06T16:10:13+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/disable-indexing-xcode.html</id><content type="html">&lt;p&gt;Stopping xcode from indexing
+Just run this command in the terminal to turn off Indexing:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;defaults write com.apple.dt.XCode IDEIndexDisable &lt;span class="m"&gt;1&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;To turn it back on, run this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;defaults write com.apple.dt.XCode IDEIndexDisable &lt;span class="m"&gt;0&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="indexing"></category><category term="xcode"></category></entry><entry><title>Auth0 and multiple environments for iOS apps</title><link href="https://www.ayavn.us/auth0-and-multiple-environments-for-ios-apps.html" rel="alternate"></link><published>2022-07-06T16:10:09+07:00</published><updated>2022-07-06T16:10:09+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/auth0-and-multiple-environments-for-ios-apps.html</id><summary type="html">&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
+&lt;p&gt;One trick to solve this requires setting up a “Run Phase …&lt;/p&gt;</summary><content type="html">&lt;p&gt;One thing that's a little odd about &lt;code&gt;Auth0&lt;/code&gt; is that you need to setup an &lt;code&gt;Auth0.plist&lt;/code&gt; file to configure the service. This becomes a problem when you want to separate &lt;code&gt;development&lt;/code&gt; from &lt;code&gt;production&lt;/code&gt; environments where keys are different.&lt;/p&gt;
+&lt;p&gt;One trick to solve this requires setting up a “Run Phase” that can copy the final .plist at build time. Here's how you do it:&lt;/p&gt;
+&lt;h2&gt;Go to settings&lt;/h2&gt;
+&lt;p&gt;Click on the little + symbol and add the following &lt;code&gt;Run Script&lt;/code&gt;:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;RESOURCE_PATH=&lt;span class="nv"&gt;$SRCROOT&lt;/span&gt;/Authentication
+
+FILENAME_IN_BUNDLE=Auth0.plist
+
+BUILD_APP_DIR=&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;BUILT_PRODUCTS_DIR&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;/&lt;span class="cp"&gt;${&lt;/span&gt;&lt;span class="n"&gt;PRODUCT_NAME&lt;/span&gt;&lt;span class="cp"&gt;}&lt;/span&gt;.app
+
+if [ &amp;quot;&lt;span class="nv"&gt;$CONFIGURATION&lt;/span&gt;&amp;quot; == &amp;quot;Debug&amp;quot; ]; then
+cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-development.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
+else
+cp &lt;span class="nv"&gt;$RESOURCE_PATH&lt;/span&gt;/Auth0-production.plist &lt;span class="nv"&gt;$BUILD_APP_DIR&lt;/span&gt;/&lt;span class="nv"&gt;$FILENAME_IN_BUNDLE&lt;/span&gt;
+fi
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2&gt;Create the different files for development and production&lt;/h2&gt;
+&lt;p&gt;Create a folder called “Authentication” to match the script above and add your new configuration files there. One for &lt;code&gt;Auth0-development.plist&lt;/code&gt; and another for &lt;code&gt;Auth0-production.plist&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;They should like something like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot;?&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;&amp;lt;!DOCTYPE plist PUBLIC &amp;quot;-//Apple//DTD PLIST 1.0//EN&amp;quot; &amp;quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&amp;quot;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;plist&lt;/span&gt; &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;1.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;dict&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;ClientId&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;edb274d8c594429b8ccc684d79d771f6&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;key&amp;gt;&lt;/span&gt;Domain&lt;span class="nt"&gt;&amp;lt;/key&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;dev-frs11rs2.us.auth0.com&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/dict&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/plist&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Done!, once you run your app in either &lt;code&gt;development&lt;/code&gt; or &lt;code&gt;production&lt;/code&gt; the right config file will be used.&lt;/p&gt;
+&lt;h3&gt;Refer:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps"&gt;https://collectednotes.com/alejandro/auth0-and-multiple-environments-for-ios-apps#auth0-and-multiple-environments-for-ios-apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="auth0"></category><category term="iOS"></category></entry><entry><title>The phone is terrible for cloud gaming</title><link href="https://www.ayavn.us/the-phone-is-terrible-for-cloud-gaming.html" rel="alternate"></link><published>2022-07-06T16:09:57+07:00</published><updated>2022-07-06T16:09:57+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/the-phone-is-terrible-for-cloud-gaming.html</id><summary type="html">&lt;p&gt;The promise of cloud gaming is that you can do it from anywhere using any device with internet access and a good enough&lt;/p&gt;</summary><content type="html">&lt;p&gt;The promise of cloud gaming is that you can do it from anywhere using any device with internet access and a good enough browser (each cloud gaming service seems to have its own requirements on the browser front). You should be able to play super demanding games whether you’re on a work trip with nothing but a work laptop or at home and the main TV is being hogged — or even if you just don’t feel like sitting on the couch. But the biggest promise of cloud gaming is that, no matter where you are, if you’ve got a phone then you’ve got all your games.&lt;/p&gt;
+&lt;p&gt;In practice, this is a bad idea. After spending the last few weeks rapturously using my Steam Deck near daily to play games in the cloud, I am never going to willingly attempt cloud gaming on my phone again. Valve’s enormous do-anything handheld PC has made me realize that, actually, sometimes dedicated gaming hardware is good! The Swiss Army knife approach to mobile gaming promised by cloud gaming on your phone is about as useful as the saw on a real Swiss Army knife. I appreciate the effort, but I don’t actually want to use it.&lt;/p&gt;
+&lt;p&gt;Cloud gaming on your phone is about as useful as the saw on a real Swiss Army knife&lt;/p&gt;
+&lt;p&gt;I’ve tried to make cloud gaming work on my phone &lt;em&gt;a lot.&lt;/em&gt; I’ve attempted &lt;em&gt;Red Dead Redemption 2&lt;/em&gt; and &lt;em&gt;Star Wars Jedi: Fallen Order&lt;/em&gt; and &lt;em&gt;Halo&lt;/em&gt; and &lt;em&gt;Gears of War&lt;/em&gt; and plenty of other games. Each time, I’m hit with wonder because, holy shit, these are demanding AAA games that usually require tons of expensive (and noisy) hardware &lt;em&gt;playing on my phone&lt;/em&gt;. That feels like the delivery on a promise tech companies made me decades ago.&lt;/p&gt;
+&lt;p&gt;But the wonder wears off when you cloud game on your phone for an extended period of time. Cloud gaming drains the phone’s battery quickly, which means you can and will be feeling the battery anxiety. I once thought cloud gaming would be a miracle as I waited for a flight at the airport, but as my phone grew hotter than the sun and the battery ticked down, I found myself more worried about finding somewhere to plug in than the storyline in &lt;em&gt;RDR2&lt;/em&gt;. I still needed my phone to have power the rest of the trip.&lt;/p&gt;
+&lt;p&gt;Cloud gaming also interferes with all the other stuff phones are good for. Notifications from other non-gaming apps make themselves known at the most irritating of times. If your mom calls to check on your flight, you will immediately get kicked out of your game. A friend texts to see when they should pick you up? You’ll have to step out of the game to respond. You can’t even check Instagram without potentially losing your progress in a game and then having to wait as the phone tries to reconnect to the cloud gaming servers.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/stadia_image.jpg" title="stadia_image"&gt;&lt;em&gt;Theoretically this is a cool way to play games. In practice, this is not a cool way to play games.&lt;/em&gt;But the worst part of cloud gaming on a phone is the controls. Most services include an overlay of touchscreen controls. The controls themselves fight for screen real estate, and, if you’re like me and have never gotten the knack for on-screen digital joysticks, you’ll find yourself frustrated. Accessories like the &lt;a href="https://www.theverge.com/21285073/razer-kishi-review-game-controller-phone-price-nintendo-switch-stadia"&gt;Razer Kishi&lt;/a&gt; and &lt;a href="https://www.theverge.com/21525741/backbone-one-iphone-ios-controller-gaming-portable-review"&gt;Backbone&lt;/a&gt; are supposed to make the phone a better tool for that kind of hardcore gaming, and I’ve got a Kishi I’ve gamely used with more than one Android phone, but I still have to remember to actually bring the thing with me. The Kishi isn’t something that just hangs out in my purse or gets automatically added to my pocket when I leave the house. And, if I’m having to remember to bring a whole little controller dongle to make cloud gaming on my phone even remotely enjoyable, then I’m not really actually able to game anywhere at any time. I’d probably just rather have a whole separate device.&lt;/p&gt;
+&lt;p&gt;After my Steam Deck arrived, I was forced to reckon with my affection, but also severe dissatisfaction, with cloud gaming on the phone. For the last two weeks, I’ve been playing &lt;em&gt;Star Wars Jedi: Fallen Order&lt;/em&gt; on Xbox Cloud Gaming on my Steam Deck, and besides feeling the same sense of wonder as when I first cloud gamed on my phone, I also get the bonus of actually liking the experience.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Razer" src="https://www.ayavn.us/images/uploads/2022/07/cfaulkner_220607_5324_0001.jpg" title="cfaulkner_220607_5324_0001"&gt;&lt;em&gt;This is a way to cloud game, but it is not the best way to cloud game.&lt;/em&gt;Instead of being a last resort, cloud gaming feels like a first choice when I’m doing it on the Steam Deck. I can’t wait to get Sony and Nvidia and even Google’s cloud gaming solutions up and running on the thing. The game doesn’t feel crowded. The controls just work. I can plug it in and play while I charge, and if I do run out of battery, I can just... do other things instead of live with the low-key terror of being completely disconnected from the outside world.&lt;/p&gt;
+&lt;p&gt;Do I want something lighter and quieter than the Steam Deck for all my cloud gaming needs? Sure. Phones can already do the work, and with new beefy mobile GPUs on the horizon like ARM’s &lt;a href="https://www.theverge.com/2022/6/28/23186148/arm-immortalis-hardware-ray-tracing-mobile-features-specs"&gt;ray-tracing-capable Immortalis&lt;/a&gt;, the possibility of having a really good mobile gaming solution without the need for custom chips (which both the Nintendo Switch and Steam Deck rely on), feels closer than ever. Companies like &lt;a href="https://www.theverge.com/23026461/ayn-odin-review-android-gaming-handheld"&gt;Ayn&lt;/a&gt; and &lt;a href="https://www.theverge.com/2022/5/19/23125695/steam-deck-onexplayer-aya-neo-gpd-win-max-2"&gt;GPD&lt;/a&gt; are trying to build them. But, if the goal is to just cloud game on the go, I don’t need an Immortalis GPU. When the internet is good, cloud gaming is more than enough for AAA gaming on the go. Which means you don’t need the most powerful GPU or CPU. You just need one that can sip battery and support a nice display, 5G, and rock-solid Wi-Fi.&lt;/p&gt;
+&lt;p&gt;I know such a device sounds a lot like a phone, but it shouldn’t be a phone. It should be its own thing. Because now that I’ve experienced a truly fun mobile cloud gaming experience, I never want to go back to my phone. It’s great for a lot of things — cloud gaming isn’t one of them.&lt;/p&gt;</content><category term="news"></category><category term="CAMERAS AND PHOTOGRAPHY"></category><category term="MOBILE"></category><category term="TECH"></category></entry><entry><title>How to clear your browser cache</title><link href="https://www.ayavn.us/how-to-clear-your-browser-cache.html" rel="alternate"></link><published>2022-07-06T15:49:32+07:00</published><updated>2022-07-06T15:49:32+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-07-06:/how-to-clear-your-browser-cache.html</id><summary type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;How to clear your browser cache&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ayavn.us/images/uploads/2022/07/akrales_220617_5293_0024-0.jpg" title="akrales_220617_5293_0024-0"&gt;&lt;/p&gt;
+&lt;p&gt;One of the best ways to restore space to your computer or phone — or to fix a problem that may have been caused by a temporary file screwing up the works — is also one of the simplest: to clear the browser cache. However, unless you’ve been instructed sometime in the past to clear your cache, you may be unaware of this otherwise invisible feature.&lt;/p&gt;
+&lt;p&gt;Here’s how to clear your cache on the major browsers and on your Android or iOS devices. We’ve also included instructions on how to clear the data for a single site if you need to.&lt;/p&gt;
+&lt;h2&gt;Chrome&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Check" src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-08-11_am.jpeg" title="screen_shot_2022_07_01_at_10-08-11_am"&gt;&lt;em&gt;Check the cached images and files box.&lt;/em&gt;- Click on the three dots in the upper right corner
+- On the desktop version, select &lt;strong&gt;More Tools &amp;gt; Clear Browsing Data...&lt;/strong&gt; On the mobile app, select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Clear browsing data&lt;/strong&gt;
+- Make sure the &lt;strong&gt;Cached images and files&lt;/strong&gt; box is checked. (You can also choose to clear your browsing history and cookies if you want — click on the Advanced tab if you want to get more specific.)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down menu to choose how far back to go. (In the case of clearing your cache, &lt;strong&gt;All time&lt;/strong&gt; is best.)
+- Click on the &lt;strong&gt;Clear data&lt;/strong&gt; button.&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Privacy and security &amp;gt; Cookies and other site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner and select the trash can icon to the right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Safari&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Clear." src="https://www.ayavn.us/images/uploads/2022/07/screen_shot_2022_07_01_at_10-30-38_am.jpeg" title="screen_shot_2022_07_01_at_10-30-38_am"&gt;&lt;em&gt;It’s very simple to clear everything out in Safari.&lt;/em&gt;Interestingly, Safari makes it very easy to clear all your data — including cache, browsing history, and cookies — at one blow. But it’s not as obvious if you just want to clear your browser cache.&lt;/p&gt;
+&lt;p&gt;To do it the easy way:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While you’re in the Safari browser on your desktop, go to the top menu and select &lt;strong&gt;Safari &amp;gt; Clear History...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select the time period (last hour, today, today and yesterday, all history) you want to clear and click on &lt;strong&gt;Clear History&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Or, on your iPhone, tap the &lt;strong&gt;Bookmarks&lt;/strong&gt; icon at the bottom of the screen (it looks like an open book) and then on the &lt;strong&gt;History&lt;/strong&gt; icon (the clock).&lt;/li&gt;
+&lt;li&gt;Tap on the &lt;strong&gt;Clear button&lt;/strong&gt; and select your time period.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to just clear out the browser cache on your web browser, it’s a little more complicated.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look to see if there is a &lt;strong&gt;Develop&lt;/strong&gt; section in your Safari’s top menu. If not, go to &lt;strong&gt;Safari &amp;gt; Preferences... &amp;gt; Advanced&lt;/strong&gt; and check &lt;strong&gt;Show Develop in menu bar&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Click on &lt;strong&gt;Develop &amp;gt; Empty Caches&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on &lt;strong&gt;Safari &amp;gt; Preferences...&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Click the &lt;strong&gt;Privacy&lt;/strong&gt; tab and then &lt;strong&gt;Manage Website Data...&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You’ll get a list of websites. To remove one, click on it and then click &lt;strong&gt;Remove&lt;/strong&gt;. To remove all website data from Safari, click &lt;strong&gt;Remove All&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Microsoft Edge&lt;/h2&gt;
+&lt;p&gt;The Edge browsers for desktop and mobile are different enough, so we’ll describe the process separately.&lt;/p&gt;
+&lt;h3&gt;Desktop browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="As" src="https://www.ayavn.us/images/uploads/2022/07/screenshot__309_-1.jpg" title="screenshot__309_-1"&gt;&lt;em&gt;As in Chrome, just check the correct box to empty your cache.&lt;/em&gt;- Click the three dots in the upper right corner
+- Select &lt;strong&gt;Settings &amp;gt; Privacy, search, and services&lt;/strong&gt;
+- Scroll down to &lt;strong&gt;Clear browsing data&lt;/strong&gt; and click on &lt;strong&gt;Choose what to clear&lt;/strong&gt;
+- Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked (and check any other data you want to clear out)
+- Use the &lt;strong&gt;Time range&lt;/strong&gt; drop-down to select the last hour, last 24 hours, last four weeks, or all time
+- Click on &lt;strong&gt;Clear now&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;To clear the data for a specific site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on the three dots on the top right&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Settings &amp;gt; Cookies and site permissions &amp;gt; Manage and delete cookies and site data&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Scroll down and click on &lt;strong&gt;See all cookies and site data.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Search for the website’s name in the upper right corner or scroll down to find it&lt;/li&gt;
+&lt;li&gt;Click on the “down” arrow next to the site name, and then use the trash can icons to delete the cookies and data.&lt;/li&gt;
+&lt;li&gt;You can also use the buttons on top to &lt;strong&gt;Remove all shown&lt;/strong&gt; or &lt;strong&gt;Remove third-party cookies&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Mobile browser&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="In" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113547-1.jpeg" title="screenshot_20220701_113547-1"&gt;&lt;em&gt;In mobile Edge, click the bottom three dots and then choose Settings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="You" src="https://www.ayavn.us/images/uploads/2022/07/screenshot_20220701_113441-1.jpeg" title="screenshot_20220701_113441-1"&gt;&lt;em&gt;You can arrange to have all browsing data cleared on exit.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tap on the three dots at the bottom of the screen and select &lt;strong&gt;Settings &amp;gt; Privacy and security&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Select &lt;strong&gt;Clear browsing data&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Make sure &lt;strong&gt;Cached images and files&lt;/strong&gt; is checked, and use the drop-down menu to pick your time range.&lt;/li&gt;
+&lt;li&gt;If you want, you can toggle on &lt;strong&gt;Clear browsing data upon exit&lt;/strong&gt; to clear out all your data each time you exit Edge.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="news"></category><category term="GOOGLE"></category><category term="HOW-TO"></category><category term="WEB"></category></entry><entry><title>Regular Expression to find a string included between two characters while EXCLUDING the delimiters</title><link href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html" rel="alternate"></link><published>2022-05-18T13:43:38+07:00</published><updated>2022-05-18T13:43:38+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-18:/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html</id><summary type="html">&lt;p&gt;Easy done:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;(?&amp;lt;=\[)(.*?)(?=\])
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
@@ -934,14 +935,6 @@ fi
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://blog.codemagic.io/how-to-improve-the-performance-of-your-flutter-app./"&gt;Codemagic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.androiddeveloper.co.in/blog/top-tips-tricks-speeding-up-flutter-app-development"&gt;Android Developer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="articles"></category><category term="flutter-tips"></category><category term="performance"></category></entry><entry><title>Disable indexing Xcode</title><link href="https://www.ayavn.us/disable-indexing-xcode.html" rel="alternate"></link><published>2022-05-18T13:43:23+07:00</published><updated>2022-05-18T13:43:23+07:00</updated><author><name>Hoang Trong Anh</name></author><id>tag:www.ayavn.us,2022-05-18:/disable-indexing-xcode.html</id><content type="html">&lt;h1&gt;Disable indexing Xcode&lt;/h1&gt;
-&lt;p&gt;Stopping xcode from indexing
-Just run this command in the terminal to turn off Indexing:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;defaults write com.apple.dt.XCode IDEIndexDisable &lt;span class="m"&gt;1&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;To turn it back on, run this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;defaults write com.apple.dt.XCode IDEIndexDisable &lt;span class="m"&gt;0&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="articles"></category><category term="indexing"></category><category term="xcode"></category></entry><entry><title>My First automated blog post</title><link href="https://www.ayavn.us/my-first-automated-blog-post.html" rel="alternate"></link><published>2021-07-10T00:00:00+07:00</published><updated>2022-05-18T10:20:26+07:00</updated><author><name>Me</name></author><id>tag:www.ayavn.us,2021-07-10:/my-first-automated-blog-post.html</id><summary type="html">&lt;p&gt;A guide to configuring automated Continuous Deployment (CD) of static site \&lt;/p&gt;</summary><content type="html">&lt;p&gt;generated by Pelican SSG from GitHub repository to GitHub pages using GitHub Actions&lt;/p&gt;
+&lt;/ul&gt;</content><category term="articles"></category><category term="flutter-tips"></category><category term="performance"></category></entry><entry><title>My First automated blog post</title><link href="https://www.ayavn.us/my-first-automated-blog-post.html" rel="alternate"></link><published>2021-07-10T00:00:00+07:00</published><updated>2022-05-18T10:20:26+07:00</updated><author><name>Me</name></author><id>tag:www.ayavn.us,2021-07-10:/my-first-automated-blog-post.html</id><summary type="html">&lt;p&gt;A guide to configuring automated Continuous Deployment (CD) of static site \&lt;/p&gt;</summary><content type="html">&lt;p&gt;generated by Pelican SSG from GitHub repository to GitHub pages using GitHub Actions&lt;/p&gt;
 &lt;h2&gt;This is my first blog post&lt;/h2&gt;
 &lt;p&gt;And it looks wonderful!&lt;/p&gt;</content><category term="Snippets"></category><category term="github"></category><category term="python"></category><category term="pelican"></category></entry></feed>
