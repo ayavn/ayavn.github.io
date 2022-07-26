@@ -1,0 +1,18 @@
+{
+    "contact_email": "me@ayavn.us",
+    "contact_address": "Vinhomes Westpoint - Do Duc Duc - Nam Tu Liem - Ha Noi",
+    "version": "1.0",
+    "identifiers": [
+      {
+        "name": "TAG-ID",
+        "value": "f08c47fec0942fa0"
+      }
+    ],
+    "sellers": [
+        {
+            "seller_id": "pub-5940716057255059",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 1
+        }
+    ]
+  }
