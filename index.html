@@ -70,7 +70,60 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-easy-use-enum-in-flutter-version-3.html">[Flutter] Easy use enum in flutter version 3</a></h1>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-gradient-text-widget.html">[Flutter] Gradient Text Widget</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-08-02T10:42:53.050747+07:00">
+                Published: Tue 02 August 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-08-02T10:42:53.050747+07:00">
+                Updated: Tue 02 August 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/gradient.html">gradient</a> <a href="https://www.ayavn.us/tag/gradient-text.html">gradient-text</a> <a href="https://www.ayavn.us/tag/widget.html">widget</a> </p>
+</footer><!-- /.post-info --><h3>Gradient Text widget</h3>
+<div class="highlight"><pre><span></span><code><span class="k">import</span><span class="w"> </span><span class="s1">&#39;package:flutter/material.dart&#39;</span><span class="p">;</span><span class="w"></span>
+
+<span class="kd">class</span><span class="w"> </span><span class="nc">GradientText</span><span class="w"> </span><span class="kd">extends</span><span class="w"> </span><span class="n">StatelessWidget</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+<span class="w">  </span><span class="k">const</span><span class="w"> </span><span class="n">GradientText</span><span class="p">(</span><span class="w"></span>
+<span class="w">    </span><span class="k">this</span><span class="p">.</span><span class="n">text</span><span class="p">,</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+<span class="w">    </span><span class="kd">required</span><span class="w"> </span><span class="k">this</span><span class="p">.</span><span class="n">gradient</span><span class="p">,</span><span class="w"></span>
+<span class="w">    </span><span class="k">this</span><span class="p">.</span><span class="n">style</span><span class="p">,</span><span class="w"></span>
+<span class="w">  </span><span class="p">});</span><span class="w"></span>
+
+<span class="w">  </span><span class="kd">final</span><span class="w"> </span><span class="kt">String</span><span class="w"> </span><span class="n">text</span><span class="p">;</span><span class="w"></span>
+<span class="w">  </span><span class="kd">final</span><span class="w"> </span><span class="n">TextStyle</span><span class="o">?</span><span class="w"> </span><span class="n">style</span><span class="p">;</span><span class="w"></span>
+<span class="w">  </span><span class="kd">final</span><span class="w"> </span><span class="n">Gradient</span><span class="w"> </span><span class="n">gradient</span><span class="p">;</span><span class="w"></span>
+
+<span class="w">  </span><span class="nd">@override</span><span class="w"></span>
+<span class="w">  </span><span class="n">Widget</span><span class="w"> </span><span class="n">build</span><span class="p">(</span><span class="n">BuildContext</span><span class="w"> </span><span class="n">context</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+<span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">ShaderMask</span><span class="p">(</span><span class="w"></span>
+<span class="w">      </span><span class="nl">blendMode:</span><span class="w"> </span><span class="n">BlendMode</span><span class="p">.</span><span class="n">srcIn</span><span class="p">,</span><span class="w"></span>
+<span class="w">      </span><span class="nl">shaderCallback:</span><span class="w"> </span><span class="p">(</span><span class="n">bounds</span><span class="p">)</span><span class="w"> </span><span class="o">=&gt;</span><span class="w"> </span><span class="n">gradient</span><span class="p">.</span><span class="n">createShader</span><span class="p">(</span><span class="w"></span>
+<span class="w">        </span><span class="n">Rect</span><span class="p">.</span><span class="n">fromLTWH</span><span class="p">(</span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="m">0</span><span class="p">,</span><span class="w"> </span><span class="n">bounds</span><span class="p">.</span><span class="n">width</span><span class="p">,</span><span class="w"> </span><span class="n">bounds</span><span class="p">.</span><span class="n">height</span><span class="p">),</span><span class="w"></span>
+<span class="w">      </span><span class="p">),</span><span class="w"></span>
+<span class="w">      </span><span class="nl">child:</span><span class="w"> </span><span class="n">Text</span><span class="p">(</span><span class="n">text</span><span class="p">,</span><span class="w"> </span><span class="nl">style:</span><span class="w"> </span><span class="n">style</span><span class="p">),</span><span class="w"></span>
+<span class="w">    </span><span class="p">);</span><span class="w"></span>
+<span class="w">  </span><span class="p">}</span><span class="w"></span>
+<span class="p">}</span><span class="w"></span>
+</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-gradient-text-widget.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/flutter-easy-use-enum-in-flutter-version-3.html" rel="bookmark"
+                           title="Permalink to [Flutter] Easy use enum in flutter version 3">[Flutter] Easy use enum in flutter version 3</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2022-07-13T13:55:29.823526+07:00">
                 Published: Wed 13 July 2022
@@ -85,7 +138,7 @@
         </address>
 <p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
 <p>tags: <a href="https://www.ayavn.us/tag/enum.html">enum</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/flutter3.html">flutter3</a> </p>
-</footer><!-- /.post-info --><div class="highlight"><pre><span></span><code><span class="n">enum</span><span class="w"> </span><span class="n">HogeType</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
+</footer><!-- /.post-info -->                <div class="highlight"><pre><span></span><code><span class="n">enum</span><span class="w"> </span><span class="n">HogeType</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
 <span class="w">  </span><span class="n">hoge</span><span class="p">(</span><span class="s1">&#39;ほげ&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;hoge&#39;</span><span class="p">),</span><span class="w"></span>
 <span class="w">  </span><span class="n">fuga</span><span class="p">(</span><span class="s1">&#39;ふが&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;fuga&#39;</span><span class="p">),</span><span class="w"></span>
 <span class="w">  </span><span class="n">piyo</span><span class="p">(</span><span class="s1">&#39;ぴよ&#39;</span><span class="p">,</span><span class="w"> </span><span class="s1">&#39;piyo&#39;</span><span class="p">),</span><span class="w"></span>
@@ -102,25 +155,10 @@
 <span class="w">      </span><span class="p">(</span><span class="n">value</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
 <span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">value</span><span class="p">.</span><span class="n">type</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">from</span><span class="p">;</span><span class="w"></span>
 <span class="w">      </span><span class="p">},</span><span class="w"></span>
-<span class="w">      </span><span class="nl">orElse:</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">HogeType</span><span class="p">.</span><span class="n">none</span><span class="p">;</span><span class="w"></span>
-<span class="w">      </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="p">);</span><span class="w"></span>
-<span class="w">  </span><span class="p">}</span><span class="w"></span>
-<span class="p">}</span><span class="w"></span>
-
-<span class="kt">void</span><span class="w"> </span><span class="n">hg</span><span class="p">()</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">  </span><span class="n">print</span><span class="p">(</span><span class="n">HogeType</span><span class="p">.</span><span class="n">fromType</span><span class="p">(</span><span class="s1">&#39;hoge&#39;</span><span class="p">));</span><span class="w"></span>
-<span class="w">  </span><span class="c1">//HogeType.hoge</span><span class="w"></span>
-<span class="w">  </span><span class="n">print</span><span class="p">(</span><span class="n">HogeType</span><span class="p">.</span><span class="n">fromType</span><span class="p">(</span><span class="s1">&#39;aa&#39;</span><span class="p">));</span><span class="w"></span>
-<span class="w">  </span><span class="c1">//HogeType.none</span><span class="w"></span>
-<span class="p">}</span><span class="w"></span>
-</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-easy-use-enum-in-flutter-version-3.html#disqus_thread">comments</a>.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<span class="w">      </span><span class="nl">orElse …</span></code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/flutter-easy-use-enum-in-flutter-version-3.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/flutter-easy-use-enum-in-flutter-version-3.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -441,66 +479,11 @@
                 <a class="readmore" href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html">read more</a>
 <p>There are <a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
             </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html" rel="bookmark"
-                           title="Permalink to Flutter InAppWebview with basic authenication">Flutter InAppWebview with basic authenication</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-07-06T16:10:27.383864+07:00">
-                Published: Wed 06 July 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-07-06T16:10:27.383864+07:00">
-                Updated: Wed 06 July 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/basic-auth.html">basic-auth</a> </p>
-</footer><!-- /.post-info -->                <p>Plugin: <a href="https://pub.dev/packages/flutter_inappwebview">InAppWebview</a></p>
-<div class="highlight"><pre><span></span><code><span class="n">InAppWebView</span><span class="p">(</span><span class="w"></span>
-<span class="w">    </span><span class="nl">initialUrlRequest:</span><span class="w"></span>
-<span class="w">        </span><span class="n">URLRequest</span><span class="p">(</span><span class="nl">url:</span><span class="w"> </span><span class="n">Uri</span><span class="p">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;https://</span><span class="si">${</span><span class="n">your_url</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)),</span><span class="w"></span>
-<span class="w">    </span><span class="nl">initialOptions:</span><span class="w"> </span><span class="n">InAppWebViewGroupOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">crossPlatform:</span><span class="w"> </span><span class="n">InAppWebViewOptions</span><span class="p">(),</span><span class="w"></span>
-<span class="w">        </span><span class="nl">android:</span><span class="w"> </span><span class="n">AndroidInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">useHybridComposition:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
-<span class="w">        </span><span class="p">),</span><span class="w"></span>
-<span class="w">        </span><span class="nl">ios:</span><span class="w"> </span><span class="n">IOSInAppWebViewOptions</span><span class="p">(</span><span class="w"></span>
-<span class="w">        </span><span class="nl">allowsInlineMediaPlayback:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w"></span>
-<span class="w">        </span><span class="p">),</span><span class="w"></span>
-<span class="w">    </span><span class="p">),</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onLoadStart:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onLoadStop:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onProgressChanged:</span><span class="w"></span>
-<span class="w">        </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">progress</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">    </span><span class="p">},</span><span class="w"></span>
-<span class="w">    </span><span class="nl">onReceivedHttpAuthRequest:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">challenge</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span><span class="w"></span>
-<span class="w">        </span><span class="c1">// BASIC AUTHENICATION ACCOUNT</span><span class="w"></span>
-<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">HttpAuthResponse</span><span class="p">(</span><span class="w"></span>
-<span class="w">            </span><span class="nl">username:</span><span class="w"> </span><span class="s2">&quot;username&quot;</span><span class="p">,</span><span class="w"></span>
-<span class="w">            </span><span class="nl">password …</span></code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html">read more</a>
-<p>There are <a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
                 </ol><!-- /#posts-list -->
 <p class="paginator">
-    Page 1 / 2
+    Page 1 / 3
         <a href="https://www.ayavn.us/index2.html">&raquo;</a>
-        <a href="https://www.ayavn.us/index2.html">&#8649;</a>
+        <a href="https://www.ayavn.us/index3.html">&#8649;</a>
 </p>
                 </section><!-- /#content -->
         <section id="extras" class="body">
