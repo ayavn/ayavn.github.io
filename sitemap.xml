@@ -6,6 +6,11 @@
 <changefreq>daily</changefreq>
 <priority>1.00</priority>
 </url><url>
+<loc>https://www.ayavn.us/sql-sql-joins.html</loc>
+<lastmod>2022-11-14</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url><url>
 <loc>https://www.ayavn.us/sql-cheat-sheet.html</loc>
 <lastmod>2022-11-14</lastmod>
 <changefreq>weekly</changefreq>
@@ -298,6 +303,11 @@
 </url><url>
 <loc>https://www.ayavn.us/tag/indexing.html</loc>
 <lastmod>2022-07-06</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.40</priority>
+</url><url>
+<loc>https://www.ayavn.us/tag/joins.html</loc>
+<lastmod>2022-11-14</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.40</priority>
 </url><url>
