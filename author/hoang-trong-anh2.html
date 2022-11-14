@@ -72,6 +72,51 @@
                     <ol id="posts-list" class="hfeed" start="9">
             <li><article class="hentry">
                 <header>
+                    <h1><a href="https://www.ayavn.us/flutter-widget-to-image.html" rel="bookmark"
+                           title="Permalink to [Flutter] Widget to image">[Flutter] Widget to image</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-07-06T16:10:47.024191+07:00">
+                Published: Wed 06 July 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-07-06T16:10:47.024191+07:00">
+                Updated: Wed 06 July 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/widget.html">widget</a> <a href="https://www.ayavn.us/tag/image.html">image</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> </p>
+</footer><!-- /.post-info -->                <div class="highlight"><pre><span></span><code><span class="n">final</span> <span class="n">GlobalKey</span> <span class="n">genKey</span> <span class="o">=</span> <span class="n">GlobalKey</span><span class="p">();</span>
+
+<span class="n">RepaintBoundary</span><span class="p">(</span>
+    <span class="n">key</span><span class="p">:</span> <span class="n">genKey</span><span class="p">,</span>
+    <span class="n">child</span><span class="p">:</span> <span class="n">ListTile</span><span class="p">(</span>
+        <span class="n">leading</span><span class="p">:</span> <span class="n">CircleAvatar</span><span class="p">(),</span>
+        <span class="n">title</span><span class="p">:</span> <span class="n">Text</span><span class="p">(</span><span class="s2">&quot;www.ayavn.us&quot;</span><span class="p">),</span>
+    <span class="p">),</span>
+<span class="p">),</span>
+
+
+<span class="c1">### Save image</span>
+
+<span class="kn">import</span> <span class="s1">&#39;package:path_provider/path_provider.dart&#39;</span><span class="p">;</span>
+
+<span class="n">Future</span><span class="o">&lt;</span><span class="n">void</span><span class="o">&gt;</span> <span class="n">takePicture</span><span class="p">()</span> <span class="k">async</span> <span class="p">{</span>
+  <span class="n">RenderRepaintBoundary</span> <span class="n">boundary</span> <span class="o">=</span> <span class="n">genKey</span><span class="o">.</span><span class="n">currentContext</span><span class="o">.</span><span class="n">findRenderObject</span><span class="p">();</span>
+  <span class="n">ui</span><span class="o">.</span><span class="n">Image</span> <span class="n">image</span> <span class="o">=</span> <span class="k">await</span> <span class="n">boundary</span><span class="o">.</span><span class="n">toImage</span><span class="p">();</span>
+  <span class="n">final</span> <span class="n">directory</span> <span class="o">=</span> <span class="p">(</span><span class="k">await</span> <span class="n">getApplicationDocumentsDirectory</span><span class="p">())</span><span class="o">.</span><span class="n">path</span><span class="p">;</span>
+  <span class="n">ByteData</span> <span class="n">byteData</span> <span class="o">=</span> <span class="k">await</span> <span class="n">image</span><span class="o">.</span><span class="n">toByteData …</span></code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/flutter-widget-to-image.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/flutter-widget-to-image.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
                     <h1><a href="https://www.ayavn.us/flutter-ripple-animation.html" rel="bookmark"
                            title="Permalink to [Flutter] Ripple animation">[Flutter] Ripple animation</a></h1>
                 </header>
@@ -443,34 +488,6 @@ Just run this command in the terminal to turn off Indexing:</p>
 <p>Alternatively you …</p>
                 <a class="readmore" href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html">read more</a>
 <p>There are <a href="https://www.ayavn.us/regular-expression-to-find-a-string-included-between-two-characters-while-excluding-the-delimiters.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.ayavn.us/regex-detect-urls-in-string.html" rel="bookmark"
-                           title="Permalink to (Regex) Detect urls in string">(Regex) Detect urls in string</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-05-18T13:43:35.012555+07:00">
-                Published: Wed 18 May 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-05-18T13:43:35.012555+07:00">
-                Updated: Wed 18 May 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
-        </address>
-<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
-<p>tags: <a href="https://www.ayavn.us/tag/dart.html">dart</a> <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/regex.html">regex</a> <a href="https://www.ayavn.us/tag/regex-url.html">regex-url</a> <a href="https://www.ayavn.us/tag/detect-url-in-string.html">detect-url-in-string</a> </p>
-</footer><!-- /.post-info -->                <p>Easy done:</p>
-<div class="highlight"><pre><span></span><code>(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])
-</code></pre></div>
-                <a class="readmore" href="https://www.ayavn.us/regex-detect-urls-in-string.html">read more</a>
-<p>There are <a href="https://www.ayavn.us/regex-detect-urls-in-string.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
 <p class="paginator">
