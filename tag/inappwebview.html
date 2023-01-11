@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="AYAVN" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-4L40QBFNWT"></script>
+        <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() { dataLayer.push(arguments); }
+                gtag('js', new Date());
+
+                gtag('config', 'G-4L40QBFNWT');
+        </script>
+
+        <script async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5940716057255059"
+                crossorigin="anonymous"></script>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NGK3R55');</script>
+        <!-- End Google Tag Manager -->
+        <!-- Favico -->
+        <link rel="apple-touch-icon" sizes="57x57" href="./extra/ico/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="./extra/ico/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="./extra/ico/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="./extra/ico/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="./extra/ico/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="./extra/ico/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="./extra/ico/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="./extra/ico/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="./extra/ico/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="./extra/ico/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="./extra/ico/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="./extra/ico/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="./extra/ico/favicon-16x16.png">
+        <link rel="manifest" href="./extra/ico/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="./extra/ico/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <!-- Favico -->
+        <title>AYAVN - Share technology knowledge - inappwebview</title>
+        <link rel="stylesheet" href="https://www.ayavn.us/static/css/main.css" />
+        <link href="https://www.ayavn.us/feeds/all.atom.xml"
+                type="application/atom+xml" rel="alternate" title="AYAVN - Share technology knowledge Atom Feed" />
+</head>
+
+<body id="index" class="home">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGK3R55" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <header id="banner" class="body">
+                <h1><a href="https://www.ayavn.us/">AYAVN - Share technology knowledge <strong>🍻 1 2 3 Yoo, 100 Percents 🍻</strong></a></h1>
+                <nav>
+                        <ul>
+                                <li><a href="/pages/world-cup.html">WORLD CUP</a></li>
+                                <li><a href="/pages/donate.html">🍻🍻🍻🍻</a></li>
+                                <li><a href="/pages/welcome-to-my-blog.html">About</a></li>
+                                <li><a href="/category/articles.html">Notes</a></li>
+                                <li><a href="/pages/contact.html">Contact me</a></li>
+                                <li><a href="/pages/privacy-policy.html">Policy</a></li>
+                                <li><a href="/pages/terms-and-conditions.html">Terms</a></li>
+                        </ul>
+                </nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html">Flutter InAppWebview load css from assets</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-07-06T16:10:32+07:00">
+                Published: Wed 06 July 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-07-06T16:10:32+07:00">
+                Updated: Wed 06 July 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/css.html">css</a> <a href="https://www.ayavn.us/tag/style.html">style</a> <a href="https://www.ayavn.us/tag/assets-path.html">assets-path</a> </p>
+</footer><!-- /.post-info --><p>Plugin: <a href="https://pub.dev/packages/flutter_inappwebview">InAppWebview</a></p>
+<ul>
+<li>Register css relation path to <code>pubspect.yaml</code> file.</li>
+<li>Example: assets/css</li>
+<li>File: custom.css</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="nt">body</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="k">color</span><span class="p">:</span><span class="w"> </span><span class="kc">red</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div>
+
+<div class="highlight"><pre><span></span><code><span class="n">InAppWebView</span><span class="p">(</span>
+<span class="w">    </span><span class="nl">initialUrlRequest:</span>
+<span class="w">        </span><span class="n">URLRequest</span><span class="p">(</span><span class="nl">url:</span><span class="w"> </span><span class="n">Uri</span><span class="p">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;https://</span><span class="si">${</span><span class="n">your_url</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)),</span>
+<span class="w">    </span><span class="nl">initialOptions:</span><span class="w"> </span><span class="n">InAppWebViewGroupOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">crossPlatform:</span><span class="w"> </span><span class="n">InAppWebViewOptions</span><span class="p">(),</span>
+<span class="w">        </span><span class="nl">android:</span><span class="w"> </span><span class="n">AndroidInAppWebViewOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">useHybridComposition:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">        </span><span class="p">),</span>
+<span class="w">        </span><span class="nl">ios:</span><span class="w"> </span><span class="n">IOSInAppWebViewOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">allowsInlineMediaPlayback:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">        </span><span class="p">),</span>
+<span class="w">    </span><span class="p">),</span>
+<span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onLoadStart:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">controller</span>
+<span class="w">                </span><span class="p">..</span><span class="n">injectCSSFileFromAsset</span><span class="p">(</span>
+<span class="w">                    </span><span class="nl">assetFilePath:</span><span class="w"> </span><span class="s1">&#39;assets/css/custom.css&#39;</span><span class="p">);</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onLoadStop:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="n">controller</span>
+<span class="w">                </span><span class="p">..</span><span class="n">injectCSSFileFromAsset</span><span class="p">(</span>
+<span class="w">                    </span><span class="nl">assetFilePath:</span><span class="w"> </span><span class="s1">&#39;assets/css/custom.css&#39;</span><span class="p">);</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onProgressChanged:</span>
+<span class="w">        </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">progress</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="p">),</span>
+</code></pre></div><p>There are <a href="https://www.ayavn.us/flutter-inappwebview-load-css-from-assets.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html" rel="bookmark"
+                           title="Permalink to Flutter InAppWebview with basic authenication">Flutter InAppWebview with basic authenication</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2022-07-06T16:10:27+07:00">
+                Published: Wed 06 July 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-07-06T16:10:27+07:00">
+                Updated: Wed 06 July 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.ayavn.us/author/hoang-trong-anh.html">Hoang Trong Anh</a>
+        </address>
+<p>In <a href="https://www.ayavn.us/category/articles.html">articles</a>.</p>
+<p>tags: <a href="https://www.ayavn.us/tag/flutter.html">flutter</a> <a href="https://www.ayavn.us/tag/inappwebview.html">inappwebview</a> <a href="https://www.ayavn.us/tag/basic-auth.html">basic-auth</a> </p>
+</footer><!-- /.post-info -->                <p>Plugin: <a href="https://pub.dev/packages/flutter_inappwebview">InAppWebview</a></p>
+<div class="highlight"><pre><span></span><code><span class="n">InAppWebView</span><span class="p">(</span>
+<span class="w">    </span><span class="nl">initialUrlRequest:</span>
+<span class="w">        </span><span class="n">URLRequest</span><span class="p">(</span><span class="nl">url:</span><span class="w"> </span><span class="n">Uri</span><span class="p">.</span><span class="n">parse</span><span class="p">(</span><span class="s1">&#39;https://</span><span class="si">${</span><span class="n">your_url</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)),</span>
+<span class="w">    </span><span class="nl">initialOptions:</span><span class="w"> </span><span class="n">InAppWebViewGroupOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">crossPlatform:</span><span class="w"> </span><span class="n">InAppWebViewOptions</span><span class="p">(),</span>
+<span class="w">        </span><span class="nl">android:</span><span class="w"> </span><span class="n">AndroidInAppWebViewOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">useHybridComposition:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">        </span><span class="p">),</span>
+<span class="w">        </span><span class="nl">ios:</span><span class="w"> </span><span class="n">IOSInAppWebViewOptions</span><span class="p">(</span>
+<span class="w">        </span><span class="nl">allowsInlineMediaPlayback:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span>
+<span class="w">        </span><span class="p">),</span>
+<span class="w">    </span><span class="p">),</span>
+<span class="w">    </span><span class="nl">onWebViewCreated:</span><span class="w"> </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onLoadStart:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onLoadStop:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">url</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span>
+
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onProgressChanged:</span>
+<span class="w">        </span><span class="p">(</span><span class="n">InAppWebViewController</span><span class="w"> </span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="kt">int</span><span class="w"> </span><span class="n">progress</span><span class="p">)</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="p">},</span>
+<span class="w">    </span><span class="nl">onReceivedHttpAuthRequest:</span><span class="w"> </span><span class="p">(</span><span class="n">controller</span><span class="p">,</span><span class="w"> </span><span class="n">challenge</span><span class="p">)</span><span class="w"> </span><span class="kd">async</span><span class="w"> </span><span class="p">{</span>
+<span class="w">        </span><span class="c1">// BASIC AUTHENICATION ACCOUNT</span>
+<span class="w">        </span><span class="k">return</span><span class="w"> </span><span class="n">HttpAuthResponse</span><span class="p">(</span>
+<span class="w">            </span><span class="nl">username:</span><span class="w"> </span><span class="s2">&quot;username&quot;</span><span class="p">,</span>
+<span class="w">            </span><span class="nl">password:</span><span class="w"> </span><span class="s2">&quot;password …</span></code></pre></div>
+                <a class="readmore" href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html">read more</a>
+<p>There are <a href="https://www.ayavn.us/flutter-inappwebview-with-basic-authenication.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
+                </ol><!-- /#posts-list -->
+                </section><!-- /#content -->
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>Links</h2>
+                        <ul>
+                                <li><a href="https://www.ayavn.us/pages/welcome-to-my-blog.html">About me</a></li>
+                                <li><a href="mailto:me@ayavn.us">Email</a></li>
+                                <li><a href="https://www.ayavn.us/pages/donate.html">Donated</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>Social</h2>
+                        <ul>
+                                <li><a href="https://www.ayavn.us/feeds/all.atom.xml"
+                                                type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                                <li><a href="https://github.com/htaptit">Github</a></li>
+                                <li><a href="https://twitter.com/htaptit">Twitter</a></li>
+                                <li><a href="https://www.facebook.com/ayavn.us">Facebook</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                        Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of
+                        <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a
+                                href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing
+                                Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'G-4L40QBFNWT', 'auto');
+    ga('send', 'pageview');
+    </script>
+<script type="text/javascript">
+    var disqus_shortname = 'https-anhqo-codes';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</body>
+
+</html>
